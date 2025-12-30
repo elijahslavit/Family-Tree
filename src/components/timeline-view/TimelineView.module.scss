@@ -1,0 +1,104 @@
+@import '../../styles/variables';
+@import '../../styles/mixins';
+
+.timelineView {
+  min-height: calc(100vh - #{$header-height});
+}
+
+.viewHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+  h2 {
+    font-family: $font-display;
+    font-size: 1.6rem;
+    color: $text-cream;
+    font-weight: 600;
+  }
+}
+
+.timelineContainer {
+  padding: 2rem;
+}
+
+.timeline {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.timelineEvent {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: $border-radius-md;
+  border-left: 4px solid $event-color;
+}
+
+.timelineEvent.birth {
+  border-left-color: $birth-color;
+}
+
+.timelineEvent.death {
+  border-left-color: $death-color;
+}
+
+.timelineEvent.marriage {
+  border-left-color: $marriage-color;
+}
+
+.timelineEventHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.timelineEventType {
+  font-size: 1.5rem;
+}
+
+.timelineEventTitle {
+  flex: 1;
+  font-weight: 600;
+  color: $text-cream;
+}
+
+.timelineEventDate {
+  color: $text-medium;
+  font-size: 0.9rem;
+}
+
+.timelineEventLocation {
+  color: $text-light;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.emptyState {
+  @include flexCenter;
+  flex-direction: column;
+  padding: 4rem 2rem;
+  text-align: center;
+
+  .icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-family: $font-display;
+    color: $text-cream;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    color: $text-medium;
+  }
+}
+
+

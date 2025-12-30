@@ -1,0 +1,123 @@
+@import '../../styles/variables';
+@import '../../styles/mixins';
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(5px);
+  @include flexCenter;
+  z-index: 2000;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.modalContent {
+  background: $bg-dark;
+  border-radius: $border-radius-lg;
+  max-width: 500px;
+  width: 90%;
+  padding: 2rem;
+  position: relative;
+  box-shadow: $shadow-xl;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+
+  h2 {
+    font-family: $font-display;
+    color: $text-cream;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    color: $text-medium;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.modalClose {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 40px;
+  height: 40px;
+  border: none;
+  background: rgba(255, 255, 255, 0.1);
+  color: $text-cream;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border-radius: 50%;
+  @include flexCenter;
+  transition: all 0.3s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: rotate(90deg);
+  }
+}
+
+.uploadArea {
+  border: 2px dashed rgba(255, 255, 255, 0.2);
+  border-radius: $border-radius-md;
+  padding: 3rem 2rem;
+  @include flexCenter;
+  flex-direction: column;
+  gap: 1rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+
+  &:hover,
+  &.dragover {
+    border-color: $primary-light;
+    background: rgba(46, 125, 90, 0.1);
+  }
+}
+
+.uploadIcon {
+  font-size: 4rem;
+  margin-bottom: 0.5rem;
+}
+
+.uploadBtn {
+  padding: 0.75rem 2rem;
+  background: linear-gradient(135deg, $primary 0%, $primary-light 100%);
+  color: white;
+  border-radius: $border-radius-sm;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px $primary-glow;
+  }
+}
+
+.uploadStatus {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: $border-radius-sm;
+  text-align: center;
+
+  &.success {
+    background: rgba(76, 175, 126, 0.2);
+    color: $primary-light;
+  }
+
+  &.error {
+    background: rgba(255, 0, 0, 0.2);
+    color: #ff6b6b;
+  }
+}
+
+

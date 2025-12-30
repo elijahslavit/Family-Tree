@@ -1,0 +1,64 @@
+// Professional Color Palette
+$primary: #2E7D5A;
+$primary-dark: #1D5538;
+$primary-light: #4CAF7E;
+$primary-glow: rgba(46, 125, 90, 0.15);
+
+$secondary: #C19A6B;
+$secondary-dark: #9B7A52;
+$accent: #5B89A6;
+$accent-light: #8DB5CC;
+
+// Modern Neutrals with depth
+$bg-dark: #0A1F1A;
+$bg-darker: #050F0D;
+$bg-gradient-start: #0F2922;
+$bg-gradient-end: #1A3D32;
+
+$glass-bg: rgba(255, 255, 255, 0.08);
+$glass-border: rgba(255, 255, 255, 0.15);
+$glass-hover: rgba(255, 255, 255, 0.12);
+
+$text-white: #FFFFFF;
+$text-cream: #F5F2EE;
+$text-light: #B8C4BC;
+$text-medium: #8A9B92;
+$text-dim: #5C6B63;
+
+// Professional Surfaces
+$surface-elevated: rgba(255, 255, 255, 0.1);
+$surface-card: rgba(255, 255, 255, 0.95);
+$surface-hover: rgba(255, 255, 255, 1);
+
+// Status Colors
+$birth-color: #4CAF7E;
+$death-color: #8B7B7B;
+$marriage-color: #C19A6B;
+$event-color: #5B89A6;
+
+// Professional Shadows
+$shadow-sm: 0 2px 8px rgba(0,0,0,0.1);
+$shadow-md: 0 4px 16px rgba(0,0,0,0.15);
+$shadow-lg: 0 8px 32px rgba(0,0,0,0.2);
+$shadow-xl: 0 12px 48px rgba(0,0,0,0.25);
+$glow: 0 0 20px $primary-glow;
+
+// Typography
+$font-display: 'Playfair Display', Georgia, serif;
+$font-body: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+// Spacing & Layout
+$header-height: 75px;
+$border-radius-sm: 8px;
+$border-radius-md: 12px;
+$border-radius-lg: 20px;
+$border-radius-xl: 28px;
+
+// Spacing
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+
+

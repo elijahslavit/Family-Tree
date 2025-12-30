@@ -1,0 +1,29 @@
+@import '../../styles/variables';
+
+.mapView {
+  min-height: calc(100vh - #{$header-height});
+}
+
+.viewHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+  h2 {
+    font-family: $font-display;
+    font-size: 1.6rem;
+    color: $text-cream;
+    font-weight: 600;
+  }
+}
+
+.mapContainer {
+  width: 100%;
+  height: calc(100vh - #{$header-height} - 80px);
+}
+
+
