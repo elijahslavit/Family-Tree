@@ -76,8 +76,8 @@ class GalleryView {
     render() {
         if (!this.container) return;
 
-        // Get photos from sample data
-        this.photos = SAMPLE_FAMILY_DATA.photos || [];
+        // Get photos from uploaded data
+        this.photos = window.familyDataStore?.media || [];
 
         let filteredPhotos = this.filterPhotos(this.photos);
         filteredPhotos = this.sortPhotos(filteredPhotos);
@@ -89,7 +89,7 @@ class GalleryView {
                 <div class="empty-state">
                     <div class="icon">📷</div>
                     <h3>No photos to display</h3>
-                    <p>Upload photos or adjust your filters to see the gallery.</p>
+                    <p>Upload a GEDCOM file with media to view the photo gallery.</p>
                 </div>
             `;
             return;

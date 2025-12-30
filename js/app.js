@@ -22,7 +22,7 @@ class FamilyTreeApp {
         // Show loading screen
         this.updateLoadingProgress(10);
 
-        // Initialize data store with sample data
+        // Initialize data store (will be populated when user uploads GEDCOM)
         await this.loadData();
         this.updateLoadingProgress(40);
 
@@ -52,11 +52,13 @@ class FamilyTreeApp {
     }
 
     async loadData() {
-        // Load sample data
-        window.familyDataStore.loadSampleData();
+        // Data will be loaded from uploaded GEDCOM files only
+        // No sample data is loaded by default
 
-        // Set default person
-        this.currentPerson = this.defaultPerson;
+        // Only set default person if data has been loaded
+        if (window.familyDataStore.isLoaded && window.familyDataStore.people.length > 0) {
+            this.currentPerson = this.defaultPerson;
+        }
     }
 
     initComponents() {

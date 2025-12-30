@@ -27,8 +27,8 @@ class StoriesView {
     render() {
         if (!this.container) return;
 
-        // Get stories from sample data
-        this.stories = SAMPLE_FAMILY_DATA.stories || [];
+        // Get stories from uploaded data
+        this.stories = window.familyDataStore?.sources || [];
 
         const filteredStories = this.filterStories(this.stories);
 
@@ -39,7 +39,7 @@ class StoriesView {
                 <div class="empty-state">
                     <div class="icon">📖</div>
                     <h3>No stories to display</h3>
-                    <p>Add family stories or adjust your filters.</p>
+                    <p>Upload a GEDCOM file to view family stories and histories.</p>
                 </div>
             `;
             return;
