@@ -1,0 +1,6658 @@
+{
+  "metadata": {
+    "title": "Lathrop-Powell-Bradford Family Tree",
+    "description": "Mayflower descent through Gov. William Bradford and Richard Warren",
+    "totalIndividuals": 227,
+    "totalFamilies": 86,
+    "generatedDate": "2026-01-01",
+    "version": "4.0"
+  },
+  "individuals": {
+    "I1": {
+      "id": "I1",
+      "name": "Rev. John House",
+      "givenName": "John",
+      "surname": "House",
+      "suffix": "",
+      "title": "Rev.",
+      "sex": "M",
+      "birth": {
+        "date": "1572",
+        "place": "Eastwell, Kent, England"
+      },
+      "death": {
+        "date": "BEF 1610"
+      },
+      "burial": {},
+      "occupation": "Minister",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F1"
+      ],
+      "familyAsChild": []
+    },
+    "I10": {
+      "id": "I10",
+      "name": "Samuel Lathrop I",
+      "givenName": "Samuel",
+      "surname": "Lathrop",
+      "suffix": "I",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1622",
+        "place": "Egerton, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Rev. John Lathrop. Father of Samuel Lathrop Jr."
+      ],
+      "familyAsSpouse": [
+        "F4"
+      ],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I100": {
+      "id": "I100",
+      "name": "Levi Lathrop",
+      "givenName": "Levi",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I101": {
+      "id": "I101",
+      "name": "Leonard Lathrop",
+      "givenName": "Leonard",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I102": {
+      "id": "I102",
+      "name": "Beulah Ledet",
+      "givenName": "Beulah",
+      "surname": "Ledet",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I103": {
+      "id": "I103",
+      "name": "Dorothy Falke",
+      "givenName": "Dorothy",
+      "surname": "Falke",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F65"
+      ],
+      "familyAsChild": []
+    },
+    "I104": {
+      "id": "I104",
+      "name": "Dorothy Falke",
+      "givenName": "Dorothy",
+      "surname": "Falke",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Adrian, Michigan",
+      "notes": [
+        "Daughter of Dennis Clay Lathrop and Mabel June Petty."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I105": {
+      "id": "I105",
+      "name": "Phyllis Summers",
+      "givenName": "Phyllis",
+      "surname": "Summers",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I106": {
+      "id": "I106",
+      "name": "Fern Lathrop",
+      "givenName": "Fern",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I107": {
+      "id": "I107",
+      "name": "Elizabeth Messenger",
+      "givenName": "Elizabeth",
+      "surname": "Messenger",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I108": {
+      "id": "I108",
+      "name": "Jessie Lee",
+      "givenName": "Jessie",
+      "surname": "Lee",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I109": {
+      "id": "I109",
+      "name": "Gene Petty",
+      "givenName": "Gene",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I11": {
+      "id": "I11",
+      "name": "Captain Joseph Lathrop",
+      "givenName": "Joseph",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "Captain",
+      "sex": "M",
+      "birth": {
+        "date": "Apr 1624",
+        "place": "Eastwell, Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "Captain",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I110": {
+      "id": "I110",
+      "name": "Ray Petty",
+      "givenName": "Ray",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I111": {
+      "id": "I111",
+      "name": "Dee Petty",
+      "givenName": "Dee",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I112": {
+      "id": "I112",
+      "name": "Harold Petty",
+      "givenName": "Harold",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I113": {
+      "id": "I113",
+      "name": "Benjamin Franklin Smalley",
+      "givenName": "Benjamin Franklin",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F31"
+      ],
+      "familyAsChild": []
+    },
+    "I114": {
+      "id": "I114",
+      "name": "Lucinda Jane Carmody",
+      "givenName": "Lucinda Jane",
+      "surname": "Carmody",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F31"
+      ],
+      "familyAsChild": []
+    },
+    "I115": {
+      "id": "I115",
+      "name": "Ira Smalley",
+      "givenName": "Ira",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I116": {
+      "id": "I116",
+      "name": "Will Smalley",
+      "givenName": "Will",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I117": {
+      "id": "I117",
+      "name": "Ella May Smalley",
+      "givenName": "Ella May",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I118": {
+      "id": "I118",
+      "name": "Mary Smalley",
+      "givenName": "Mary",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I119": {
+      "id": "I119",
+      "name": "Jessie Smalley",
+      "givenName": "Jessie",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I12": {
+      "id": "I12",
+      "name": "Benjamin Lathrop",
+      "givenName": "Benjamin",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "Dec 1626",
+        "place": "Eastwell, Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I120": {
+      "id": "I120",
+      "name": "Glen Smalley",
+      "givenName": "Glen",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F31"
+      ]
+    },
+    "I121": {
+      "id": "I121",
+      "name": "William G. Bailey",
+      "givenName": "William G.",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F32"
+      ],
+      "familyAsChild": []
+    },
+    "I122": {
+      "id": "I122",
+      "name": "Olive Elizabeth Bailey",
+      "givenName": "Olive Elizabeth",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "31 JUL 1902",
+        "place": "Rising Sun, Indiana"
+      },
+      "death": {
+        "date": "1994",
+        "place": "Dearborn, Michigan"
+      },
+      "burial": {},
+      "occupation": "Licensed Practical Nurse",
+      "residence": "",
+      "notes": [
+        "Born July 31, 1902 in Rising Sun, Indiana. Died 1994 in Dearborn, Michigan age 92. PARENTS: Daughter of Edgar U. Bailey and Elizabeth Cofield. OCCUPATION: Licensed Practical Nurse (LPN). CHURCH: Member of Manteno United Methodist Church, Manteno, IL. MARRIAGE: Married McKinley 'Mack' VanGilder. SURVIVORS: Daughter Elizabeth Ann Lathrop (Dearborn MI), sisters Irene and Mildred Bailey (Lawrenceville IL), 14 grandchildren, 27 great-grandchildren. PREDECEASED BY: Husband Mack, one daughter, one son, one stepson, two brothers. Source: FindAGrave memorial 32912563."
+      ],
+      "familyAsSpouse": [
+        "F32",
+        "F65"
+      ],
+      "familyAsChild": []
+    },
+    "I123": {
+      "id": "I123",
+      "name": "Edgar U. Bailey",
+      "givenName": "Edgar U.",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {
+        "date": "5 SEP 1948"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born 1869. Died September 5, 1948 at Good Samaritan Hospital, Vincennes, Indiana. PARENTS: Son of William G. Bailey and Eliza McHenry. OCCUPATIONS: Superintendent of Ice & Cold Storage Co, Lawrenceville, IL. Later operated grocery store. During wartime grew vegetables. MARRIAGE: Married Elizabeth Cofield December 24, 1893. CHILDREN: Orville, Edwin, Mildred, Irene, Olive."
+      ],
+      "familyAsSpouse": [
+        "F34",
+        "F63"
+      ],
+      "familyAsChild": [
+        "F32"
+      ]
+    },
+    "I124": {
+      "id": "I124",
+      "name": "William W. Cofield",
+      "givenName": "William W.",
+      "surname": "Cofield",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F33"
+      ],
+      "familyAsChild": []
+    },
+    "I125": {
+      "id": "I125",
+      "name": "Sarah E. Ray",
+      "givenName": "Sarah E.",
+      "surname": "Ray",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F33"
+      ],
+      "familyAsChild": []
+    },
+    "I126": {
+      "id": "I126",
+      "name": "Elizabeth Cofield",
+      "givenName": "Elizabeth",
+      "surname": "Cofield",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born 1873. Died May 11, 1967 in Lawrenceville, Illinois age 94. PARENTS: Daughter of William W. Cofield and Sarah E. Ray. MARRIAGE: Married Edgar U. Bailey December 24, 1893."
+      ],
+      "familyAsSpouse": [
+        "F34",
+        "F63"
+      ],
+      "familyAsChild": [
+        "F33"
+      ]
+    },
+    "I127": {
+      "id": "I127",
+      "name": "Catherine Susan Wagner",
+      "givenName": "Catherine Susan",
+      "surname": "Wagner",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I128": {
+      "id": "I128",
+      "name": "Genner Sherman Petty",
+      "givenName": "Genner Sherman",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I129": {
+      "id": "I129",
+      "name": "Mary Ann Bunn",
+      "givenName": "Mary Ann",
+      "surname": "Bunn",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I13": {
+      "id": "I13",
+      "name": "Elizabeth Lathrop",
+      "givenName": "Elizabeth",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "place": "Scituate, MA"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F3"
+      ]
+    },
+    "I130": {
+      "id": "I130",
+      "name": "Amanda Wallingford",
+      "givenName": "Amanda",
+      "surname": "Wallingford",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F62"
+      ]
+    },
+    "I14": {
+      "id": "I14",
+      "name": "Barnabas Lathrop",
+      "givenName": "Barnabas",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "Jun 1636",
+        "place": "Barnstable, MA"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F3"
+      ]
+    },
+    "I15": {
+      "id": "I15",
+      "name": "Abigail Lathrop",
+      "givenName": "Abigail",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "2 NOV 1639",
+        "place": "Barnstable, MA"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F3"
+      ]
+    },
+    "I16": {
+      "id": "I16",
+      "name": "Bathsheba Lathrop",
+      "givenName": "Bathsheba",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "Feb 1640/41",
+        "place": "Scituate, MA"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F3"
+      ]
+    },
+    "I17": {
+      "id": "I17",
+      "name": "Captain John Lathrop III",
+      "givenName": "John",
+      "surname": "Peck",
+      "suffix": "III",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "9 FEB 1643",
+        "place": "Barnstable, MA"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "Captain",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F3"
+      ]
+    },
+    "I18": {
+      "id": "I18",
+      "name": "Samuel Lathrop",
+      "givenName": "Samuel",
+      "surname": "Jr",
+      "suffix": "Jr",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Samuel Lathrop I. Father of Samuel Lathrop III."
+      ],
+      "familyAsSpouse": [
+        "F5"
+      ],
+      "familyAsChild": [
+        "F4"
+      ]
+    },
+    "I19": {
+      "id": "I19",
+      "name": "Hannah Adgate",
+      "givenName": "Hannah",
+      "surname": "Adgate",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Samuel Lathrop Jr. Mother of Samuel Lathrop III."
+      ],
+      "familyAsSpouse": [
+        "F5"
+      ],
+      "familyAsChild": []
+    },
+    "I2": {
+      "id": "I2",
+      "name": "Alice Lloyd",
+      "givenName": "Alice",
+      "surname": "Lloyd",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1572",
+        "place": "Eastwell, Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F1",
+        "F64"
+      ],
+      "familyAsChild": []
+    },
+    "I20": {
+      "id": "I20",
+      "name": "Samuel Lathrop III",
+      "givenName": "Samuel",
+      "surname": "Peck",
+      "suffix": "III",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1690"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Samuel Lathrop Jr (II) and Hannah Adgate. MARRIAGE: Deborah Crow on July 24, 1715 in Norwich, New London Co., CT. Wife Deborah was daughter of Nathaniel Crow and Deborah Leffingwell. Several children including Lt. Ezra Lathrop. Source: FindAGrave memorial 167371623."
+      ],
+      "familyAsSpouse": [
+        "F6",
+        "F49"
+      ],
+      "familyAsChild": [
+        "F5"
+      ]
+    },
+    "I21": {
+      "id": "I21",
+      "name": "Deborah Crow",
+      "givenName": "Deborah",
+      "surname": "Crow",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1694",
+        "place": "Hartford, Connecticut"
+      },
+      "death": {
+        "date": "1797"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born circa 1694. Died 1797 age 103. PARENTS: Nathaniel Crow and Deborah Leffingwell of Hartford, Connecticut. MARRIAGE: Samuel Lathrop III on July 24, 1715 in Norwich, New London Co., CT. Six known children including Lt. Ezra Lathrop (ancestor line). Burial location unknown. Source: FindAGrave memorial 167372212."
+      ],
+      "familyAsSpouse": [
+        "F6",
+        "F49"
+      ],
+      "familyAsChild": [
+        "F8"
+      ]
+    },
+    "I22": {
+      "id": "I22",
+      "name": "John Crow",
+      "givenName": "John",
+      "surname": "Crow",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1606",
+        "place": "England"
+      },
+      "death": {
+        "date": "18 JAN 1686",
+        "place": "Hartford, Connecticut"
+      },
+      "burial": {},
+      "occupation": "Merchant, Landowner",
+      "residence": "",
+      "notes": [
+        "Born circa 1606 in England. Died January 18, 1686 in Hartford, CT. EMIGRATION: Came to New England 1634. FIRST WIFE: Married first in England - name unknown. Mother of four or five oldest children born in England. SECOND WIFE: Elizabeth Goodwin (only child of Elder William Goodwin). Married about 1640. LANDOWNER: Largest landholder in Hartford. Owned tract in East Hartford 'extending from near the present Hockanum bridge, north to the neighborhood of Smith's Lane, and running eastward to the end of the three-mile lots.' Crow Hill named for him. BUSINESS: Wealthy merchant. Business partner with father-in-law Elder William Goodwin. HADLEY: One of founders of Hadley, MA 1659 with father-in-law. FREEMAN: Massachusetts 1666. RETURN: Returned to Hartford about 1675. He and wife admitted to South Church March 31, 1678. CHILDREN: Esther (b.1628, m. Giles Hamlin), John (merchant in West India trade, died at sea 1667), Mary (m. Noah Coleman, then Peter Montague), Nathaniel (lived East Hartford, m. Deborah Leffingwell - ancestor line), Elizabeth (b.1644, m. William Warren, then Phineas Wilson - became most extensive banker in Colony after husband's death). NOTE: His sons were dissipated and squandered their property. His daughters married some of the ablest men in the Colony. Source: FamilySearch, 'The Founders of Hartford'."
+      ],
+      "familyAsSpouse": [
+        "F8"
+      ],
+      "familyAsChild": [
+        "F7"
+      ]
+    },
+    "I23": {
+      "id": "I23",
+      "name": "Nathaniel Crow",
+      "givenName": "Nathaniel",
+      "surname": "Crow",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {
+        "date": "30 JUL 1695",
+        "place": "East Hartford, Connecticut"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of John Crow and Elizabeth Goodwin. Lived in East Hartford. Married Deborah Leffingwell."
+      ],
+      "familyAsSpouse": [
+        "F8"
+      ],
+      "familyAsChild": []
+    },
+    "I24": {
+      "id": "I24",
+      "name": "John Crow",
+      "givenName": "John",
+      "surname": "Crow",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1606",
+        "place": "England"
+      },
+      "death": {
+        "date": "18 JAN 1686",
+        "place": "Hartford, Connecticut"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Came to New England 1634. Wealthy merchant. One of founders of Hadley, MA (1659). Owned largest tract of land in Hartford. Business partner with father-in-law Elder William Goodwin."
+      ],
+      "familyAsSpouse": [
+        "F7"
+      ],
+      "familyAsChild": []
+    },
+    "I25": {
+      "id": "I25",
+      "name": "Elizabeth Goodwin",
+      "givenName": "Elizabeth",
+      "surname": "Goodwin",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1620"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Elder William Goodwin. Married John Crow about 1640."
+      ],
+      "familyAsSpouse": [
+        "F7"
+      ],
+      "familyAsChild": [
+        "F9"
+      ]
+    },
+    "I26": {
+      "id": "I26",
+      "name": "Elder William Goodwin",
+      "givenName": "William",
+      "surname": "Goodwin",
+      "suffix": "",
+      "title": "Elder",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1591",
+        "place": "Braintree, Essex, England"
+      },
+      "death": {
+        "date": "11 MAR 1673",
+        "place": "Farmington, Connecticut"
+      },
+      "burial": {},
+      "occupation": "Church Elder",
+      "residence": "",
+      "notes": [
+        "Born circa 1591 in Braintree, Essex, England. Died March 11, 1673 in Farmington, CT. EMIGRATION: Sailed on ship Lyon from London June 22, 1632 with Olmstead, Talcott. Arrived New England September 16, 1632. FREEMAN: Massachusetts Bay Colony November 6, 1632. CHURCH ELDER: Elder of Cambridge (Newtown) church by 1634. At General Court September 3, 1634, 'Mr. Goodwin, a very reverend and godly man, being the elder of the congregation of Newtown' acknowledged fault for 'unreverend speech to one of the assistants.' HARTFORD FOUNDER: Original proprietor of Hartford 1636. Home lot on Main St. from present Wadsworth St. to Arch St. DISPUTANT: Leader of dissenting group with Gov. John Webster that disputed with Rev. Samuel Stone. HADLEY FOUNDER: Led 'the Withdrawers' to found Hadley 1659 after Hartford church controversy. FARMINGTON: Returned to Farmington by 1670 where he died. LAND: Purchased large tracts up the river. Agent to purchase Farmington from Indians. Trustee of Gov. Hopkins' will, helped establish Hopkins Grammar School. EDUCATION: Wrote long and learned letters to John Winthrop Jr. reporting early Hartford happenings. FIRST WIFE: Elizabeth White (married November 7, 1616 in Shalford, Essex) - daughter of Robert White of Messing, sister of Mary White (wife of Joseph Loomis). SECOND WIFE: Susan (Garbrand) Hooker, widow of Rev. Thomas Hooker (married after December 7, 1654). She died Farmington May 17, 1676. Testimony 1674: 'Ozias Goodwin aged 78 years and William Goodwin aged about 45 years testified that Mr. William Goodwin deceased and Mr. John Crow his son-in-law were copartners in their buyings and sellings.' Sources: FamilySearch, FindAGrave memorial 34132400."
+      ],
+      "familyAsSpouse": [
+        "F9"
+      ],
+      "familyAsChild": []
+    },
+    "I27": {
+      "id": "I27",
+      "name": "Elizabeth White",
+      "givenName": "Elizabeth",
+      "surname": "White",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "5 MAR 1591",
+        "place": "Messing, Essex, England"
+      },
+      "death": {
+        "date": "BEF JAN 1670"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Robert White of Messing, Essex. First wife of Elder William Goodwin. Sister of Mary White (wife of Joseph Loomis) and Anna White (wife of John Porter)."
+      ],
+      "familyAsSpouse": [
+        "F9"
+      ],
+      "familyAsChild": []
+    },
+    "I28": {
+      "id": "I28",
+      "name": "Robert White",
+      "givenName": "Robert",
+      "surname": "White",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1597",
+        "place": "Messing, Essex, England"
+      },
+      "death": {
+        "date": "1617"
+      },
+      "burial": {},
+      "occupation": "Yeoman",
+      "residence": "",
+      "notes": [
+        "Rich man. Son of Robert and Bridget Allgar White."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I29": {
+      "id": "I29",
+      "name": "Charity Hodges",
+      "givenName": "Charity",
+      "surname": "Hodges",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born April 5, 1682 in Taunton, Plymouth Colony. Died February 29, 1759 in Middleboro, Plymouth County, Massachusetts. Buried at Thompson Hill Cemetery, Lakeville. PARENTS: Henry Hodges and Esther Gallup. CHURCH: Member of Newent Congregational Church in Lisbon, New London County, Connecticut Colony (admitted 1725). FIRST MARRIAGE: Elkanah Leonard (married March 25, 1703 in Taunton). Ten children born in Middleboro. SECOND MARRIAGE: Captain Jabez Perkins (married December 17, 1722 in Norwich, Connecticut). One child: Charity Perkins (born 1724 Norwich) who married Ezra Lothrop. Jabez Perkins died 1742. Charity eventually moved back to Massachusetts. NOTE ON DEATH DATE: February 29, 1759 problematic as not a leap year. May be transcription or calendar conversion error."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F57"
+      ]
+    },
+    "I3": {
+      "id": "I3",
+      "name": "Hannah House",
+      "givenName": "Hannah",
+      "surname": "House",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1590",
+        "place": "Eastwell, Kent, England"
+      },
+      "death": {
+        "date": "16 FEB 1633"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Died while husband was imprisoned. Daughter of Rev. John House and Alice Lloyd."
+      ],
+      "familyAsSpouse": [
+        "F2"
+      ],
+      "familyAsChild": [
+        "F1",
+        "F64"
+      ]
+    },
+    "I160": {
+      "id": "I160",
+      "name": "William Hodges III",
+      "givenName": "William",
+      "surname": "Hodges",
+      "suffix": "III",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1624",
+        "place": "Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Baptized 1624 in Kent, England. PARENTS: William Hodges II and Alice Symes. Both likely married and William III baptized at same church where John Hill and Frances Tilden came from. WIFE: Mary Andrews (later remarried Peter Pitts after William's death). IMMIGRATION: Arrived Salem, Massachusetts 1638 or 1643 (conflicting records). Went from Salem to Taunton soon after town was purchased - on second list of early settlers. DAUGHTER: Charity Hodges who married (1) Elkanah Leonard, (2) Jabez Perkins. Sources: Abridgement of Genealogical Record of Hodges Family of New England (1954), New England Marriages Prior to 1700 by Torrey, Tyler Index to Parish Registers 1538-1874."
+      ],
+      "familyAsSpouse": [
+        "F57"
+      ],
+      "familyAsChild": [
+        "F56"
+      ]
+    },
+    "I31": {
+      "id": "I31",
+      "name": "Mary Andrews",
+      "givenName": "Mary",
+      "surname": "Andrews",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Married William Hodges. Remarried Peter Pitts after William's death."
+      ],
+      "familyAsSpouse": [
+        "F57"
+      ],
+      "familyAsChild": []
+    },
+    "I32": {
+      "id": "I32",
+      "name": "Jabez Perkins",
+      "givenName": "Jabez",
+      "surname": "Perkins",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "15 MAY 1677",
+        "place": "Ipswich, Massachusetts"
+      },
+      "death": {
+        "date": "29 JAN 1699",
+        "place": "Ipswich, Essex, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born 1677. Died 1742. TITLE: Deacon. PARENTS: Jacob Perkins and Elizabeth. FIRST MARRIAGE: Hannah Lathrop (June 30, 1698). SECOND MARRIAGE: Charity Hodges (widow Leonard) December 17, 1722. One child: Charity Perkins (1724). Confusion exists between Charity (Hodges) Perkins and her daughter Charity Perkins - daughter listed in Vital Records of Norwich as marrying Ezra Lothrop. Source: WikiTree Perkins-611."
+      ],
+      "familyAsSpouse": [
+        "F52"
+      ],
+      "familyAsChild": [
+        "F53"
+      ]
+    },
+    "I33": {
+      "id": "I33",
+      "name": "Deborah Lathrop",
+      "givenName": "Deborah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "9 JAN 1717"
+      },
+      "death": {
+        "date": "4 OCT 1777",
+        "place": "Brooklyn, Windham, Connecticut"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Married (1) Ephraim Avery (9 children), (2) John Gardiner (2 children), (3) Maj. General Israel Putnam (no children)."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F6",
+        "F49"
+      ]
+    },
+    "I34": {
+      "id": "I34",
+      "name": "Elizabeth Lathrop II",
+      "givenName": "Elizabeth",
+      "surname": "",
+      "suffix": "II",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "Jan 1726"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Died young"
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F6",
+        "F49"
+      ]
+    },
+    "I35": {
+      "id": "I35",
+      "name": "Hannah Lathrop",
+      "givenName": "Hannah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "15 JUN 1728"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Died young"
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F6",
+        "F49"
+      ]
+    },
+    "I36": {
+      "id": "I36",
+      "name": "Elkanah Lathrop",
+      "givenName": "Elkanah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "place": "Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Descendant of Rev. John Lathrop. Lived during Revolutionary War. Aided in driving British out after they burned New London."
+      ],
+      "familyAsSpouse": [
+        "F10"
+      ],
+      "familyAsChild": []
+    },
+    "I37": {
+      "id": "I37",
+      "name": "Russell Lathrop",
+      "givenName": "Russell",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "8 JAN 1793",
+        "place": "Fairfax, Franklin County, Vermont"
+      },
+      "death": {
+        "date": "3 SEP 1872",
+        "place": "Richland County, Illinois"
+      },
+      "burial": {
+        "place": "Prairieton Cemetery, Lawrence County, Illinois"
+      },
+      "occupation": "Farmer",
+      "residence": "",
+      "notes": [
+        "Born January 8, 1793 in Fairfax, Franklin County, Vermont. Died September 3, 1872 in Richland County, Illinois age 79. MILITARY SERVICE: War of 1812 veteran. Received 160-acre land grant plus entered additional 40 acres on land warrant. MARRIAGE: Married Cynthia Powell January 12, 1815 in Richford, Vermont. MIGRATION: Moved to Decatur County, Indiana 1837. Moved to Richland County, Illinois 1841. FAMILY BACKGROUND: Son of Elkanah Lathrop, Baptist minister who moved family to Canada. WikiTree profile Lathrop-1438 documents childhood, marriage in Vermont, relocations to Indiana then Illinois, and death."
+      ],
+      "familyAsSpouse": [
+        "F11"
+      ],
+      "familyAsChild": [
+        "F10",
+        "F51"
+      ]
+    },
+    "I38": {
+      "id": "I38",
+      "name": "Rev. Robert Peck III",
+      "givenName": "Robert",
+      "surname": "Peck",
+      "suffix": "III",
+      "title": "Rev.",
+      "sex": "M",
+      "birth": {
+        "date": "1546"
+      },
+      "death": {
+        "date": "1593"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Of Beccles, Suffolk County, England. SOCIAL POSITION: Gentleman or gentry entitled to coat-armor - next to nobility before title of Baronet was given. COAT OF ARMS: Pecks were exceptional among ancestors having coat of arms at time of immigration. WIFE: Helen Babbs, daughter of Nicholas Babbs of Guilford. CHILDREN: Richard (died without issue), Nicholas (m. Rachel daughter of William Young), Robert (Rector at Hingham - ancestor), Joseph (ancestor to America), Margaret, Martha, Samuel. WILL: Dated October 31, 1556, proved November 20, 1556 at Beccles. Requested burial in churchyard near grave of wife Joan."
+      ],
+      "familyAsSpouse": [
+        "F27"
+      ],
+      "familyAsChild": []
+    },
+    "I39": {
+      "id": "I39",
+      "name": "Helen Babbs",
+      "givenName": "Helen",
+      "surname": "Babbs",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Nicholas Babbs of Guilford."
+      ],
+      "familyAsSpouse": [
+        "F27"
+      ],
+      "familyAsChild": []
+    },
+    "I4": {
+      "id": "I4",
+      "name": "Rev. John Lathrop",
+      "givenName": "John",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "Rev.",
+      "sex": "M",
+      "birth": {
+        "date": "20 DEC 1584",
+        "place": "Etton, Yorkshire, England"
+      },
+      "death": {
+        "date": "8 NOV 1653",
+        "place": "Barnstable, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Minister",
+      "residence": "",
+      "notes": [
+        "Baptized December 20, 1584 in Etton, Yorkshire, England. Died November 8, 1653 in Barnstable, MA. EDUCATION: Queens College, Cambridge - matriculated 1601, BA 1605, MA 1609. MINISTRY IN ENGLAND: Curate of parish church in Egerton, Kent from about 1611 to 1623 under Dean and Chapter of St. Paul. SEPARATIST MINISTRY: Succeeded Rev. Henry Jacob as pastor of First Independent Church in London (Southwark, Union St.) 1624. IMPRISONMENT: Arrested April 22, 1632 when pursuivant Tomlinson raided their secret meeting at house of Humphrey Barnet in Black Friars. 42 people seized. Imprisoned in Newgate Prison (the Clink) and Gatehouse. Released spring 1634 on condition of leaving England. WIFE'S DEATH: First wife Hannah House fell ill and died during his imprisonment. He obtained permission from Bishop Laud to visit her before death, commending her to God in prayer. CHILDREN'S APPEAL: His children appealed to Bishop Laud at Lambeth about their condition after mother's death, which contributed to his release. EMIGRATION: Sailed on ship Griffin 1634, arriving Boston September 18, 1634. Settled Scituate September 27, 1634. SCITUATE MINISTRY: Formally chosen minister January 29, 1635 by laying on of hands. Married second wife Anna June 14, 1635. FOUNDER OF BARNSTABLE: Founded Barnstable, MA 1639 with his congregation. First Thanksgiving there December 11, 1639. HOUSE: Built first house where Eldridge's hotel later stood, then more substantial house about 1644 - frame still stands as Sturgis Library. CHARACTER: From Morton's Memorial - 'a man of humble and broken heart spirit, lively in dispensation of the Word of God, studious of peace, furnished with godly contentment.' No applicant to his church was compelled to sign a creed or confession of faith. Children with Hannah House: Thomas (1612), Jane (1614, married Mayflower passenger Samuel Fuller), Anne (1616), John (1617/18), Barbara (1619), Samuel (1622), Joseph (1624), Benjamin (1626)."
+      ],
+      "familyAsSpouse": [
+        "F2",
+        "F3"
+      ],
+      "familyAsChild": []
+    },
+    "I5": {
+      "id": "I5",
+      "name": "Anna Lathrop",
+      "givenName": "Anna",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Second wife of Rev. John Lathrop, married 14 Jun 1635 in Scituate, MA. Mother of his American-born children."
+      ],
+      "familyAsSpouse": [
+        "F3"
+      ],
+      "familyAsChild": []
+    },
+    "I50": {
+      "id": "I50",
+      "name": "Dorothy Hobart",
+      "givenName": "Dorothy",
+      "surname": "Hobart",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F69"
+      ],
+      "familyAsChild": [
+        "F42"
+      ]
+    },
+    "I51": {
+      "id": "I51",
+      "name": "Joseph Truman",
+      "givenName": "Joseph",
+      "surname": "Truman",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Emigrated from England 1666."
+      ],
+      "familyAsSpouse": [
+        "F29"
+      ],
+      "familyAsChild": []
+    },
+    "I52": {
+      "id": "I52",
+      "name": "Elizabeth Truman",
+      "givenName": "Elizabeth",
+      "surname": "Truman",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1661",
+        "place": "Lebanon, New London, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F14"
+      ],
+      "familyAsChild": [
+        "F29"
+      ]
+    },
+    "I53": {
+      "id": "I53",
+      "name": "Ann Warren",
+      "givenName": "Ann",
+      "surname": "Warren",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Richard Warren, Mayflower passenger."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F39"
+      ]
+    },
+    "I54": {
+      "id": "I54",
+      "name": "Lydia Huckstep",
+      "givenName": "Lydia",
+      "surname": "Huckstep",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1587",
+        "place": "Tenterden, Kent, England"
+      },
+      "death": {
+        "date": "31 JUL 1672",
+        "place": "Scituate, Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F36"
+      ],
+      "familyAsChild": [
+        "F38"
+      ]
+    },
+    "I55": {
+      "id": "I55",
+      "name": "Rowland Powell II",
+      "givenName": "Rowland",
+      "surname": "",
+      "suffix": "II",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1630",
+        "place": "England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F13"
+      ],
+      "familyAsChild": []
+    },
+    "I56": {
+      "id": "I56",
+      "name": "Isabel Buxton",
+      "givenName": "Isabel",
+      "surname": "Buxton",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F13"
+      ],
+      "familyAsChild": []
+    },
+    "I57": {
+      "id": "I57",
+      "name": "Rowland Powell III",
+      "givenName": "Rowland",
+      "surname": "Peck",
+      "suffix": "III",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "9 FEB 1658",
+        "place": "Gloucester, Essex, Massachusetts"
+      },
+      "death": {
+        "date": "Jun 1712",
+        "place": "Lebanon, New London, Connecticut"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born circa 1690 in Lebanon, New London County, Connecticut. Died circa 1732 in Lebanon, Connecticut. PARENTS: Rowland Powell II and Elizabeth Truman. WIFE: Mary Tilden, daughter of Stephen Tilden and Mary Powell. (Note: Mary Tilden's second husband was David Lee). Connection documented in Mayflower 'Silver Book.' Source: FindAGrave memorial 63180179."
+      ],
+      "familyAsSpouse": [
+        "F14",
+        "F15"
+      ],
+      "familyAsChild": [
+        "F13"
+      ]
+    },
+    "I58": {
+      "id": "I58",
+      "name": "Stephen Tilden",
+      "givenName": "Stephen",
+      "surname": "Tilden",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1632"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F35"
+      ],
+      "familyAsChild": [
+        "F36"
+      ]
+    },
+    "I59": {
+      "id": "I59",
+      "name": "Mary Ann Tilden",
+      "givenName": "Mary Ann",
+      "surname": "Tilden",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "7 MAY 1660",
+        "place": "Gloucester, Massachusetts"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F15"
+      ],
+      "familyAsChild": [
+        "F35"
+      ]
+    },
+    "I6": {
+      "id": "I6",
+      "name": "Jane Lathrop",
+      "givenName": "Jane",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "29 SEP 1614",
+        "place": "Egerton, Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Married Mayflower passenger Samuel Fuller, son of Edward Fuller."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I60": {
+      "id": "I60",
+      "name": "William Bradford I",
+      "givenName": "William",
+      "surname": "Bradford",
+      "suffix": "I",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1559",
+        "place": "Austerfield, Yorkshire, England"
+      },
+      "death": {
+        "date": "1591"
+      },
+      "burial": {},
+      "occupation": "Yeoman",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F17"
+      ],
+      "familyAsChild": []
+    },
+    "I61": {
+      "id": "I61",
+      "name": "Alice Hanson",
+      "givenName": "Alice",
+      "surname": "Hanson",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F17"
+      ],
+      "familyAsChild": []
+    },
+    "I62": {
+      "id": "I62",
+      "name": "Governor William Bradford",
+      "givenName": "William",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "Governor",
+      "sex": "M",
+      "birth": {
+        "date": "19 MAR 1590",
+        "place": "Austerfield, Yorkshire, England"
+      },
+      "death": {
+        "date": "9 MAY 1657",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Governor",
+      "residence": "",
+      "notes": [
+        "Born March 19, 1590 in Austerfield, Yorkshire, England. Died May 9, 1657 in Plymouth, MA. MAYFLOWER: Passenger on Mayflower 1620. One of 41 signers of Mayflower Compact. GOVERNORSHIP: Governor of Plymouth Colony over 30 years total (1621-1632, 1635, 1637, 1639-1643, 1645-1656). AUTHOR: Wrote 'Of Plymouth Plantation' 1620-1647, foundational history of Plymouth Colony. THANKSGIVING: Credited as first civil authority to designate what became traditional American Thanksgiving. EARLY LIFE: Orphaned young - father died when he was 1, grandfather at 6, mother at 7. Lived with uncles. Inspired by Rev. Richard Clyfton's sermons at age 12. SEPARATIST: Joined Separatists meeting at Scrooby Manor 1607. Attempted escape to Netherlands 1607 but betrayed and briefly imprisoned. NETHERLANDS: Escaped to Amsterdam 1608, moved to Leiden 1609. Claimed inheritance 1611, became fustian weaver. FIRST WIFE: Dorothy May (married December 1613 in Amsterdam). She drowned in Provincetown Harbor December 7, 1620 shortly after Mayflower arrival - possibly suicide. SECOND WIFE: Alice Carpenter Southworth (married August 14, 1623). FIRST THANKSGIVING: Massasoit and 90 men came for three-day feast after first harvest 1621. They went out and killed five deer. ASSESSMENT: 'One of the most influential of the Pilgrim settlers for his outstanding leadership, his desire to steadfastly hold to his religious and moral ideals.' Source: FindAGrave memorial 124."
+      ],
+      "familyAsSpouse": [
+        "F18"
+      ],
+      "familyAsChild": [
+        "F17"
+      ]
+    },
+    "I63": {
+      "id": "I63",
+      "name": "Dorothy May",
+      "givenName": "Dorothy",
+      "surname": "May",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {
+        "date": "1620",
+        "place": "Cape Cod Harbor, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F18"
+      ],
+      "familyAsChild": []
+    },
+    "I64": {
+      "id": "I64",
+      "name": "Joseph Bradford",
+      "givenName": "Joseph",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1630"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I65": {
+      "id": "I65",
+      "name": "Amos Richardson",
+      "givenName": "Amos",
+      "surname": "Richardson",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F48"
+      ],
+      "familyAsChild": []
+    },
+    "I66": {
+      "id": "I66",
+      "name": "William Janes",
+      "givenName": "William",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F46"
+      ],
+      "familyAsChild": [
+        "F45"
+      ]
+    },
+    "I67": {
+      "id": "I67",
+      "name": "Abigail Loomis",
+      "givenName": "Abigail",
+      "surname": "Loomis",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F46"
+      ],
+      "familyAsChild": []
+    },
+    "I68": {
+      "id": "I68",
+      "name": "Rowland Powell IV",
+      "givenName": "Rowland",
+      "surname": "Powell",
+      "suffix": "IV",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1690"
+      },
+      "death": {
+        "date": "1732"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F40"
+      ],
+      "familyAsChild": [
+        "F15"
+      ]
+    },
+    "I69": {
+      "id": "I69",
+      "name": "Mary Powell",
+      "givenName": "Mary",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1698"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F40"
+      ],
+      "familyAsChild": []
+    },
+    "I7": {
+      "id": "I7",
+      "name": "Anne Lathrop",
+      "givenName": "Anne",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "May 1616",
+        "place": "Egerton, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I70": {
+      "id": "I70",
+      "name": "Stephen Powell",
+      "givenName": "Stephen",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1707"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F67"
+      ],
+      "familyAsChild": [
+        "F14"
+      ]
+    },
+    "I71": {
+      "id": "I71",
+      "name": "Elizabeth Powell",
+      "givenName": "Elizabeth",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1708"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F14"
+      ]
+    },
+    "I72": {
+      "id": "I72",
+      "name": "John Powell",
+      "givenName": "John",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1711"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F14"
+      ]
+    },
+    "I73": {
+      "id": "I73",
+      "name": "Truman Powell",
+      "givenName": "Truman",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1713"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F14"
+      ]
+    },
+    "I74": {
+      "id": "I74",
+      "name": "Cynthia Powell",
+      "givenName": "Cynthia",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1793",
+        "place": "Hartford, Windsor County, Vermont"
+      },
+      "death": {
+        "date": "9 DEC 1853",
+        "place": "Lawrence County, Illinois"
+      },
+      "burial": {
+        "place": "Lone Tree / Prairieton Cemetery, Lawrence County, Illinois"
+      },
+      "occupation": "Teacher",
+      "residence": "",
+      "notes": [
+        "Born circa 1465. Died April 21, 1514. Commemorated on brass in Church of St. Mary the Virgin, Lindsell, Essex. FATHER: John Fytche (died before April 9, 1468). Found heir of father by inquisition at manor court of Widdington April 9, 1468, 'aged 3 years.' Admitted to inheritance at Widdington November 9, 1487 (age about 21). WIFE: Agnes Algore (daughter of Robert Algore, married before December 22, 1490). Agnes was heiress, brought Brazen Head Farm in Lindsell to marriage. CHILDREN: Eleven children - six sons and five daughters shown on church brass beneath parents. MEMORIAL: Brass inscription (translated): 'Here lies Thomas Fytche and Agnes his wife, which same Thomas died the twenty-first day of April in the year of our Lord 1514; on whose souls may God have mercy.' Stained glass window in same church portrays Thomas and Agnes, and son William and first wife Elizabeth - probably paid for by William who had advowson of church from King Henry VIII. Agnes died before May 3, 1527."
+      ],
+      "familyAsSpouse": [
+        "F11"
+      ],
+      "familyAsChild": [
+        "F41",
+        "F89"
+      ]
+    },
+    "I75": {
+      "id": "I75",
+      "name": "William Laws",
+      "givenName": "William",
+      "surname": "Laws",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Early settler Lawrence County, IL 1820"
+      ],
+      "familyAsSpouse": [
+        "F24"
+      ],
+      "familyAsChild": []
+    },
+    "I76": {
+      "id": "I76",
+      "name": "Rachel Laws",
+      "givenName": "Rachel",
+      "surname": "Laws",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1824",
+        "place": "Lawrence County, IL"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F12"
+      ],
+      "familyAsChild": [
+        "F24"
+      ]
+    },
+    "I77": {
+      "id": "I77",
+      "name": "Henry Lathrop",
+      "givenName": "Henry",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "14 MAY 1817",
+        "place": "Franklin County, Vermont"
+      },
+      "death": {
+        "date": "AFT 1893",
+        "place": "Richland County, Illinois"
+      },
+      "burial": {},
+      "occupation": "Farmer",
+      "residence": "",
+      "notes": [
+        "Born May 14, 1817 in Franklin County, Vermont. Pioneer teacher in Richland County, IL - arrived Oct 3, 1839. Married Rachel Laws Sept 1, 1844. Owned 1,100 acres at peak. Supervisor of German Township for 5 years, County Board member. Children: Samantha, Ann, Elvira, Albert, Charles, George (d. July 6, 1887), Henry Jr, Gilbert, Martha, Mary (d. 1857 age 20 months). Source: 1887 biographical history."
+      ],
+      "familyAsSpouse": [
+        "F12"
+      ],
+      "familyAsChild": [
+        "F11"
+      ]
+    },
+    "I78": {
+      "id": "I78",
+      "name": "Samantha Lathrop",
+      "givenName": "Samantha",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I79": {
+      "id": "I79",
+      "name": "Ann Lathrop",
+      "givenName": "Ann",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I8": {
+      "id": "I8",
+      "name": "John Lathrop",
+      "givenName": "John",
+      "surname": "Jr",
+      "suffix": "Jr",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "Feb 1617/18",
+        "place": "Egerton, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I80": {
+      "id": "I80",
+      "name": "Elvira Lathrop",
+      "givenName": "Elvira",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I81": {
+      "id": "I81",
+      "name": "Albert Lathrop",
+      "givenName": "Albert",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I82": {
+      "id": "I82",
+      "name": "Charles Lathrop",
+      "givenName": "Charles",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I83": {
+      "id": "I83",
+      "name": "George Lathrop",
+      "givenName": "George",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I84": {
+      "id": "I84",
+      "name": "Henry Lathrop",
+      "givenName": "Henry",
+      "surname": "Jr",
+      "suffix": "Jr",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I85": {
+      "id": "I85",
+      "name": "Gilbert Lathrop",
+      "givenName": "Gilbert",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I86": {
+      "id": "I86",
+      "name": "Martha Lathrop",
+      "givenName": "Martha",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I87": {
+      "id": "I87",
+      "name": "Mary Lathrop",
+      "givenName": "Mary",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F12"
+      ]
+    },
+    "I88": {
+      "id": "I88",
+      "name": "Captain John Petty",
+      "givenName": "John",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "Captain",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1735",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "ABT 1812"
+      },
+      "burial": {},
+      "occupation": "Captain",
+      "residence": "",
+      "notes": [
+        "Born circa 1735 in New Jersey. Died circa 1812 at son Moses' home during War of 1812. Revolutionary War patriot - commanded a company in Colonel Williams Regiment. Founding father of Woodhouse First Presbyterian Church, Mansfield Township, NJ. Married Margaret Woolever (daughter of Johann Peter Woolever and Anna Margaretha Finck). Children included Joseph, Moses, John, Aaron, Peggy Stoltz, Polly Vanatta."
+      ],
+      "familyAsSpouse": [
+        "F20"
+      ],
+      "familyAsChild": []
+    },
+    "I89": {
+      "id": "I89",
+      "name": "Margaret Woolever",
+      "givenName": "Margaret",
+      "surname": "Woolever",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1740",
+        "place": "New Jersey"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Johann Peter Woolever and Anna Margaretha Finck."
+      ],
+      "familyAsSpouse": [
+        "F20"
+      ],
+      "familyAsChild": [
+        "F19"
+      ]
+    },
+    "I9": {
+      "id": "I9",
+      "name": "Barbara Lathrop",
+      "givenName": "Barbara",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "Oct 1619",
+        "place": "Egerton, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F2"
+      ]
+    },
+    "I90": {
+      "id": "I90",
+      "name": "Johann Peter Woolever",
+      "givenName": "Johann Peter",
+      "surname": "Woolever",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "3 FEB 1703",
+        "place": "Roxheim, Bacharach, Germany"
+      },
+      "death": {
+        "date": "Mar 1767",
+        "place": "Mansfield, Woodhouse Township, Sussex County, NJ"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Naturalized Sep 9, 1715 at Kingston, NY. Moved to Franklin Township 1755."
+      ],
+      "familyAsSpouse": [
+        "F19"
+      ],
+      "familyAsChild": []
+    },
+    "I91": {
+      "id": "I91",
+      "name": "Anna Margaretha Finck",
+      "givenName": "Anna Margaretha",
+      "surname": "Finck",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1703",
+        "place": "Runkel, Germany"
+      },
+      "death": {
+        "date": "AFTER 1767",
+        "place": "New Jersey"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F19"
+      ],
+      "familyAsChild": []
+    },
+    "I92": {
+      "id": "I92",
+      "name": "Joseph Petty",
+      "givenName": "Joseph",
+      "surname": "Sr",
+      "suffix": "Sr",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1764",
+        "place": "New Jersey"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Captain John Petty, Revolutionary War Patriot."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F20"
+      ]
+    },
+    "I93": {
+      "id": "I93",
+      "name": "Elizabeth Petty",
+      "givenName": "Elizabeth",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "24 APR 1765"
+      },
+      "death": {
+        "date": "8 JUN 1851"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Joseph Petty Sr."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I94": {
+      "id": "I94",
+      "name": "Joseph Petty",
+      "givenName": "Joseph",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F21"
+      ],
+      "familyAsChild": []
+    },
+    "I95": {
+      "id": "I95",
+      "name": "Elizabeth Middagh",
+      "givenName": "Elizabeth",
+      "surname": "Middagh",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F21"
+      ],
+      "familyAsChild": []
+    },
+    "I96": {
+      "id": "I96",
+      "name": "Jacob Petty",
+      "givenName": "Jacob",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1801",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "1863",
+        "place": "Perry County, Ohio"
+      },
+      "burial": {},
+      "occupation": "Farmer, Township Trustee",
+      "residence": "",
+      "notes": [
+        "Came to Ohio in 1809 at age 8 with father Joseph Petty. Married Millie Barnes in 1822."
+      ],
+      "familyAsSpouse": [
+        "F22",
+        "F60"
+      ],
+      "familyAsChild": [
+        "F21",
+        "F58"
+      ]
+    },
+    "I97": {
+      "id": "I97",
+      "name": "Millie Barns",
+      "givenName": "Millie",
+      "surname": "Barns",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {
+        "date": "1863"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [],
+      "familyAsSpouse": [
+        "F22",
+        "F60"
+      ],
+      "familyAsChild": []
+    },
+    "I98": {
+      "id": "I98",
+      "name": "Dennis Clay Lathrop",
+      "givenName": "Dennis Clay",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "6 NOV 1888",
+        "place": "Petty Township, Lawrence County, Illinois"
+      },
+      "death": {
+        "date": "1966",
+        "place": "Sumner, Illinois"
+      },
+      "burial": {},
+      "occupation": "Farmer",
+      "residence": "",
+      "notes": [
+        "Born Nov 6, 1888 in Petty Township, Lawrence County, IL. Died 1966 at Sumner, IL age 77. Retired farmer. Member of Prairie Chapel EUB Church. Married Mabel June Petty. Children: Levi (Bridgeport), Leonard (Danville then Adrian, MI), Beulah Ledet (Charleston, SC), Dorothy Falke (Adrian, MI), Norma Leturno (Carpentersville, IL), Phyllis Summers (Titusville, FL). Son Gerald predeceased him. Had 18 grandchildren. Siblings: brother Demsy Lathrop (Sumner), sister Vevia Wagner (Sumner). Source: FindAGrave memorial 33036290."
+      ],
+      "familyAsSpouse": [
+        "F23"
+      ],
+      "familyAsChild": []
+    },
+    "I99": {
+      "id": "I99",
+      "name": "Mabel June Petty",
+      "givenName": "Mabel June",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "2 JUN 1897",
+        "place": "Lawrence County, IL"
+      },
+      "death": {
+        "date": "1971",
+        "place": "Sumner, Illinois"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born June 2, 1897 in Lawrence County, IL. Died 1971 at Sumner, IL age 74. Married Dennis Lathrop. Children: Levi, Leonard, Beulah Ledet, Dorothy Falke, Norma Leturno, Phyllis Summers. Had 18 grandchildren and 3 great-grandchildren. Siblings: Fern Lathrop (married Merit Lathrop), Elizabeth Messenger, Jessie Lee (Dayton, OH), Gene Petty (Sumner), Ray Petty (Decatur), Dee Petty (Piqua, OH), Harold Petty (Decatur)."
+      ],
+      "familyAsSpouse": [
+        "F23"
+      ],
+      "familyAsChild": [
+        "F59"
+      ]
+    },
+    "I131": {
+      "id": "I131",
+      "name": "Mary Powell",
+      "givenName": "Mary",
+      "surname": "Powell",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Second wife of Stephen Tilden. Mother of Mary Ann Tilden."
+      ],
+      "familyAsSpouse": [
+        "F35"
+      ],
+      "familyAsChild": []
+    },
+    "I132": {
+      "id": "I132",
+      "name": "Richard Warren",
+      "givenName": "Richard",
+      "surname": "Warren",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1585",
+        "place": "England"
+      },
+      "death": {
+        "date": "1628",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born circa 1585 in England. Died 1628 in Plymouth, MA. Mayflower passenger 1620 - one of 41 signers of Mayflower Compact. Merchant. Wife Elizabeth Walker and children came on ship Anne in 1623. Children included Mary, Ann, Sarah, Elizabeth, Abigail, Nathaniel, Joseph. Daughter Ann Warren married to Tilden line."
+      ],
+      "familyAsSpouse": [
+        "F39"
+      ],
+      "familyAsChild": []
+    },
+    "I133": {
+      "id": "I133",
+      "name": "Elizabeth Walker",
+      "givenName": "Elizabeth",
+      "surname": "Walker",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Richard Warren."
+      ],
+      "familyAsSpouse": [
+        "F39"
+      ],
+      "familyAsChild": []
+    },
+    "I134": {
+      "id": "I134",
+      "name": "Thomas Tilden",
+      "givenName": "Thomas",
+      "surname": "Tilden",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1555",
+        "place": "Tenterden, Kent, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Elder Nathaniel Tilden."
+      ],
+      "familyAsSpouse": [
+        "F37"
+      ],
+      "familyAsChild": []
+    },
+    "I135": {
+      "id": "I135",
+      "name": "Alice Bigge",
+      "givenName": "Alice",
+      "surname": "Bigge",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Thomas Tilden. Mother of Elder Nathaniel Tilden."
+      ],
+      "familyAsSpouse": [
+        "F37"
+      ],
+      "familyAsChild": []
+    },
+    "I136": {
+      "id": "I136",
+      "name": "Stephen Huckstep",
+      "givenName": "Stephen",
+      "surname": "Huckstep",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Lydia Huckstep."
+      ],
+      "familyAsSpouse": [
+        "F38"
+      ],
+      "familyAsChild": []
+    },
+    "I137": {
+      "id": "I137",
+      "name": "Winifred Hatch",
+      "givenName": "Winifred",
+      "surname": "Hatch",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Mother of Lydia Huckstep."
+      ],
+      "familyAsSpouse": [
+        "F38"
+      ],
+      "familyAsChild": []
+    },
+    "I138": {
+      "id": "I138",
+      "name": "Rowland Powell V",
+      "givenName": "Rowland",
+      "surname": "Powell",
+      "suffix": "V",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "16 NOV 1751",
+        "place": "Hartford, Vermont"
+      },
+      "death": {
+        "date": "1838",
+        "place": "Richford, Vermont"
+      },
+      "burial": {
+        "place": "Troy Street Cemetery, Richford, VT"
+      },
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Revolutionary War Veteran. Served in Capt. Joshua Hazen's Company."
+      ],
+      "familyAsSpouse": [
+        "F41",
+        "F89"
+      ],
+      "familyAsChild": [
+        "F40"
+      ]
+    },
+    "I139": {
+      "id": "I139",
+      "name": "Mary Janes",
+      "givenName": "Mary",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1753"
+      },
+      "death": {
+        "date": "1813",
+        "place": "Richford, Vermont"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Rowland Powell V."
+      ],
+      "familyAsSpouse": [
+        "F41",
+        "F89"
+      ],
+      "familyAsChild": [
+        "F46",
+        "F87"
+      ]
+    },
+    "I140": {
+      "id": "I140",
+      "name": "Edmund Hobart",
+      "givenName": "Edmund",
+      "surname": "Hobart",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1574",
+        "place": "Hingham, Norfolk, England"
+      },
+      "death": {
+        "date": "8 MAR 1646",
+        "place": "Hingham, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "One of the founders of Hingham, Massachusetts. Came on Elizabeth Bonaventura in 1633."
+      ],
+      "familyAsSpouse": [
+        "F42"
+      ],
+      "familyAsChild": []
+    },
+    "I141": {
+      "id": "I141",
+      "name": "Margaret Dewey",
+      "givenName": "Margaret",
+      "surname": "Dewey",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Edmund Hobart. Married 7 Sep 1600 in Hingham, Norfolk, England."
+      ],
+      "familyAsSpouse": [
+        "F42"
+      ],
+      "familyAsChild": []
+    },
+    "I142": {
+      "id": "I142",
+      "name": "Robert Peck II",
+      "givenName": "Robert",
+      "surname": "",
+      "suffix": "II",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1546",
+        "place": "Beccles, Suffolk, England"
+      },
+      "death": {
+        "date": "1593"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Rev. Robert Peck (Rector at Hingham). Gentleman of Beccles."
+      ],
+      "familyAsSpouse": [
+        "F43"
+      ],
+      "familyAsChild": []
+    },
+    "I143": {
+      "id": "I143",
+      "name": "Joan Waters",
+      "givenName": "Joan",
+      "surname": "Waters",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Robert Peck II."
+      ],
+      "familyAsSpouse": [
+        "F43"
+      ],
+      "familyAsChild": []
+    },
+    "I144": {
+      "id": "I144",
+      "name": "Rev. Robert Peck",
+      "givenName": "Robert",
+      "surname": "Peck",
+      "suffix": "",
+      "title": "Rev.",
+      "sex": "M",
+      "birth": {
+        "date": "1580",
+        "place": "Beccles, Suffolk, England"
+      },
+      "death": {
+        "date": "10 AUG 1658",
+        "place": "Hingham, Norfolk, England"
+      },
+      "burial": {},
+      "occupation": "Rector at Hingham, Norfolk, England",
+      "residence": "",
+      "notes": [
+        "Son of Robert Peck II. Married Anne (unknown). Minister who emigrated to New England 1638 and returned to England 1641."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F43"
+      ]
+    },
+    "I145": {
+      "id": "I145",
+      "name": "Johanna Thurgood",
+      "givenName": "Johanna",
+      "surname": "Thurgood",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of George Fitch."
+      ],
+      "familyAsSpouse": [
+        "F44"
+      ],
+      "familyAsChild": []
+    },
+    "I146": {
+      "id": "I146",
+      "name": "Abel Janes",
+      "givenName": "Abel",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of William Janes."
+      ],
+      "familyAsSpouse": [
+        "F45"
+      ],
+      "familyAsChild": []
+    },
+    "I147": {
+      "id": "I147",
+      "name": "Mary Judd",
+      "givenName": "Mary",
+      "surname": "Judd",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Abel Janes."
+      ],
+      "familyAsSpouse": [
+        "F45"
+      ],
+      "familyAsChild": []
+    },
+    "I148": {
+      "id": "I148",
+      "name": "Jonathan Janes",
+      "givenName": "Jonathan",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of William Janes and Abigail Loomis. Married Irene Bradford."
+      ],
+      "familyAsSpouse": [
+        "F47"
+      ],
+      "familyAsChild": [
+        "F46"
+      ]
+    },
+    "I149": {
+      "id": "I149",
+      "name": "Irene Bradford",
+      "givenName": "Irene",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Granddaughter of Governor William Bradford. Wife of Jonathan Janes."
+      ],
+      "familyAsSpouse": [
+        "F47"
+      ],
+      "familyAsChild": []
+    },
+    "I150": {
+      "id": "I150",
+      "name": "Mary Ann Richardson",
+      "givenName": "Mary Ann",
+      "surname": "Richardson",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {
+        "date": "7 SEP 1806"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Rowland Powell IV. Daughter of Amos Richardson."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F48"
+      ]
+    },
+    "I151": {
+      "id": "I151",
+      "name": "Lieutenant Ezra Lathrop",
+      "givenName": "Ezra",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "Lieutenant",
+      "sex": "M",
+      "birth": {
+        "date": "4 DEC 1718",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {
+        "date": "9 NOV 1760",
+        "place": "Norwich, Connecticut"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born December 4, 1718 in Norwich, CT. Died November 9, 1760 in Norwich, CT. MARRIAGE: Married Charity Perkins January 20, 1743 in New London, CT by Rev. Daniel Kirtland. MILITARY: Lieutenant in French and Indian Wars. Listed as 'Lieutenant Ezra Lothrop' in probate records. RELIGION: Admitted to church membership in Newent Congregational Church, Lisbon, CT in 1742. PROBATE RECORDS: Estate found insolvent after his death. Multiple court proceedings 1760-1773. Court appointed widow Charity administratrix. Jacob Perkins Esqr (Charity's brother), Robert Kinsman Jr, and Elisha Lothrop (Ezra's brother) appointed to divide estate. Son Jedidiah (minor over age 14) chose uncle Elisha Lothrop as guardian. General Assembly granted permission to sell real estate to pay debts. Dr. Daniel Lothrop (Ezra's first cousin, son of uncle Thomas) appointed to auction estate 'at ye Beat of Drum to the Highest bidder.' CHILDREN: Ezra Jr b. 1/24/1743-4 (sea captain), Jedidiah b. 1/29/1745-6 (md Sarah Tracy 1767), Hannah b. 9/25/1748 (md Zephaniah Lathrop 1769), Charity b. 4/7/1752 (md David Galusha 1773), Elkanah b. 11/9/1754 (ancestor line). Source: FindAGrave memorial 166256538, dedpepl.blogspot.com ahnentafel 128."
+      ],
+      "familyAsSpouse": [
+        "F50"
+      ],
+      "familyAsChild": [
+        "F49"
+      ]
+    },
+    "I152": {
+      "id": "I152",
+      "name": "Charity Perkins",
+      "givenName": "Charity",
+      "surname": "Perkins",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born 1724 in Norwich, Connecticut. PARENTS: Jabez Perkins and Charity Hodges (widow Leonard). Only child of her parents' marriage. MARRIAGE: Ezra Lathrop January 20, 1743 in New London, CT. Ceremony by Rev. Daniel Kirtland. Widowed 1760 when husband died, estate found insolvent. Court appointed her administratrix. Her brother Jacob Perkins Esqr was among those who divided estate. CHILDREN: Ezra Jr (sea captain), Jedidiah (chose uncle Elisha as guardian), Hannah, Charity, Elkanah."
+      ],
+      "familyAsSpouse": [
+        "F50",
+        "F52"
+      ],
+      "familyAsChild": []
+    },
+    "I153": {
+      "id": "I153",
+      "name": "Elkanah Lathrop",
+      "givenName": "Elkanah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "9 NOV 1754",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born November 9, 1754 in Norwich, Connecticut. PARENTS: Lt. Ezra Lathrop and Charity Perkins. OCCUPATION: Baptist minister. Moved family to Canada. CHILDREN: Russell Lathrop (1793-1872) and others."
+      ],
+      "familyAsSpouse": [
+        "F51"
+      ],
+      "familyAsChild": [
+        "F50"
+      ]
+    },
+    "I154": {
+      "id": "I154",
+      "name": "Sergeant Jacob Perkins",
+      "givenName": "Jacob",
+      "surname": "Perkins",
+      "suffix": "",
+      "title": "Sergeant",
+      "sex": "M",
+      "birth": {
+        "date": "1624",
+        "place": "Hillmorton, Warwickshire, England"
+      },
+      "death": {
+        "date": "1700",
+        "place": "Ipswich, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of John Perkins Sr. Sergeant of military company in Ipswich."
+      ],
+      "familyAsSpouse": [
+        "F53"
+      ],
+      "familyAsChild": [
+        "F54"
+      ]
+    },
+    "I155": {
+      "id": "I155",
+      "name": "Elizabeth Whipple",
+      "givenName": "Elizabeth",
+      "surname": "Whipple",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1629"
+      },
+      "death": {
+        "date": "12 FEB 1686"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "First wife of Sgt. Jacob Perkins."
+      ],
+      "familyAsSpouse": [
+        "F53"
+      ],
+      "familyAsChild": []
+    },
+    "I156": {
+      "id": "I156",
+      "name": "Sergeant John Perkins",
+      "givenName": "John",
+      "surname": "Perkins",
+      "suffix": "",
+      "title": "Sergeant",
+      "sex": "M",
+      "birth": {
+        "date": "1590",
+        "place": "Hillmorton, Warwickshire, England"
+      },
+      "death": {
+        "date": "1654",
+        "place": "Ipswich, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born circa 1590 in Hillmorton, Warwickshire, England. Died 1654 in Ipswich, Massachusetts. PARENTS: Henry Perkins and Elizabeth Sawbridge. EMIGRATION: Emigrated from England to Massachusetts Bay Colony. WIFE: Judith Gater. OFFICES: Sergeant of military company. Various town offices in Ipswich. PETITION: Signed Petition of the Inhabitants of Ipswich. WILL (March 28, 1654): Bequests to eldest son John (foal from young mare), grandsons John and Abraham (yearling heifers), son Thomas (cow and heifer), grandson John Perkins (ewe), daughters Elizabeth Sargent, Mary Bradbury, Lydia Bennitt (cows and heifers for them and their children), grandchild Thomas Bradbury (ewe), son Jacob Perkins (dwelling house and all lands after wife's decease). Wife Judith Perkins sole executrix. Proved in court Ipswich September 27, 1654. ESTATE INVENTORY: Dwelling house and barn 40 pounds, land about house 12 pounds, unbroken land 21 pounds, marsh 12 pounds, improved land 24 pounds, mare with foal 25 pounds, six milch cows 30 pounds, heifers and steer 11 pounds 10 shillings, sheep 17 pounds, calf, other livestock 8 pounds, feather bed 4 pounds, money 10 pounds, cart and tools 5 pounds, kitchen items 2 pounds, wearing apparel 5 pounds."
+      ],
+      "familyAsSpouse": [
+        "F54"
+      ],
+      "familyAsChild": [
+        "F55"
+      ]
+    },
+    "I157": {
+      "id": "I157",
+      "name": "Judith Gater",
+      "givenName": "Judith",
+      "surname": "Gater",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of John Perkins Sr."
+      ],
+      "familyAsSpouse": [
+        "F54"
+      ],
+      "familyAsChild": []
+    },
+    "I158": {
+      "id": "I158",
+      "name": "Henry Perkins",
+      "givenName": "Henry",
+      "surname": "Perkins",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "place": "Hillmorton, Warwickshire, England"
+      },
+      "death": {
+        "date": "1609"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Died 1609 in Hillmorton, Warwickshire, England. OCCUPATION: Yeoman/farmer in Hillmorton. LEGAL: June 1604 appeared in case 'Attorney General v Gater' - Plaintiffs: Sir Edward Coke, Attorney General at relation of Mary Astley. Defendants included 'Henry Perkins and others.' Subject: Turning cattle of town into corn growing on land of Mary Astley in Hillmorton. WIFE: Elizabeth Sawbridge. ADMINISTRATION: Letters of administration granted at Lichfield April 5, 1609 to son Thomas Perkins. Bond given for tuition of children: Margaret, Edward, Anne, Sarah, Francis, William, Liny, Elizabeth and James Pirkins. INVENTORY: March 22, 1608. Taken by Rowland Wilcox Gent., Thos. Pirkins, John Sawbridge, Thos. Compton, Wm. Buinam, yeomen."
+      ],
+      "familyAsSpouse": [
+        "F55"
+      ],
+      "familyAsChild": []
+    },
+    "I159": {
+      "id": "I159",
+      "name": "Elizabeth Sawbridge",
+      "givenName": "Elizabeth",
+      "surname": "Sawbridge",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Henry Perkins."
+      ],
+      "familyAsSpouse": [
+        "F55"
+      ],
+      "familyAsChild": []
+    },
+    "I161": {
+      "id": "I161",
+      "name": "William Hodges II",
+      "givenName": "William",
+      "surname": "Hodges",
+      "suffix": "II",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of William Hodges III."
+      ],
+      "familyAsSpouse": [
+        "F56"
+      ],
+      "familyAsChild": []
+    },
+    "I162": {
+      "id": "I162",
+      "name": "Alice Symes",
+      "givenName": "Alice",
+      "surname": "Symes",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of William Hodges II. Mother of William Hodges III."
+      ],
+      "familyAsSpouse": [
+        "F56"
+      ],
+      "familyAsChild": []
+    },
+    "I163": {
+      "id": "I163",
+      "name": "Elkanah Leonard",
+      "givenName": "Elkanah",
+      "surname": "Leonard",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "First husband of Charity Hodges. Had 10 children with her."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I164": {
+      "id": "I164",
+      "name": "Joseph Petty",
+      "givenName": "Joseph",
+      "surname": "Sr",
+      "suffix": "Sr",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "24 APR 1764",
+        "place": "New Jersey"
+      },
+      "death": {
+        "date": "8 JUN 1851",
+        "place": "Perry County, Ohio"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Captain John Petty. Father of Jacob Petty."
+      ],
+      "familyAsSpouse": [
+        "F58"
+      ],
+      "familyAsChild": []
+    },
+    "I165": {
+      "id": "I165",
+      "name": "Elizabeth Middagh",
+      "givenName": "Elizabeth",
+      "surname": "Middagh",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "29 FEB 1765"
+      },
+      "death": {
+        "date": "5 MAR 1851"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Joseph Petty Sr. Sister of Major John Middagh."
+      ],
+      "familyAsSpouse": [
+        "F58"
+      ],
+      "familyAsChild": []
+    },
+    "I166": {
+      "id": "I166",
+      "name": "Genner Sherman Petty",
+      "givenName": "Genner Sherman",
+      "surname": "Petty",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Jacob Petty and Millie Barnes. Married Mary Ann Bunn."
+      ],
+      "familyAsSpouse": [
+        "F59"
+      ],
+      "familyAsChild": [
+        "F60"
+      ]
+    },
+    "I167": {
+      "id": "I167",
+      "name": "Mary Ann Bunn",
+      "givenName": "Mary Ann",
+      "surname": "Bunn",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1819"
+      },
+      "death": {
+        "date": "1860"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Genner Sherman Petty."
+      ],
+      "familyAsSpouse": [
+        "F59"
+      ],
+      "familyAsChild": []
+    },
+    "I168": {
+      "id": "I168",
+      "name": "Ella May Smalley",
+      "givenName": "Ella May",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Joshua Smalley. Married Sherman Petty."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F61"
+      ]
+    },
+    "I169": {
+      "id": "I169",
+      "name": "Joshua Smalley",
+      "givenName": "Joshua",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Ella May Smalley."
+      ],
+      "familyAsSpouse": [
+        "F61"
+      ],
+      "familyAsChild": [
+        "F66"
+      ]
+    },
+    "I170": {
+      "id": "I170",
+      "name": "Joseph Wallingford",
+      "givenName": "Joseph",
+      "surname": "Wallingford",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Amanda Wallingford."
+      ],
+      "familyAsSpouse": [
+        "F62"
+      ],
+      "familyAsChild": []
+    },
+    "I171": {
+      "id": "I171",
+      "name": "Orville Bailey",
+      "givenName": "Orville",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Edgar U. Bailey and Elizabeth Cofield."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F63"
+      ]
+    },
+    "I172": {
+      "id": "I172",
+      "name": "Edwin Bailey",
+      "givenName": "Edwin",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Edgar U. Bailey and Elizabeth Cofield."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F63"
+      ]
+    },
+    "I173": {
+      "id": "I173",
+      "name": "Mildred Bailey",
+      "givenName": "Mildred",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Edgar U. Bailey and Elizabeth Cofield."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F63"
+      ]
+    },
+    "I174": {
+      "id": "I174",
+      "name": "Irene Bailey",
+      "givenName": "Irene",
+      "surname": "Bailey",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Edgar U. Bailey and Elizabeth Cofield."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F63"
+      ]
+    },
+    "I175": {
+      "id": "I175",
+      "name": "Alice Lloyd",
+      "givenName": "Alice",
+      "surname": "Lloyd",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Rev. John House. Mother of Hannah House who married Rev. John Lathrop."
+      ],
+      "familyAsSpouse": [
+        "F64"
+      ],
+      "familyAsChild": []
+    },
+    "I176": {
+      "id": "I176",
+      "name": "Elizabeth Ann Lathrop",
+      "givenName": "Elizabeth Ann",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Dearborn, Michigan",
+      "notes": [
+        "Daughter of McKinley \"Mack\" VanGilder and Olive Elizabeth Bailey. Married surname Lathrop."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F65"
+      ]
+    },
+    "I177": {
+      "id": "I177",
+      "name": "Aimee Slavit",
+      "givenName": "Aimee",
+      "surname": "Slavit",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Descendant - researcher of this family tree."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I178": {
+      "id": "I178",
+      "name": "Beulah Ledet",
+      "givenName": "Beulah",
+      "surname": "Ledet",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Charleston, South Carolina",
+      "notes": [
+        "Daughter of Dennis Clay Lathrop and Mabel June Petty."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I179": {
+      "id": "I179",
+      "name": "Norma Leturno",
+      "givenName": "Norma",
+      "surname": "Leturno",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Carpentersville, Illinois",
+      "notes": [
+        "Daughter of Dennis Clay Lathrop and Mabel June Petty."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I180": {
+      "id": "I180",
+      "name": "Phyllis Summers",
+      "givenName": "Phyllis",
+      "surname": "Summers",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Titusville, Florida",
+      "notes": [
+        "Daughter of Dennis Clay Lathrop and Mabel June Petty."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I181": {
+      "id": "I181",
+      "name": "Gerald Lathrop",
+      "givenName": "Gerald",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Dennis Clay Lathrop and Mabel June Petty. Predeceased his father."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F23"
+      ]
+    },
+    "I182": {
+      "id": "I182",
+      "name": "Demsy Lathrop",
+      "givenName": "Demsy",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Sumner, Illinois",
+      "notes": [
+        "Brother of Dennis Clay Lathrop."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I183": {
+      "id": "I183",
+      "name": "Vevia Wagner",
+      "givenName": "Vevia",
+      "surname": "Wagner",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Sumner, Illinois",
+      "notes": [
+        "Sister of Dennis Clay Lathrop."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I184": {
+      "id": "I184",
+      "name": "Lucinda Jane Carmody",
+      "givenName": "Lucinda Jane",
+      "surname": "Carmody",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Benjamin Franklin Smalley."
+      ],
+      "familyAsSpouse": [
+        "F66"
+      ],
+      "familyAsChild": []
+    },
+    "I185": {
+      "id": "I185",
+      "name": "Benjamin Franklin Smalley",
+      "givenName": "Benjamin Franklin",
+      "surname": "Smalley",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Joshua Smalley."
+      ],
+      "familyAsSpouse": [
+        "F66"
+      ],
+      "familyAsChild": []
+    },
+    "I186": {
+      "id": "I186",
+      "name": "Agnes Fitch",
+      "givenName": "Agnes",
+      "surname": "Fitch",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Thomas Fitch."
+      ],
+      "familyAsSpouse": [
+        "F67"
+      ],
+      "familyAsChild": []
+    },
+    "I187": {
+      "id": "I187",
+      "name": "Mary Fitch",
+      "givenName": "Mary",
+      "surname": "Fitch",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Joseph Fitch."
+      ],
+      "familyAsSpouse": [
+        "F68"
+      ],
+      "familyAsChild": []
+    },
+    "I188": {
+      "id": "I188",
+      "name": "Joseph Fitch",
+      "givenName": "Joseph",
+      "surname": "Fitch",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Thomas Fitch and Agnes."
+      ],
+      "familyAsSpouse": [
+        "F68"
+      ],
+      "familyAsChild": [
+        "F67"
+      ]
+    },
+    "I189": {
+      "id": "I189",
+      "name": "Helen Babbs",
+      "givenName": "Helen",
+      "surname": "Babbs",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Rev. Robert Peck III."
+      ],
+      "familyAsSpouse": [
+        "F69"
+      ],
+      "familyAsChild": []
+    },
+    "I190": {
+      "id": "I190",
+      "name": "Elizabeth White",
+      "givenName": "Elizabeth",
+      "surname": "White",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Robert White of Messing, Essex. First wife of Elder William Goodwin. Sister of Mary White (wife of Joseph Loomis)."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": []
+    },
+    "I191": {
+      "id": "I191",
+      "name": "Ezra Lathrop",
+      "givenName": "Ezra",
+      "surname": "Lathrop",
+      "suffix": "Jr",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "24 JAN 1743/44",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "Sea Captain",
+      "residence": "",
+      "notes": [
+        "Son of Lt. Ezra Lathrop and Charity Perkins. Eldest son. Became a sea captain."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F50"
+      ]
+    },
+    "I192": {
+      "id": "I192",
+      "name": "Jedidiah Lathrop",
+      "givenName": "Jedidiah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "29 JAN 1745/46",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {
+        "date": "DEC 1879"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Lt. Ezra Lathrop and Charity Perkins. Married Sarah Tracy 1767. Uncle Elisha Lathrop served as his guardian after father's death 1760. Aged more than 14 when he chose his guardian."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F50"
+      ]
+    },
+    "I193": {
+      "id": "I193",
+      "name": "Hannah Lathrop",
+      "givenName": "Hannah",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "25 SEP 1748",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Lt. Ezra Lathrop and Charity Perkins. Married Zephaniah Lathrop 1769 (son of Ebenezer Lathrop)."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F50"
+      ]
+    },
+    "I194": {
+      "id": "I194",
+      "name": "Charity Lathrop",
+      "givenName": "Charity",
+      "surname": "Lathrop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "7 APR 1752",
+        "place": "Norwich, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Lt. Ezra Lathrop and Charity Perkins. Married David Galusha 1773."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F50"
+      ]
+    },
+    "I195": {
+      "id": "I195",
+      "name": "Capt. John Gallop II",
+      "givenName": "John",
+      "surname": "Gallop",
+      "suffix": "II",
+      "title": "Capt.",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1590",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "11 JAN 1650",
+        "place": "Boston, Suffolk County, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Mariner, Harbor Pilot, Coastal Trader",
+      "residence": "",
+      "notes": [
+        "Born circa 1590 in Bridport, Dorset, England. Died January 11, 1650 in Boston (\"Goodman Gallop is dead of a great griping in his bowels\"). IMMIGRATION: Sailed on Mary and John March 20, 1630. Arrived Nantasket May 30, 1630 (67 days passage). CHURCH: \"John Gallop fisherman\" admitted to Boston church January 5, 1633/4. FREEMAN: April 1, 1634. JOHN OLDHAM INCIDENT (1636): Off Block Island, discovered John Oldham's boat captured by Indians. Rammed pinnace multiple times, improvising iron-clad ram by lashing anchor to bow. Recovered Oldham's mutilated body. PEQUOT WAR (1637): Bradford wrote: \"Those that were wounded were fetched off soon by John Gallop who came with his shalop in a happie hour to bring them vituals.\" FIRST NAVAL TASK FORCE (Dec 1632): Ship dispatched to police French raids and pirate Dixy Bull. General Court voted £10 each to Gallop and Mason. PROPERTY: \"Gallop's Island\" (16 acres), house in Boston with wharfage rights, vessel \"the Buck.\" WILL (20 Dec 1649): Wife sole executrix. To son John \"my now shallop.\" 40s. to building new meetinghouse. Sources: Great Migration Begins; Gallup Family Genealogy."
+      ],
+      "familyAsSpouse": [
+        "F70"
+      ],
+      "familyAsChild": []
+    },
+    "I196": {
+      "id": "I196",
+      "name": "Christabell Brushett",
+      "givenName": "Christabell",
+      "surname": "Brushett",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1592",
+        "place": "Dorset, England"
+      },
+      "death": {
+        "date": "27 SEP 1655",
+        "place": "Boston, Suffolk County, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born 1592 in Dorset, England. Died September 27, 1655 in Boston. IMMIGRATION: Arrived on Griffin September 4, 1633 with children after eight weeks crossing. RELUCTANCE: Gov. John Winthrop wrote July 4, 1632: \"I have much difficulty to keep John Galloppe here by reason his wife will not come. I marvel at the woman's weakness...\" CHURCH: Admitted to Boston Church June 22, 1634. WILL (24 July 1655): Names three sons and daughter Joane Joy."
+      ],
+      "familyAsSpouse": [
+        "F70"
+      ],
+      "familyAsChild": []
+    },
+    "I197": {
+      "id": "I197",
+      "name": "Capt. John Gallup III",
+      "givenName": "John",
+      "surname": "Gallup",
+      "suffix": "III",
+      "title": "Capt.",
+      "sex": "M",
+      "birth": {
+        "date": "25 JAN 1621",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "19 DEC 1675",
+        "place": "Great Swamp Fight, Narragansett, Rhode Island"
+      },
+      "burial": {
+        "place": "Smith's Castle Mass Gravesite, Wickford, Washington County, Rhode Island"
+      },
+      "occupation": "Ship Owner, Coastal Trader, Indian Interpreter, Military Captain",
+      "residence": "",
+      "notes": [
+        "Baptized January 25, 1620/21 at Bridport, Dorset. Killed December 19, 1675 at Great Swamp Fight - one of six captains who fell storming the fort. IMMIGRATION: Arrived Boston on Griffin September 4, 1633 with mother and siblings. PEQUOT WAR (1637): \"Bore himself so bravely that the General Court of Connecticut gave him a grant of 100 acres of land.\" PROPERTY: 1651 received 8 acres in New London \"in the very heart of the town.\" 1654 received 300 acres at Mystic River from General Court \"with respect unto the services his father had done.\" OFFICES: Selectman Stonington 1664-1668, 1671, 1673. Town Representative 1665, 1667. Indian Interpreter 1665-1675. KING PHILIP'S WAR: January 1675 made Captain of 1st Company Connecticut Regiment. Raised 70 men under Capt. John Mason of Norwich. ESTATE: Widow £100; son John £137; Benadam £90; William and Samuel £89 each; five daughters £70 each. MEMORIAL: Stone at White Hall Graveyard, Mystic, CT."
+      ],
+      "familyAsSpouse": [
+        "F71"
+      ],
+      "familyAsChild": [
+        "F70"
+      ]
+    },
+    "I198": {
+      "id": "I198",
+      "name": "Hannah Lake",
+      "givenName": "Hannah",
+      "surname": "Lake",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "3 JUL 1621",
+        "place": "North Benfleet, Essex, England"
+      },
+      "death": {
+        "date": "AFT 1675"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Baptized July 3, 1621 at North Benfleet, Essex (as Ann, later called Hannah). First marriage in male line of Gallop family in America. IMMIGRATION: Arrived Boston on ship Abigail October 6, 1635 after ten weeks passage, with mother Margaret and sister Martha. Accompanied aunt Elizabeth (Reade) Winthrop, wife of Gov. John Winthrop Jr. ANCESTRY: Father John Lake descended from Lakes of Normantown, Yorkshire, who claimed descent through the Cailleys from the Albinis, Earls of Arundel and Sussex, from the Counts of Louvaine (right line of Charlemagne) and from William the Conqueror."
+      ],
+      "familyAsSpouse": [
+        "F71"
+      ],
+      "familyAsChild": [
+        "F72"
+      ]
+    },
+    "I199": {
+      "id": "I199",
+      "name": "John Lake",
+      "givenName": "John",
+      "surname": "Lake",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "26 SEP 1590",
+        "place": "North Benfleet, Essex, England"
+      },
+      "death": {
+        "date": "BEF 18 JAN 1662",
+        "place": "England"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Christened September 26, 1590 at North Benfleet, Essex. Died in England before January 18, 1661/62 (recorded living 1657). RESIDENCE: Great Fanton Hall, North Benfleet, Essex. NOTE: John Lake never came to America. Wife Margaret left England without him sometime between 1631 and 1635."
+      ],
+      "familyAsSpouse": [
+        "F72"
+      ],
+      "familyAsChild": []
+    },
+    "I200": {
+      "id": "I200",
+      "name": "Margaret Reade",
+      "givenName": "Margaret",
+      "surname": "Reade",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "11 JUL 1598",
+        "place": "North Benfleet, Essex, England"
+      },
+      "death": {
+        "date": "BET 30 AUG 1672 AND 24 SEP 1672",
+        "place": "Ipswich, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born July 11, 1598. Baptized July 16, 1598 at North Benfleet, Essex. PARENTS: Edmund Reade and Elizabeth (Cooke) Reade of Wickford and North Benfleet, Essex. IMMIGRATION: Arrived Boston on ship Abigail October 6, 1635 with daughters Hannah and Martha. Accompanied sister Elizabeth (Reade) Winthrop. SISTERS: Elizabeth Reade (second wife of Gov. John Winthrop Jr., mother of all his children). Martha Epps (widow, married Deputy Gov. Samuel Symonds of Ipswich). NOTE: Left husband in England - \"what may have been an untenable marital situation.\" WILL: Made August 30, 1672; proved September 24, 1672 at Ipswich."
+      ],
+      "familyAsSpouse": [
+        "F72"
+      ],
+      "familyAsChild": []
+    },
+    "I201": {
+      "id": "I201",
+      "name": "Esther Gallup",
+      "givenName": "Esther",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "24 MAR 1653",
+        "place": "New London, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake."
+      ],
+      "familyAsSpouse": [
+        "F73"
+      ],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I202": {
+      "id": "I202",
+      "name": "Elder Henry Hodges II",
+      "givenName": "Henry",
+      "surname": "Hodges",
+      "suffix": "II",
+      "title": "Elder",
+      "sex": "M",
+      "birth": {
+        "date": "1652",
+        "place": "Taunton, Massachusetts"
+      },
+      "death": {
+        "date": "30 SEP 1717",
+        "place": "Taunton, Massachusetts"
+      },
+      "burial": {
+        "place": "Neck of Land Burying Ground, Taunton"
+      },
+      "occupation": "Church Elder, Selectman, Military Captain",
+      "residence": "",
+      "notes": [
+        "Born 1652 in Taunton. Died September 30, 1717 age 65. Gravestone: \"Here lies the body of Elder Henry Hodges, Died Sept. 30, 1717. Aged 65 years.\" RESIDENCE: House \"within a few yards of the place where a red school house stood in 1820.\" Tablet: \"Homestead of Elder Henry Hodges, 1681-1717.\" CAREER: Leading man in all affairs of settlement. Captain of military company. Held highest town offices many years. CHURCH: Deacon and Presiding Elder - occupied seat in pulpit with Rev. Samuel Danforth. SELECTMAN: 28 years (1687-1701, 1703-1709, 1711-1716). GENERAL COURT: Member 5 years (1704, 1713, 1715, 1716, 1717). MILITARY: First captain of Second Military Company (before 1703); retained command until 1714. PROPERTY: Large estate including farm \"Crooked Meadow\" at Burt's Brook. WILL (17 Sep 1717): Sons William, John, Joseph, Henry, Benjamin, Ephraim (executor). Wife Esther. Daughters Mary Keith, Esther Southworth, Charity Leonard, Elizabeth Hodges, Abigail Hodges."
+      ],
+      "familyAsSpouse": [
+        "F73"
+      ],
+      "familyAsChild": [
+        "F74"
+      ]
+    },
+    "I203": {
+      "id": "I203",
+      "name": "Sr. Henry Andrews",
+      "givenName": "Henry",
+      "surname": "Andrews",
+      "suffix": "",
+      "title": "Sr.",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1608",
+        "place": "England"
+      },
+      "death": {
+        "date": "BET 13 MAR 1652 AND 10 FEB 1653",
+        "place": "Taunton, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Farmer, Builder",
+      "residence": "",
+      "notes": [
+        "Born circa 1608 likely in England. Died between March 13, 1652 (will) and February 10, 1652/53 (probate). FREEMAN: Listed March 7, 1636 from Cohannet. One of original purchasers of Taunton 1638; admitted one of first 7 freemen December 4. DEPUTY: To General Court 1639 (first year any chosen), 1642-4, 1647, 1649. BUILDER: Built first meeting house in Taunton 1647 - paid with land \"neck of land\" called \"calves pasture.\" IRON WORKS: One of first stockholders of first Iron Works. WILL (13 Mar 1652): Wife Mary, children Henry, Mary (wife of William Hodges), Sarah, Abigail, grandson John Hodges. INVENTORY: £330-16s."
+      ],
+      "familyAsSpouse": [
+        "F76"
+      ],
+      "familyAsChild": []
+    },
+    "I204": {
+      "id": "I204",
+      "name": "Mary Pool",
+      "givenName": "Mary",
+      "surname": "Pool",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1611",
+        "place": "Bridgewater, Somerset, England"
+      },
+      "death": {
+        "date": "ABT 1655",
+        "place": "Taunton, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Henry Andrews Sr. Mother of Mary Andrews who married William Hodges."
+      ],
+      "familyAsSpouse": [
+        "F76"
+      ],
+      "familyAsChild": []
+    },
+    "I205": {
+      "id": "I205",
+      "name": "Mary Andrews",
+      "givenName": "Mary",
+      "surname": "Andrews",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1631",
+        "place": "England"
+      },
+      "death": {
+        "date": "AFT 1700"
+      },
+      "burial": {},
+      "occupation": "Innholder",
+      "residence": "",
+      "notes": [
+        "Born circa 1631 probably in England. Died after 1700 (was inn holder in Taunton in 1700). FIRST MARRIAGE: William Hodges c.1648/49. Settled estate on two sons March 15, 1655. SECOND MARRIAGE: Peter Pitts c.1655. Six children. At husband Peter Pitts' death 1692 she was described as \"a very antient and infirm woman.\""
+      ],
+      "familyAsSpouse": [
+        "F74",
+        "F75"
+      ],
+      "familyAsChild": [
+        "F76"
+      ]
+    },
+    "I206": {
+      "id": "I206",
+      "name": "William Hodges I",
+      "givenName": "William",
+      "surname": "Hodges",
+      "suffix": "I",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1624",
+        "place": "Kent, England"
+      },
+      "death": {
+        "date": "2 APR 1654",
+        "place": "Taunton, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Baptized March 21, 1624 at East Greenwich, Kent, England. Died April 2, 1654. NAME VARIANT: \"Hedges\" in Plymouth Colony records, \"Hodges\" in Taunton records. IMMIGRATION: Very likely \"William Hedges\" on jury at Salem March 27, 1638 (possibly William Hedge of Lynn). SETTLEMENT: Went to Taunton soon after purchased. On second list of early settlers by Town Clerk John Wilbore. AUGUST 1643: First certain appearance - list of males able to bear arms (ages 16-60). FREEMAN: Propounded June 6, 1649; admitted June 5, 1651 (appointed constable same date). IRON WORKS: Original stockholder first Taunton Iron Works (£20 for whole share). PROPERTY: \"Held considerable property and probably was comparatively young when he died.\""
+      ],
+      "familyAsSpouse": [
+        "F74"
+      ],
+      "familyAsChild": []
+    },
+    "I207": {
+      "id": "I207",
+      "name": "Peter Pitts",
+      "givenName": "Peter",
+      "surname": "Pitts",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {
+        "date": "BET 1692 AND 1693",
+        "place": "Taunton, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Second husband of Mary Andrews (widow Hodges)."
+      ],
+      "familyAsSpouse": [
+        "F75"
+      ],
+      "familyAsChild": []
+    },
+    "I208": {
+      "id": "I208",
+      "name": "Joan Gallop",
+      "givenName": "Joan",
+      "surname": "Gallop",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "20 SEP 1618",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "20 MAR 1691",
+        "place": "Hingham, Plymouth County, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallop II and Christabell Brushett."
+      ],
+      "familyAsSpouse": [
+        "F77"
+      ],
+      "familyAsChild": [
+        "F70"
+      ]
+    },
+    "I209": {
+      "id": "I209",
+      "name": "Thomas Joy",
+      "givenName": "Thomas",
+      "surname": "Joy",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1611"
+      },
+      "death": {
+        "date": "21 OCT 1678",
+        "place": "Hingham, Plymouth County, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Carpenter, Millwright",
+      "residence": "",
+      "notes": [
+        "Married Joan Gallop March 1636/7."
+      ],
+      "familyAsSpouse": [
+        "F77"
+      ],
+      "familyAsChild": []
+    },
+    "I210": {
+      "id": "I210",
+      "name": "Samuel Gallop",
+      "givenName": "Samuel",
+      "surname": "Gallop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "16 AUG 1629",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "1667",
+        "place": "Boston, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Twin with Nathaniel. Son of Capt. John Gallop II and Christabell Brushett."
+      ],
+      "familyAsSpouse": [
+        "F78"
+      ],
+      "familyAsChild": [
+        "F70"
+      ]
+    },
+    "I211": {
+      "id": "I211",
+      "name": "Mary Phillips",
+      "givenName": "Mary",
+      "surname": "Phillips",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Samuel Gallop. Married January 20, 1650/51 in Boston."
+      ],
+      "familyAsSpouse": [
+        "F78"
+      ],
+      "familyAsChild": []
+    },
+    "I212": {
+      "id": "I212",
+      "name": "Nathaniel Gallop",
+      "givenName": "Nathaniel",
+      "surname": "Gallop",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "16 AUG 1629",
+        "place": "Bridport, Dorset, England"
+      },
+      "death": {
+        "date": "1669"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Twin with Samuel. Son of Capt. John Gallop II and Christabell Brushett."
+      ],
+      "familyAsSpouse": [
+        "F79"
+      ],
+      "familyAsChild": [
+        "F70"
+      ]
+    },
+    "I213": {
+      "id": "I213",
+      "name": "Margaret Eveleth",
+      "givenName": "Margaret",
+      "surname": "Eveleth",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {
+        "date": "11 AUG 1698",
+        "place": "Boston, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Sylvester Eveleth. Wife of Nathaniel Gallop. Married June 11, 1652 in Boston."
+      ],
+      "familyAsSpouse": [
+        "F79"
+      ],
+      "familyAsChild": []
+    },
+    "I214": {
+      "id": "I214",
+      "name": "Hannah Gallup",
+      "givenName": "Hannah",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "14 SEP 1644",
+        "place": "Boston, Massachusetts"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake. Married Stephen Gifford of Norwich June 18, 1672."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I215": {
+      "id": "I215",
+      "name": "John Gallup IV",
+      "givenName": "John",
+      "surname": "Gallup",
+      "suffix": "IV",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Capt. John Gallup III and Hannah Lake."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I216": {
+      "id": "I216",
+      "name": "Benadam Gallup",
+      "givenName": "Benadam",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1655",
+        "place": "Stonington, Connecticut"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Capt. John Gallup III and Hannah Lake."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I217": {
+      "id": "I217",
+      "name": "William Gallup",
+      "givenName": "William",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1658"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Capt. John Gallup III and Hannah Lake."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I218": {
+      "id": "I218",
+      "name": "Samuel Gallup",
+      "givenName": "Samuel",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Capt. John Gallup III and Hannah Lake."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I219": {
+      "id": "I219",
+      "name": "Christobel Gallup",
+      "givenName": "Christobel",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake. Married Peter Crary of Groton December 31, 1677."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I220": {
+      "id": "I220",
+      "name": "Elizabeth Gallup",
+      "givenName": "Elizabeth",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake. Married Henry Stevens of Stonington."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I221": {
+      "id": "I221",
+      "name": "Mary Gallup",
+      "givenName": "Mary",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake. Married John Cole, schoolmaster of Boston."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I222": {
+      "id": "I222",
+      "name": "Margaret Gallup",
+      "givenName": "Margaret",
+      "surname": "Gallup",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Capt. John Gallup III and Hannah Lake. Married Joseph Culver of Groton."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F71"
+      ]
+    },
+    "I223": {
+      "id": "I223",
+      "name": "Martha Lake",
+      "givenName": "Martha",
+      "surname": "Lake",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "20 JUL 1624",
+        "place": "North Benfleet, Essex, England"
+      },
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of John Lake and Margaret Reade. Sister of Hannah Lake."
+      ],
+      "familyAsSpouse": [
+        "F80"
+      ],
+      "familyAsChild": [
+        "F72"
+      ]
+    },
+    "I224": {
+      "id": "I224",
+      "name": "Thomas Harris",
+      "givenName": "Thomas",
+      "surname": "Harris",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Ipswich, Massachusetts",
+      "notes": [
+        "Married Martha Lake November 15, 1647 at Ipswich."
+      ],
+      "familyAsSpouse": [
+        "F80"
+      ],
+      "familyAsChild": []
+    },
+    "I225": {
+      "id": "I225",
+      "name": "Gov. Gov. William Bradford III",
+      "givenName": "William",
+      "surname": "Bradford",
+      "suffix": "III",
+      "title": "Gov.",
+      "sex": "M",
+      "birth": {
+        "date": "19 MAR 1590",
+        "place": "Austerfield, Yorkshire, England"
+      },
+      "death": {
+        "date": "9 MAY 1657",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "Governor of Plymouth Colony",
+      "residence": "",
+      "notes": [
+        "MAYFLOWER PASSENGER 1620. Governor of Plymouth Colony for approximately 30 years. Author of \"Of Plymouth Plantation.\" ORPHAN: Father died 1591, mother remarried and died 1597. Raised by uncles. SEPARATIST: Joined Separatist congregation at Scrooby c.1606 at age 16. LEIDEN: Fled to Netherlands 1608, lived in Leiden. MAYFLOWER: Sailed 1620, signed Mayflower Compact. FIRST WIFE: Dorothy May - drowned from Mayflower at Cape Cod Harbor December 1620. SECOND WIFE: Alice (Carpenter) Southworth - married August 14, 1623. Sources: Bradford's History \"Of Plymouth Plantation\"; MayflowerHistory.com."
+      ],
+      "familyAsSpouse": [
+        "F81",
+        "F82"
+      ],
+      "familyAsChild": []
+    },
+    "I226": {
+      "id": "I226",
+      "name": "Dorothy May",
+      "givenName": "Dorothy",
+      "surname": "May",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {
+        "date": "DEC 1620",
+        "place": "Cape Cod Harbor, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "First wife of Gov. William Bradford. Drowned from the Mayflower at Cape Cod Harbor. Son John remained in England."
+      ],
+      "familyAsSpouse": [
+        "F81"
+      ],
+      "familyAsChild": []
+    },
+    "I227": {
+      "id": "I227",
+      "name": "Alice Carpenter",
+      "givenName": "Alice",
+      "surname": "Carpenter",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1590",
+        "place": "Wrington, Somerset, England"
+      },
+      "death": {
+        "date": "26 MAR 1670",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Born circa 1590 in Wrington, Somerset. Died March 26, 1670 in Plymouth age about 80. FIRST HUSBAND: Edward Southworth (children Thomas, Constant). SECOND HUSBAND: Gov. William Bradford - married August 14, 1623. IMMIGRATION: Arrived on ship Anne 1623 with her sons. DEATH EULOGY (Plymouth Colony Records): \"On the 26th day of March, 1670, Mistris Allice Bradford, Seni'r, changed this life for the better, haueing attained to fourscore years of age, or therabouts. Shee was a godly matron, and much loued while shee liued...\" NOTABLE DESCENDANT: President Franklin D. Roosevelt (through first husband)."
+      ],
+      "familyAsSpouse": [
+        "F82"
+      ],
+      "familyAsChild": [
+        "F83"
+      ]
+    },
+    "I228": {
+      "id": "I228",
+      "name": "Alexander Carpenter",
+      "givenName": "Alexander",
+      "surname": "Carpenter",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1546",
+        "place": "Wrington, Somerset, England"
+      },
+      "death": {
+        "date": "1612",
+        "place": "Wrington, Somerset, England"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Father of Alice Carpenter. Member of \"Ancient Brethren\" (early Separatist congregation). MARRIAGE: Priscilla Dillen, 1583 at St. James, Bath, Somerset. NETHERLANDS: At Amsterdam December 16, 1600 as witness at a marriage. At Leiden by 1611."
+      ],
+      "familyAsSpouse": [
+        "F83"
+      ],
+      "familyAsChild": []
+    },
+    "I229": {
+      "id": "I229",
+      "name": "Priscilla Dillen",
+      "givenName": "Priscilla",
+      "surname": "Dillen",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "6 SEP 1552",
+        "place": "Wrington, Somerset, England"
+      },
+      "death": {
+        "date": "ABT 1644",
+        "place": "Wrington, Somerset, England"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Mother of Alice Carpenter. Gov. Bradford noted in 1644 letter that she had recently died."
+      ],
+      "familyAsSpouse": [
+        "F83"
+      ],
+      "familyAsChild": []
+    },
+    "I230": {
+      "id": "I230",
+      "name": "Lt. Gov. Lt. Gov. William Bradford IV",
+      "givenName": "William",
+      "surname": "Bradford",
+      "suffix": "IV",
+      "title": "Lt. Gov.",
+      "sex": "M",
+      "birth": {
+        "date": "17 JUN 1624",
+        "place": "Plymouth, Massachusetts"
+      },
+      "death": {
+        "date": "20 FEB 1704",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {
+        "place": "Burial Hill, Plymouth"
+      },
+      "occupation": "Deputy Governor, Military Commander",
+      "residence": "",
+      "notes": [
+        "Deputy Governor of Plymouth 1682-86 and 1689-91. Commander Plymouth forces in King Philip's War. MILITARY: Severely wounded at the Great Swamp Fight December 19, 1675. ANDROS COUNCIL: Served on Sir Edmund Andros' Council 1687 and 1688. RESIDENCE: Kingston, MA on north side of Jones River. FIRST WIFE: Alice Richards (1627-1671) - 10 children. SECOND WIFE: Sarah (Griswold) Wiswall (widow) - son Joseph. THIRD WIFE: Mary (Wood/Atwood) Holmes (widow) - 4 sons."
+      ],
+      "familyAsSpouse": [
+        "F84",
+        "F85"
+      ],
+      "familyAsChild": [
+        "F82"
+      ]
+    },
+    "I231": {
+      "id": "I231",
+      "name": "Alice Richards",
+      "givenName": "Alice",
+      "surname": "Richards",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "16 JUN 1627",
+        "place": "Pitminster, Somerset, England"
+      },
+      "death": {
+        "date": "12 DEC 1671",
+        "place": "Plymouth, Massachusetts"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "First wife of Lt. Gov. William Bradford IV. Daughter of Thomas Richards and Welthian Loring. MARRIAGE: After April 23, 1650 - \"William Bradford deeded land to his son William upon his agreement to marry Allice, dau. of Mr. Thomas Richards of Waymouth.\""
+      ],
+      "familyAsSpouse": [
+        "F84"
+      ],
+      "familyAsChild": []
+    },
+    "I232": {
+      "id": "I232",
+      "name": "Lt. Lt. Joseph Bradford",
+      "givenName": "Joseph",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "Lt.",
+      "sex": "M",
+      "birth": {
+        "date": "1675"
+      },
+      "death": {
+        "date": "1747"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "Lebanon, Connecticut",
+      "notes": [
+        "Son of Lt. Gov. William Bradford IV by second wife. Of Lebanon and Montville, Connecticut."
+      ],
+      "familyAsSpouse": [
+        "F86"
+      ],
+      "familyAsChild": [
+        "F85"
+      ]
+    },
+    "I233": {
+      "id": "I233",
+      "name": "Anne Fitch",
+      "givenName": "Anne",
+      "surname": "Fitch",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "1675"
+      },
+      "death": {
+        "date": "1715"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Daughter of Rev. James Fitch and Abigail Whitfield. First wife of Lt. Joseph Bradford."
+      ],
+      "familyAsSpouse": [
+        "F86"
+      ],
+      "familyAsChild": []
+    },
+    "I234": {
+      "id": "I234",
+      "name": "Irene Bradford",
+      "givenName": "Irene",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {
+        "date": "8 MAR 1715",
+        "place": "Lebanon, Connecticut"
+      },
+      "death": {
+        "date": "1785"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Twin daughter of Lt. Joseph Bradford and Anne Fitch. Married Jonathan Janes March 18, 1736 at Lebanon, CT."
+      ],
+      "familyAsSpouse": [
+        "F87"
+      ],
+      "familyAsChild": [
+        "F86"
+      ]
+    },
+    "I235": {
+      "id": "I235",
+      "name": "Jonathan Janes",
+      "givenName": "Jonathan",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {
+        "date": "1713"
+      },
+      "death": {
+        "date": "AFT 1783"
+      },
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of William Janes and Abigail Loomis. Married Irene Bradford March 18, 1736."
+      ],
+      "familyAsSpouse": [
+        "F87"
+      ],
+      "familyAsChild": [
+        "F88"
+      ]
+    },
+    "I236": {
+      "id": "I236",
+      "name": "Elder William Janes",
+      "givenName": "William",
+      "surname": "Janes",
+      "suffix": "",
+      "title": "Elder",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "Northfield, Massachusetts",
+      "notes": [
+        "Elder William Janes of Northfield, Massachusetts. Property documented 1714-1716."
+      ],
+      "familyAsSpouse": [
+        "F88"
+      ],
+      "familyAsChild": []
+    },
+    "I237": {
+      "id": "I237",
+      "name": "Abigail Loomis",
+      "givenName": "Abigail",
+      "surname": "Loomis",
+      "suffix": "",
+      "title": "",
+      "sex": "F",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Wife of Elder William Janes. Mother of Jonathan Janes."
+      ],
+      "familyAsSpouse": [
+        "F88"
+      ],
+      "familyAsChild": []
+    },
+    "I238": {
+      "id": "I238",
+      "name": "John Bradford",
+      "givenName": "John",
+      "surname": "Bradford",
+      "suffix": "",
+      "title": "",
+      "sex": "M",
+      "birth": {},
+      "death": {},
+      "burial": {},
+      "occupation": "",
+      "residence": "",
+      "notes": [
+        "Son of Gov. William Bradford and Dorothy May. Remained in England, came to Plymouth later."
+      ],
+      "familyAsSpouse": [],
+      "familyAsChild": [
+        "F81"
+      ]
+    }
+  },
+  "families": {
+    "F1": {
+      "id": "F1",
+      "husband": "I1",
+      "husbandName": "John House",
+      "wife": "I2",
+      "wifeName": "Alice Lloyd",
+      "marriage": {},
+      "children": [
+        "I3"
+      ],
+      "notes": []
+    },
+    "F10": {
+      "id": "F10",
+      "husband": "I36",
+      "husbandName": "Elkanah Lathrop",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I37"
+      ],
+      "notes": []
+    },
+    "F11": {
+      "id": "F11",
+      "husband": "I37",
+      "husbandName": "Russell Lathrop",
+      "wife": "I74",
+      "wifeName": "Cynthia Powell",
+      "marriage": {
+        "date": "12 JAN 1815"
+      },
+      "children": [
+        "I77"
+      ],
+      "notes": []
+    },
+    "F12": {
+      "id": "F12",
+      "husband": "I77",
+      "husbandName": "Henry Lathrop",
+      "wife": "I76",
+      "wifeName": "Rachel Laws",
+      "marriage": {
+        "date": "1 SEP 1844"
+      },
+      "children": [
+        "I78",
+        "I79",
+        "I80",
+        "I81",
+        "I82",
+        "I83",
+        "I84",
+        "I85",
+        "I86",
+        "I87"
+      ],
+      "notes": []
+    },
+    "F13": {
+      "id": "F13",
+      "husband": "I55",
+      "husbandName": "Rowland Powell II",
+      "wife": "I56",
+      "wifeName": "Isabel Buxton",
+      "marriage": {},
+      "children": [
+        "I57"
+      ],
+      "notes": []
+    },
+    "F14": {
+      "id": "F14",
+      "husband": "I57",
+      "husbandName": "Rowland Powell III",
+      "wife": "I52",
+      "wifeName": "Elizabeth Truman",
+      "marriage": {
+        "date": "1685"
+      },
+      "children": [
+        "I70",
+        "I71",
+        "I72",
+        "I73"
+      ],
+      "notes": []
+    },
+    "F15": {
+      "id": "F15",
+      "husband": "I57",
+      "husbandName": "Rowland Powell III",
+      "wife": "I59",
+      "wifeName": "Mary Ann Tilden",
+      "marriage": {},
+      "children": [
+        "I68"
+      ],
+      "notes": []
+    },
+    "F17": {
+      "id": "F17",
+      "husband": "I60",
+      "husbandName": "William Bradford I",
+      "wife": "I61",
+      "wifeName": "Alice Hanson",
+      "marriage": {
+        "date": "21 JUN 1584"
+      },
+      "children": [
+        "I62"
+      ],
+      "notes": []
+    },
+    "F18": {
+      "id": "F18",
+      "husband": "I62",
+      "husbandName": "William Bradford",
+      "wife": "I63",
+      "wifeName": "Dorothy May",
+      "marriage": {},
+      "children": [],
+      "notes": []
+    },
+    "F19": {
+      "id": "F19",
+      "husband": "I90",
+      "husbandName": "Johann Peter Woolever",
+      "wife": "I91",
+      "wifeName": "Anna Margaretha Finck",
+      "marriage": {},
+      "children": [
+        "I89"
+      ],
+      "notes": []
+    },
+    "F2": {
+      "id": "F2",
+      "husband": "I4",
+      "husbandName": "John Lathrop",
+      "wife": "I3",
+      "wifeName": "Hannah House",
+      "marriage": {
+        "date": "10 OCT 1610",
+        "place": "England"
+      },
+      "children": [
+        "I6",
+        "I7",
+        "I8",
+        "I9",
+        "I10",
+        "I11",
+        "I12"
+      ],
+      "notes": []
+    },
+    "F20": {
+      "id": "F20",
+      "husband": "I88",
+      "husbandName": "John Petty",
+      "wife": "I89",
+      "wifeName": "Margaret Woolever",
+      "marriage": {},
+      "children": [
+        "I92"
+      ],
+      "notes": []
+    },
+    "F21": {
+      "id": "F21",
+      "husband": "I94",
+      "husbandName": "Joseph Petty",
+      "wife": "I95",
+      "wifeName": "Elizabeth Middagh",
+      "marriage": {},
+      "children": [
+        "I96"
+      ],
+      "notes": []
+    },
+    "F22": {
+      "id": "F22",
+      "husband": "I96",
+      "husbandName": "Jacob Petty",
+      "wife": "I97",
+      "wifeName": "Millie Barns",
+      "marriage": {
+        "date": "1822"
+      },
+      "children": [],
+      "notes": []
+    },
+    "F23": {
+      "id": "F23",
+      "husband": "I98",
+      "husbandName": "Dennis Clay Lathrop",
+      "wife": "I99",
+      "wifeName": "Mabel June Petty",
+      "marriage": {},
+      "children": [
+        "I100",
+        "I101",
+        "I104",
+        "I178",
+        "I179",
+        "I180",
+        "I181"
+      ],
+      "notes": [
+        "Dennis Clay Lathrop and Mabel June Petty. Children: Levi, Leonard, Dorothy Falke, Beulah Ledet, Norma Leturno, Phyllis Summers, Gerald (deceased)."
+      ]
+    },
+    "F24": {
+      "id": "F24",
+      "husband": "I75",
+      "husbandName": "William Laws",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I76"
+      ],
+      "notes": []
+    },
+    "F25": {
+      "id": "F25",
+      "husband": "I40",
+      "husbandName": "",
+      "wife": "I41",
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I42",
+        "I43"
+      ],
+      "notes": []
+    },
+    "F26": {
+      "id": "F26",
+      "husband": "I43",
+      "husbandName": "",
+      "wife": "I44",
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I45"
+      ],
+      "notes": []
+    },
+    "F27": {
+      "id": "F27",
+      "husband": "I38",
+      "husbandName": "Robert Peck III",
+      "wife": "I39",
+      "wifeName": "Helen Babbs",
+      "marriage": {},
+      "children": [],
+      "notes": []
+    },
+    "F29": {
+      "id": "F29",
+      "husband": "I51",
+      "husbandName": "Joseph Truman",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I52"
+      ],
+      "notes": []
+    },
+    "F3": {
+      "id": "F3",
+      "husband": "I4",
+      "husbandName": "John Lathrop",
+      "wife": "I5",
+      "wifeName": "Anna Lathrop",
+      "marriage": {
+        "date": "14 JUN 1635",
+        "place": "Scituate, MA"
+      },
+      "children": [
+        "I13",
+        "I14",
+        "I15",
+        "I16",
+        "I17"
+      ],
+      "notes": []
+    },
+    "F31": {
+      "id": "F31",
+      "husband": "I113",
+      "husbandName": "Benjamin Franklin Smalley",
+      "wife": "I114",
+      "wifeName": "Lucinda Jane Carmody",
+      "marriage": {},
+      "children": [
+        "I115",
+        "I116",
+        "I117",
+        "I118",
+        "I119",
+        "I120"
+      ],
+      "notes": []
+    },
+    "F32": {
+      "id": "F32",
+      "husband": "I121",
+      "husbandName": "William G. Bailey",
+      "wife": "I122",
+      "wifeName": "Olive Elizabeth Bailey",
+      "marriage": {},
+      "children": [
+        "I123"
+      ],
+      "notes": []
+    },
+    "F33": {
+      "id": "F33",
+      "husband": "I124",
+      "husbandName": "William W. Cofield",
+      "wife": "I125",
+      "wifeName": "Sarah E. Ray",
+      "marriage": {},
+      "children": [
+        "I126"
+      ],
+      "notes": []
+    },
+    "F34": {
+      "id": "F34",
+      "husband": "I123",
+      "husbandName": "Edgar U. Bailey",
+      "wife": "I126",
+      "wifeName": "Elizabeth Cofield",
+      "marriage": {
+        "date": "24 DEC 1893"
+      },
+      "children": [],
+      "notes": []
+    },
+    "F4": {
+      "id": "F4",
+      "husband": "I10",
+      "husbandName": "Samuel Lathrop I",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I18"
+      ],
+      "notes": []
+    },
+    "F5": {
+      "id": "F5",
+      "husband": "I18",
+      "husbandName": "Samuel Lathrop",
+      "wife": "I19",
+      "wifeName": "Hannah Adgate",
+      "marriage": {},
+      "children": [
+        "I20"
+      ],
+      "notes": []
+    },
+    "F6": {
+      "id": "F6",
+      "husband": "I20",
+      "husbandName": "Samuel Lathrop III",
+      "wife": "I21",
+      "wifeName": "Deborah Crow",
+      "marriage": {
+        "date": "24 JUL 1715",
+        "place": "Norwich, New London Co., CT"
+      },
+      "children": [
+        "I33",
+        "I34",
+        "I35"
+      ],
+      "notes": []
+    },
+    "F7": {
+      "id": "F7",
+      "husband": "I24",
+      "husbandName": "John Crow",
+      "wife": "I25",
+      "wifeName": "Elizabeth Goodwin",
+      "marriage": {},
+      "children": [
+        "I22"
+      ],
+      "notes": []
+    },
+    "F8": {
+      "id": "F8",
+      "husband": "I22",
+      "husbandName": "John Crow",
+      "wife": "I23",
+      "wifeName": "Nathaniel Crow",
+      "marriage": {},
+      "children": [
+        "I21"
+      ],
+      "notes": []
+    },
+    "F9": {
+      "id": "F9",
+      "husband": "I26",
+      "husbandName": "William Goodwin",
+      "wife": "I27",
+      "wifeName": "Elizabeth White",
+      "marriage": {},
+      "children": [
+        "I25"
+      ],
+      "notes": []
+    },
+    "F35": {
+      "id": "F35",
+      "husband": "I58",
+      "husbandName": "Stephen Tilden",
+      "wife": "I131",
+      "wifeName": "Mary Powell",
+      "marriage": {},
+      "children": [
+        "I59"
+      ],
+      "notes": [
+        "Stephen Tilden and Mary Powell, parents of Mary Ann Tilden."
+      ]
+    },
+    "F36": {
+      "id": "F36",
+      "husband": "I47",
+      "husbandName": "",
+      "wife": "I54",
+      "wifeName": "Lydia Huckstep",
+      "marriage": {},
+      "children": [
+        "I58"
+      ],
+      "notes": [
+        "Elder Nathaniel Tilden and Lydia Huckstep, parents of Stephen Tilden. Replaces F30 which lacked wife."
+      ]
+    },
+    "F37": {
+      "id": "F37",
+      "husband": "I134",
+      "husbandName": "Thomas Tilden",
+      "wife": "I135",
+      "wifeName": "Alice Bigge",
+      "marriage": {},
+      "children": [
+        "I47"
+      ],
+      "notes": [
+        "Thomas Tilden and Alice Bigge, parents of Elder Nathaniel Tilden."
+      ]
+    },
+    "F38": {
+      "id": "F38",
+      "husband": "I136",
+      "husbandName": "Stephen Huckstep",
+      "wife": "I137",
+      "wifeName": "Winifred Hatch",
+      "marriage": {},
+      "children": [
+        "I54"
+      ],
+      "notes": [
+        "Stephen Huckstep and Winifred Hatch, parents of Lydia Huckstep."
+      ]
+    },
+    "F39": {
+      "id": "F39",
+      "husband": "I132",
+      "husbandName": "Richard Warren",
+      "wife": "I133",
+      "wifeName": "Elizabeth Walker",
+      "marriage": {},
+      "children": [
+        "I53"
+      ],
+      "notes": [
+        "Richard Warren and Elizabeth Walker, parents of Ann Warren."
+      ]
+    },
+    "F40": {
+      "id": "F40",
+      "husband": "I68",
+      "husbandName": "Rowland Powell IV",
+      "wife": "I69",
+      "wifeName": "Mary Powell",
+      "marriage": {},
+      "children": [
+        "I138"
+      ],
+      "notes": [
+        "Rowland Powell IV and Mary Powell, parents of Rowland Powell V. Updates F16."
+      ]
+    },
+    "F41": {
+      "id": "F41",
+      "husband": "I138",
+      "husbandName": "Rowland Powell V",
+      "wife": "I139",
+      "wifeName": "Mary Janes",
+      "marriage": {},
+      "children": [
+        "I74"
+      ],
+      "notes": [
+        "Rowland Powell V and Mary Janes, parents of Cynthia Powell."
+      ]
+    },
+    "F42": {
+      "id": "F42",
+      "husband": "I140",
+      "husbandName": "Edmund Hobart",
+      "wife": "I141",
+      "wifeName": "Margaret Dewey",
+      "marriage": {},
+      "children": [
+        "I50"
+      ],
+      "notes": [
+        "Edmund Hobart and Margaret Dewey, parents of Dorothy Hobart. Updates F28."
+      ]
+    },
+    "F43": {
+      "id": "F43",
+      "husband": "I142",
+      "husbandName": "Robert Peck II",
+      "wife": "I143",
+      "wifeName": "Joan Waters",
+      "marriage": {},
+      "children": [
+        "I144"
+      ],
+      "notes": [
+        "Robert Peck II and Joan Waters, parents of Rev. Robert Peck."
+      ]
+    },
+    "F44": {
+      "id": "F44",
+      "husband": "I42",
+      "husbandName": "",
+      "wife": "I145",
+      "wifeName": "Johanna Thurgood",
+      "marriage": {},
+      "children": [
+        "I43"
+      ],
+      "notes": [
+        "George Fitch and Johanna Thurgood, parents of Joseph Fitch."
+      ]
+    },
+    "F45": {
+      "id": "F45",
+      "husband": "I146",
+      "husbandName": "Abel Janes",
+      "wife": "I147",
+      "wifeName": "Mary Judd",
+      "marriage": {},
+      "children": [
+        "I66"
+      ],
+      "notes": [
+        "Abel Janes and Mary Judd, parents of William Janes."
+      ]
+    },
+    "F46": {
+      "id": "F46",
+      "husband": "I66",
+      "husbandName": "William Janes",
+      "wife": "I67",
+      "wifeName": "Abigail Loomis",
+      "marriage": {
+        "date": "5 JUN 1712",
+        "place": "Brimfield, Massachusetts"
+      },
+      "children": [
+        "I148",
+        "I139"
+      ],
+      "notes": [
+        "William Janes and Abigail Loomis, parents of Jonathan Janes and Mary Janes."
+      ]
+    },
+    "F47": {
+      "id": "F47",
+      "husband": "I148",
+      "husbandName": "Jonathan Janes",
+      "wife": "I149",
+      "wifeName": "Irene Bradford",
+      "marriage": {},
+      "children": [],
+      "notes": [
+        "Jonathan Janes and Irene Bradford."
+      ]
+    },
+    "F48": {
+      "id": "F48",
+      "husband": "I65",
+      "husbandName": "Amos Richardson",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I150"
+      ],
+      "notes": [
+        "Amos Richardson, father of Mary Ann Richardson."
+      ]
+    },
+    "F49": {
+      "id": "F49",
+      "husband": "I20",
+      "husbandName": "Samuel Lathrop III",
+      "wife": "I21",
+      "wifeName": "Deborah Crow",
+      "marriage": {
+        "date": "24 JUL 1715",
+        "place": "Norwich, New London County, Connecticut"
+      },
+      "children": [
+        "I33",
+        "I151",
+        "I34",
+        "I35"
+      ],
+      "notes": [
+        "Samuel Lathrop III and Deborah Crow. Updates F6 with additional child Lt. Ezra."
+      ]
+    },
+    "F50": {
+      "id": "F50",
+      "husband": "I151",
+      "husbandName": "Ezra Lathrop",
+      "wife": "I152",
+      "wifeName": "Charity Perkins",
+      "marriage": {
+        "date": "20 JAN 1743",
+        "place": "New London, Connecticut"
+      },
+      "children": [
+        "I191",
+        "I192",
+        "I193",
+        "I194",
+        "I153"
+      ],
+      "notes": [
+        "Lt. Ezra Lathrop and Charity Perkins. Married by Rev. Daniel Kirtland. Children: Ezra Jr (sea captain), Jedidiah, Hannah, Charity, Elkanah (ancestor line)."
+      ]
+    },
+    "F51": {
+      "id": "F51",
+      "husband": "I153",
+      "husbandName": "Elkanah Lathrop",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I37"
+      ],
+      "notes": [
+        "Elkanah Lathrop, father of Russell Lathrop."
+      ]
+    },
+    "F52": {
+      "id": "F52",
+      "husband": "I32",
+      "husbandName": "Jabez Perkins",
+      "wife": "I152",
+      "wifeName": "Charity Perkins",
+      "marriage": {},
+      "children": [],
+      "notes": [
+        "Jabez Perkins and Charity Hodges, parents of Charity Perkins."
+      ]
+    },
+    "F53": {
+      "id": "F53",
+      "husband": "I154",
+      "husbandName": "Jacob Perkins",
+      "wife": "I155",
+      "wifeName": "Elizabeth Whipple",
+      "marriage": {},
+      "children": [
+        "I32"
+      ],
+      "notes": [
+        "Sgt. Jacob Perkins and Elizabeth Whipple, parents of Jabez Perkins."
+      ]
+    },
+    "F54": {
+      "id": "F54",
+      "husband": "I156",
+      "husbandName": "John Perkins",
+      "wife": "I157",
+      "wifeName": "Judith Gater",
+      "marriage": {},
+      "children": [
+        "I154"
+      ],
+      "notes": [
+        "John Perkins Sr. and Judith Gater, parents of Jacob Perkins."
+      ]
+    },
+    "F55": {
+      "id": "F55",
+      "husband": "I158",
+      "husbandName": "Henry Perkins",
+      "wife": "I159",
+      "wifeName": "Elizabeth Sawbridge",
+      "marriage": {},
+      "children": [
+        "I156"
+      ],
+      "notes": [
+        "Henry Perkins and Elizabeth Sawbridge, parents of John Perkins Sr."
+      ]
+    },
+    "F56": {
+      "id": "F56",
+      "husband": "I161",
+      "husbandName": "William Hodges II",
+      "wife": "I162",
+      "wifeName": "Alice Symes",
+      "marriage": {},
+      "children": [
+        "I160"
+      ],
+      "notes": [
+        "William Hodges II and Alice Symes, parents of William Hodges III."
+      ]
+    },
+    "F57": {
+      "id": "F57",
+      "husband": "I160",
+      "husbandName": "William Hodges III",
+      "wife": "I31",
+      "wifeName": "Mary Andrews",
+      "marriage": {},
+      "children": [
+        "I29"
+      ],
+      "notes": [
+        "William Hodges III and Mary Andrews, parents of Charity Hodges."
+      ]
+    },
+    "F58": {
+      "id": "F58",
+      "husband": "I164",
+      "husbandName": "Joseph Petty",
+      "wife": "I165",
+      "wifeName": "Elizabeth Middagh",
+      "marriage": {},
+      "children": [
+        "I96"
+      ],
+      "notes": [
+        "Joseph Petty Sr. and Elizabeth Middagh, parents of Jacob Petty."
+      ]
+    },
+    "F59": {
+      "id": "F59",
+      "husband": "I166",
+      "husbandName": "Genner Sherman Petty",
+      "wife": "I167",
+      "wifeName": "Mary Ann Bunn",
+      "marriage": {},
+      "children": [
+        "I99"
+      ],
+      "notes": [
+        "Genner Sherman Petty and Mary Ann Bunn, parents of Mabel June Petty."
+      ]
+    },
+    "F60": {
+      "id": "F60",
+      "husband": "I96",
+      "husbandName": "Jacob Petty",
+      "wife": "I97",
+      "wifeName": "Millie Barns",
+      "marriage": {},
+      "children": [
+        "I166"
+      ],
+      "notes": [
+        "Jacob Petty and Millie Barnes, parents of Genner Sherman Petty."
+      ]
+    },
+    "F61": {
+      "id": "F61",
+      "husband": "I169",
+      "husbandName": "Joshua Smalley",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I168"
+      ],
+      "notes": [
+        "Joshua Smalley, father of Ella May Smalley."
+      ]
+    },
+    "F62": {
+      "id": "F62",
+      "husband": "I170",
+      "husbandName": "Joseph Wallingford",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I130"
+      ],
+      "notes": [
+        "Joseph Wallingford, father of Amanda Wallingford."
+      ]
+    },
+    "F63": {
+      "id": "F63",
+      "husband": "I123",
+      "husbandName": "Edgar U. Bailey",
+      "wife": "I126",
+      "wifeName": "Elizabeth Cofield",
+      "marriage": {
+        "date": "24 DEC 1893"
+      },
+      "children": [
+        "I171",
+        "I172",
+        "I173",
+        "I174"
+      ],
+      "notes": [
+        "Edgar U. Bailey and Elizabeth Cofield, with their children."
+      ]
+    },
+    "F64": {
+      "id": "F64",
+      "husband": "I2",
+      "husbandName": "Alice Lloyd",
+      "wife": "I175",
+      "wifeName": "Alice Lloyd",
+      "marriage": {},
+      "children": [
+        "I3"
+      ],
+      "notes": [
+        "Rev. John House and Alice Lloyd, parents of Hannah House."
+      ]
+    },
+    "F65": {
+      "id": "F65",
+      "husband": "I103",
+      "husbandName": "Dorothy Falke",
+      "wife": "I122",
+      "wifeName": "Olive Elizabeth Bailey",
+      "marriage": {},
+      "children": [
+        "I176"
+      ],
+      "notes": [
+        "McKinley VanGilder and Olive Elizabeth Bailey, parents of Elizabeth Ann Lathrop."
+      ]
+    },
+    "F66": {
+      "id": "F66",
+      "husband": "I185",
+      "husbandName": "Benjamin Franklin Smalley",
+      "wife": "I184",
+      "wifeName": "Lucinda Jane Carmody",
+      "marriage": {},
+      "children": [
+        "I169"
+      ],
+      "notes": [
+        "Benjamin Franklin Smalley and Lucinda Jane Carmody, parents of Joshua Smalley."
+      ]
+    },
+    "F67": {
+      "id": "F67",
+      "husband": "I70",
+      "husbandName": "Stephen Powell",
+      "wife": "I186",
+      "wifeName": "Agnes Fitch",
+      "marriage": {},
+      "children": [
+        "I188"
+      ],
+      "notes": [
+        "Thomas Fitch and Agnes, parents of Joseph Fitch."
+      ]
+    },
+    "F68": {
+      "id": "F68",
+      "husband": "I188",
+      "husbandName": "Joseph Fitch",
+      "wife": "I187",
+      "wifeName": "Mary Fitch",
+      "marriage": {},
+      "children": [],
+      "notes": [
+        "Joseph Fitch and Mary."
+      ]
+    },
+    "F69": {
+      "id": "F69",
+      "husband": "I50",
+      "husbandName": "Dorothy Hobart",
+      "wife": "I189",
+      "wifeName": "Helen Babbs",
+      "marriage": {},
+      "children": [],
+      "notes": [
+        "Rev. Robert Peck III and Helen Babbs."
+      ]
+    },
+    "F70": {
+      "id": "F70",
+      "husband": "I195",
+      "husbandName": "John Gallop II",
+      "wife": "I196",
+      "wifeName": "Christabell Brushett",
+      "marriage": {
+        "date": "19 JAN 1618",
+        "place": "St. Mary's Church, Bridport, Dorset, England"
+      },
+      "children": [
+        "I208",
+        "I197",
+        "I210",
+        "I212"
+      ],
+      "notes": [
+        "Capt. John Gallop II and Christabell Brushett. Children: Joan (1618), John III (1620/21), Samuel (twin 1629), Nathaniel (twin 1629). Also William (d. young), Francis (d. 1625)."
+      ]
+    },
+    "F71": {
+      "id": "F71",
+      "husband": "I197",
+      "husbandName": "John Gallup III",
+      "wife": "I198",
+      "wifeName": "Hannah Lake",
+      "marriage": {
+        "date": "1643",
+        "place": "Boston, Massachusetts"
+      },
+      "children": [
+        "I214",
+        "I215",
+        "I201",
+        "I216",
+        "I217",
+        "I218",
+        "I219",
+        "I220",
+        "I221",
+        "I222"
+      ],
+      "notes": [
+        "Capt. John Gallup III and Hannah Lake. Children: Hannah (1644), John IV, Esther (1653), Benadam (1655), William (1658), Samuel, Christobel, Elizabeth, Mary, Margaret."
+      ]
+    },
+    "F72": {
+      "id": "F72",
+      "husband": "I199",
+      "husbandName": "John Lake",
+      "wife": "I200",
+      "wifeName": "Margaret Reade",
+      "marriage": {
+        "date": "ABT 1616",
+        "place": "England"
+      },
+      "children": [
+        "I198",
+        "I223"
+      ],
+      "notes": [
+        "John Lake and Margaret Reade. Children: Hannah (1621, m. John Gallup), Martha (1624, m. Thomas Harris). Also John (1617), Thomas (1618/9), Richard (1620, d. infant), Elizabeth (1623, d. infant), Samuel (1629, d. infant), Elizabeth (1630/1)."
+      ]
+    },
+    "F73": {
+      "id": "F73",
+      "husband": "I202",
+      "husbandName": "Henry Hodges II",
+      "wife": "I201",
+      "wifeName": "Esther Gallup",
+      "marriage": {
+        "date": "17 DEC 1674",
+        "place": "Taunton, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Elder Henry Hodges II and Esther Gallup. 11 children: Mary, Esther, William, Charity, John, Henry, Joseph, Benjamin, Ephraim, Elizabeth, Abigail."
+      ]
+    },
+    "F74": {
+      "id": "F74",
+      "husband": "I206",
+      "husbandName": "William Hodges I",
+      "wife": "I205",
+      "wifeName": "Mary Andrews",
+      "marriage": {
+        "date": "ABT 1649",
+        "place": "Taunton, Massachusetts"
+      },
+      "children": [
+        "I202"
+      ],
+      "notes": [
+        "William Hodges I and Mary Andrews. Children: John (1650), Henry (1652)."
+      ]
+    },
+    "F75": {
+      "id": "F75",
+      "husband": "I207",
+      "husbandName": "Peter Pitts",
+      "wife": "I205",
+      "wifeName": "Mary Andrews",
+      "marriage": {
+        "date": "ABT 1655",
+        "place": "Taunton, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Peter Pitts and Mary Andrews (widow Hodges). Six children."
+      ]
+    },
+    "F76": {
+      "id": "F76",
+      "husband": "I203",
+      "husbandName": "Henry Andrews",
+      "wife": "I204",
+      "wifeName": "Mary Pool",
+      "marriage": {
+        "date": "ABT 1627"
+      },
+      "children": [
+        "I205"
+      ],
+      "notes": [
+        "Henry Andrews Sr. and Mary Pool. Children: Henry Jr. (c.1629), Mary (c.1631), Sarah (1644), Abigail (1647)."
+      ]
+    },
+    "F77": {
+      "id": "F77",
+      "husband": "I208",
+      "husbandName": "Joan Gallop",
+      "wife": "I209",
+      "wifeName": "Thomas Joy",
+      "marriage": {
+        "date": "MAR 1637",
+        "place": "Dorset, England"
+      },
+      "children": [],
+      "notes": [
+        "Joan Gallop and Thomas Joy. Married March 1636/7 in Dorset, England."
+      ]
+    },
+    "F78": {
+      "id": "F78",
+      "husband": "I210",
+      "husbandName": "Samuel Gallop",
+      "wife": "I211",
+      "wifeName": "Mary Phillips",
+      "marriage": {
+        "date": "20 JAN 1651",
+        "place": "Boston, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Samuel Gallop and Mary Phillips."
+      ]
+    },
+    "F79": {
+      "id": "F79",
+      "husband": "I212",
+      "husbandName": "Nathaniel Gallop",
+      "wife": "I213",
+      "wifeName": "Margaret Eveleth",
+      "marriage": {
+        "date": "11 JUN 1652",
+        "place": "Boston, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Nathaniel Gallop and Margaret Eveleth."
+      ]
+    },
+    "F80": {
+      "id": "F80",
+      "husband": "I223",
+      "husbandName": "Martha Lake",
+      "wife": "I224",
+      "wifeName": "Thomas Harris",
+      "marriage": {
+        "date": "15 NOV 1647",
+        "place": "Ipswich, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Martha Lake and Thomas Harris."
+      ]
+    },
+    "F81": {
+      "id": "F81",
+      "husband": "I225",
+      "husbandName": "Gov. William Bradford III",
+      "wife": "I226",
+      "wifeName": "Dorothy May",
+      "marriage": {},
+      "children": [
+        "I238"
+      ],
+      "notes": [
+        "Gov. William Bradford III and Dorothy May. Son John remained in England."
+      ]
+    },
+    "F82": {
+      "id": "F82",
+      "husband": "I225",
+      "husbandName": "Gov. William Bradford III",
+      "wife": "I227",
+      "wifeName": "Alice Carpenter",
+      "marriage": {
+        "date": "14 AUG 1623",
+        "place": "Plymouth, Massachusetts"
+      },
+      "children": [
+        "I230"
+      ],
+      "notes": [
+        "Gov. William Bradford III and Alice (Carpenter) Southworth. Children: William IV (1624), Mercy (1627), Joseph (1630)."
+      ]
+    },
+    "F83": {
+      "id": "F83",
+      "husband": "I228",
+      "husbandName": "Alexander Carpenter",
+      "wife": "I229",
+      "wifeName": "Priscilla Dillen",
+      "marriage": {
+        "date": "1583",
+        "place": "St. James, Bath, Somerset, England"
+      },
+      "children": [
+        "I227"
+      ],
+      "notes": [
+        "Alexander Carpenter and Priscilla Dillen. Daughters: Juliana, Alice, Bridget, Agnes, Priscilla, Mary."
+      ]
+    },
+    "F84": {
+      "id": "F84",
+      "husband": "I230",
+      "husbandName": "Lt. Gov. William Bradford IV",
+      "wife": "I231",
+      "wifeName": "Alice Richards",
+      "marriage": {
+        "date": "AFT 23 APR 1650",
+        "place": "Plymouth, Massachusetts"
+      },
+      "children": [],
+      "notes": [
+        "Lt. Gov. William Bradford IV and Alice Richards. First marriage, 10 children."
+      ]
+    },
+    "F85": {
+      "id": "F85",
+      "husband": "I230",
+      "husbandName": "Lt. Gov. William Bradford IV",
+      "wife": null,
+      "wifeName": "",
+      "marriage": {},
+      "children": [
+        "I232"
+      ],
+      "notes": [
+        "Lt. Gov. William Bradford IV second marriage to Sarah (Griswold) Wiswall. Son: Lt. Joseph Bradford."
+      ]
+    },
+    "F86": {
+      "id": "F86",
+      "husband": "I232",
+      "husbandName": "Lt. Joseph Bradford",
+      "wife": "I233",
+      "wifeName": "Anne Fitch",
+      "marriage": {},
+      "children": [
+        "I234"
+      ],
+      "notes": [
+        "Lt. Joseph Bradford and Anne Fitch. Children: Joseph Jr. (1699), Anne (1700/01), Abigail (1702), Hannah (1704), James (1706), Mary (1709), Jerusha (1710/11), Mercy (1713), Irene (1715, twin)."
+      ]
+    },
+    "F87": {
+      "id": "F87",
+      "husband": "I235",
+      "husbandName": "Jonathan Janes",
+      "wife": "I234",
+      "wifeName": "Irene Bradford",
+      "marriage": {
+        "date": "18 MAR 1736",
+        "place": "Lebanon, Connecticut"
+      },
+      "children": [
+        "I139"
+      ],
+      "notes": [
+        "Jonathan Janes and Irene Bradford. Daughter: Mary Janes."
+      ]
+    },
+    "F88": {
+      "id": "F88",
+      "husband": "I236",
+      "husbandName": "William Janes",
+      "wife": "I237",
+      "wifeName": "Abigail Loomis",
+      "marriage": {},
+      "children": [
+        "I235"
+      ],
+      "notes": [
+        "Elder William Janes and Abigail Loomis. Son: Jonathan Janes."
+      ]
+    },
+    "F89": {
+      "id": "F89",
+      "husband": "I138",
+      "husbandName": "Rowland Powell V",
+      "wife": "I139",
+      "wifeName": "Mary Janes",
+      "marriage": {},
+      "children": [
+        "I74"
+      ],
+      "notes": [
+        "Rowland Powell V and Mary Janes. Daughter: Cynthia Powell (1793)."
+      ]
+    }
+  },
+  "lineages": {
+    "lathropMainLine": {
+      "name": "Lathrop Main Line",
+      "description": "Rev. John Lothrop to Leonard Earl Lathrop",
+      "individuals": [
+        {
+          "id": "I4",
+          "name": "Rev. John Lothrop",
+          "dates": "1584-1653",
+          "description": "Founder of Barnstable"
+        },
+        {
+          "id": "I10",
+          "name": "Samuel Lathrop I",
+          "dates": "c.1622",
+          "description": "Founder of Norwich"
+        },
+        {
+          "id": "I18",
+          "name": "Samuel Lathrop II",
+          "dates": "c.1650-1732",
+          "description": "m. Hannah Adgate"
+        },
+        {
+          "id": "I20",
+          "name": "Samuel Lathrop III",
+          "dates": "c.1685-1754",
+          "description": "m. Deborah Crow"
+        },
+        {
+          "id": "I151",
+          "name": "Lt. Ezra Lathrop",
+          "dates": "1720-1760",
+          "description": "m. Charity Perkins"
+        },
+        {
+          "id": "I153",
+          "name": "Elkanah Lathrop",
+          "dates": "",
+          "description": "of Norwich"
+        },
+        {
+          "id": "I37",
+          "name": "Russell Lathrop",
+          "dates": "1793-1872",
+          "description": "War of 1812 Veteran"
+        },
+        {
+          "id": "I77",
+          "name": "Henry Grant Lathrop",
+          "dates": "1817-1903",
+          "description": "Pioneer Teacher"
+        },
+        {
+          "id": "I81",
+          "name": "Albert Lathrop",
+          "dates": "1851-1923",
+          "description": "Farmer"
+        },
+        {
+          "id": "I98",
+          "name": "Dennis Clay Lathrop",
+          "dates": "1888-1966",
+          "description": "Farmer"
+        },
+        {
+          "id": "I101",
+          "name": "Leonard Earl Lathrop",
+          "dates": "1930-2004",
+          "description": "Engineer"
+        }
+      ]
+    },
+    "bradfordMayflowerLine": {
+      "name": "Bradford Mayflower Descent",
+      "description": "Gov. William Bradford to Cynthia Powell Lathrop",
+      "individuals": [
+        {
+          "id": "I225",
+          "name": "Gov. William Bradford III",
+          "dates": "1590-1657",
+          "description": "Mayflower 1620"
+        },
+        {
+          "id": "I230",
+          "name": "Lt. Gov. William Bradford IV",
+          "dates": "1624-1703/4",
+          "description": "King Philip's War"
+        },
+        {
+          "id": "I232",
+          "name": "Lt. Joseph Bradford",
+          "dates": "1675-1747",
+          "description": "Of Lebanon CT"
+        },
+        {
+          "id": "I234",
+          "name": "Irene Bradford",
+          "dates": "1715-1785",
+          "description": "m. Jonathan Janes"
+        },
+        {
+          "id": "I139",
+          "name": "Mary Janes",
+          "dates": "1753-1813",
+          "description": "m. Rowland Powell V"
+        },
+        {
+          "id": "I74",
+          "name": "Cynthia Powell",
+          "dates": "1793-1853",
+          "description": "m. Russell Lathrop"
+        }
+      ]
+    },
+    "gallupHodgesLine": {
+      "name": "Gallup-Hodges Line",
+      "description": "Capt. John Gallop to Charity Perkins (m. Ezra Lathrop)",
+      "individuals": [
+        {
+          "id": "I195",
+          "name": "Capt. John Gallop II",
+          "dates": "c.1590-1650",
+          "description": "Boston Mariner"
+        },
+        {
+          "id": "I197",
+          "name": "Capt. John Gallup III",
+          "dates": "1620/21-1675",
+          "description": "Killed Great Swamp Fight"
+        },
+        {
+          "id": "I201",
+          "name": "Esther Gallup",
+          "dates": "1653-?",
+          "description": "m. Elder Henry Hodges"
+        },
+        {
+          "id": "I202",
+          "name": "Elder Henry Hodges",
+          "dates": "1652-1717",
+          "description": "Taunton Leader"
+        },
+        {
+          "id": "I29",
+          "name": "Charity Hodges",
+          "dates": "1682-1759",
+          "description": "m. Jabez Perkins"
+        },
+        {
+          "id": "I152",
+          "name": "Charity Perkins",
+          "dates": "1724-?",
+          "description": "m. Lt. Ezra Lathrop"
+        }
+      ]
+    },
+    "warrenTildenLine": {
+      "name": "Warren-Tilden Mayflower Descent",
+      "description": "Richard Warren through Tilden-Powell to Cynthia Powell",
+      "individuals": [
+        {
+          "id": "I132",
+          "name": "Richard Warren",
+          "dates": "c.1585-1628",
+          "description": "Mayflower 1620"
+        }
+      ]
+    }
+  }
+}

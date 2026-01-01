@@ -1,0 +1,2846 @@
+0 HEAD
+1 SOUR OneNote Family Tree
+2 VERS 4.0
+2 NAME Lathrop-Powell-Bradford Family Tree - Phase 13 Enhanced Edition
+1 DEST Gramps
+1 DATE 1 JAN 2026
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @SUBM1@
+1 NOTE Enhanced with Phase 13 data: Gallup, Lake, Reade, Hodges, Andrews families.
+2 CONT Bradford Mayflower ancestry added. 237+ individuals, 89 families.
+2 CONT Mayflower descent through Gov. William Bradford and Richard Warren.
+0 @SUBM1@ SUBM
+1 NAME Elijah
+0 @I1@ INDI
+1 NAME John /House/
+1 TITL Rev.
+2 GIVN John
+2 SURN House
+1 SEX M
+1 BIRT
+2 DATE 1572
+2 PLAC Eastwell, Kent, England
+1 OCCU Minister
+1 DEAT
+2 DATE BEF 1610
+2 NOTE Died before daughter Hannah married Rev. John Lathrop
+0 @I10@ INDI
+1 NAME Samuel /Lathrop/ I
+2 NSFX I
+2 GIVN Samuel
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 1622
+2 PLAC Egerton, England
+1 NOTE Son of Rev. John Lathrop. Father of Samuel Lathrop Jr.
+0 @I100@ INDI
+1 NAME Levi /Lathrop/
+2 GIVN Levi
+2 SURN Lathrop
+1 SEX M
+0 @I101@ INDI
+1 NAME Leonard /Lathrop/
+2 GIVN Leonard
+2 SURN Lathrop
+1 SEX M
+0 @I102@ INDI
+1 NAME Beulah /Ledet/
+2 GIVN Beulah
+2 SURN Ledet
+1 SEX F
+0 @I103@ INDI
+1 NAME Dorothy /Falke/
+2 GIVN Dorothy
+2 SURN Falke
+1 SEX F
+0 @I104@ INDI
+1 NAME Dorothy /Falke/
+2 GIVN Dorothy
+2 SURN Falke
+1 SEX F
+1 RESI
+2 PLAC Adrian, Michigan
+1 NOTE Daughter of Dennis Clay Lathrop and Mabel June Petty.
+0 @I105@ INDI
+1 NAME Phyllis /Summers/
+2 GIVN Phyllis
+2 SURN Summers
+1 SEX F
+0 @I106@ INDI
+1 NAME Fern /Lathrop/
+2 GIVN Fern
+2 SURN Lathrop
+1 SEX F
+0 @I107@ INDI
+1 NAME Elizabeth /Messenger/
+2 GIVN Elizabeth
+2 SURN Messenger
+1 SEX F
+0 @I108@ INDI
+1 NAME Jessie /Lee/
+2 GIVN Jessie
+2 SURN Lee
+1 SEX F
+0 @I109@ INDI
+1 NAME Gene /Petty/
+2 GIVN Gene
+2 SURN Petty
+1 SEX M
+0 @I11@ INDI
+1 NAME Joseph /Lathrop/
+1 TITL Captain
+2 GIVN Joseph
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE Apr 1624
+2 PLAC Eastwell, Kent, England
+1 OCCU Captain
+0 @I110@ INDI
+1 NAME Ray /Petty/
+2 GIVN Ray
+2 SURN Petty
+1 SEX M
+0 @I111@ INDI
+1 NAME Dee /Petty/
+2 GIVN Dee
+2 SURN Petty
+1 SEX M
+0 @I112@ INDI
+1 NAME Harold /Petty/
+2 GIVN Harold
+2 SURN Petty
+1 SEX M
+0 @I113@ INDI
+1 NAME Benjamin Franklin /Smalley/
+2 GIVN Benjamin Franklin
+2 SURN Smalley
+1 SEX M
+0 @I114@ INDI
+1 NAME Lucinda Jane /Carmody/
+2 GIVN Lucinda Jane
+2 SURN Carmody
+1 SEX F
+0 @I115@ INDI
+1 NAME Ira /Smalley/
+2 GIVN Ira
+2 SURN Smalley
+1 SEX M
+0 @I116@ INDI
+1 NAME Will /Smalley/
+2 GIVN Will
+2 SURN Smalley
+1 SEX M
+0 @I117@ INDI
+1 NAME Ella May /Smalley/
+2 GIVN Ella May
+2 SURN Smalley
+1 SEX F
+0 @I118@ INDI
+1 NAME Mary /Smalley/
+2 GIVN Mary
+2 SURN Smalley
+1 SEX F
+0 @I119@ INDI
+1 NAME Jessie /Smalley/
+2 GIVN Jessie
+2 SURN Smalley
+1 SEX F
+0 @I12@ INDI
+1 NAME Benjamin /Lathrop/
+2 GIVN Benjamin
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE Dec 1626
+2 PLAC Eastwell, Kent, England
+0 @I120@ INDI
+1 NAME Glen /Smalley/
+2 GIVN Glen
+2 SURN Smalley
+1 SEX M
+0 @I121@ INDI
+1 NAME William G. /Bailey/
+2 GIVN William G.
+2 SURN Bailey
+1 SEX M
+0 @I122@ INDI
+1 NAME Olive Elizabeth /Bailey/
+2 GIVN Olive Elizabeth
+2 SURN Bailey
+1 SEX F
+1 BIRT
+2 DATE 31 JUL 1902
+2 PLAC Rising Sun, Indiana
+1 DEAT
+2 DATE 1994
+2 PLAC Dearborn, Michigan
+1 OCCU Licensed Practical Nurse
+1 RELI Manteno United Methodist Church
+1 NOTE Born July 31, 1902 in Rising Sun, Indiana. Died 1994 in Dearborn, Michigan age 92.
+2 CONT PARENTS: Daughter of Edgar U. Bailey and Elizabeth Cofield.
+2 CONT OCCUPATION: Licensed Practical Nurse (LPN).
+2 CONT CHURCH: Member of Manteno United Methodist Church, Manteno, IL.
+2 CONT MARRIAGE: Married McKinley 'Mack' VanGilder.
+2 CONT SURVIVORS: Daughter Elizabeth Ann Lathrop (Dearborn MI), sisters Irene and Mildred Bailey (Lawrenceville IL), 14 grandchildren, 27 great-grandchildren.
+2 CONT PREDECEASED BY: Husband Mack, one daughter, one son, one stepson, two brothers.
+2 CONT Source: FindAGrave memorial 32912563.
+0 @I123@ INDI
+1 NAME Edgar U. /Bailey/
+2 GIVN Edgar U.
+2 SURN Bailey
+1 SEX M
+1 DEAT
+2 DATE 5 SEP 1948
+1 NOTE Born 1869. Died September 5, 1948 at Good Samaritan Hospital, Vincennes, Indiana.
+2 CONT PARENTS: Son of William G. Bailey and Eliza McHenry.
+2 CONT OCCUPATIONS: Superintendent of Ice & Cold Storage Co, Lawrenceville, IL. Later operated grocery store. During wartime grew vegetables.
+2 CONT MARRIAGE: Married Elizabeth Cofield December 24, 1893.
+2 CONT CHILDREN: Orville, Edwin, Mildred, Irene, Olive.
+0 @I124@ INDI
+1 NAME William W. /Cofield/
+2 GIVN William W.
+2 SURN Cofield
+1 SEX M
+0 @I125@ INDI
+1 NAME Sarah E. /Ray/
+2 GIVN Sarah E.
+2 SURN Ray
+1 SEX F
+0 @I126@ INDI
+1 NAME Elizabeth /Cofield/
+2 GIVN Elizabeth
+2 SURN Cofield
+1 SEX F
+1 NOTE Born 1873. Died May 11, 1967 in Lawrenceville, Illinois age 94.
+2 CONT PARENTS: Daughter of William W. Cofield and Sarah E. Ray.
+2 CONT MARRIAGE: Married Edgar U. Bailey December 24, 1893.
+0 @I127@ INDI
+1 NAME Catherine Susan /Wagner/
+2 GIVN Catherine Susan
+2 SURN Wagner
+1 SEX F
+0 @I128@ INDI
+1 NAME Genner Sherman /Petty/
+2 GIVN Genner Sherman
+2 SURN Petty
+1 SEX M
+0 @I129@ INDI
+1 NAME Mary Ann /Bunn/
+2 GIVN Mary Ann
+2 SURN Bunn
+1 SEX F
+0 @I13@ INDI
+1 NAME Elizabeth /Lathrop/
+2 GIVN Elizabeth
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 PLAC Scituate, MA
+0 @I130@ INDI
+1 NAME Amanda /Wallingford/
+2 GIVN Amanda
+2 SURN Wallingford
+1 SEX F
+0 @I14@ INDI
+1 NAME Barnabas /Lathrop/
+2 GIVN Barnabas
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE Jun 1636
+2 PLAC Barnstable, MA
+0 @I15@ INDI
+1 NAME Abigail /Lathrop/
+2 GIVN Abigail
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 2 NOV 1639
+2 PLAC Barnstable, MA
+0 @I16@ INDI
+1 NAME Bathsheba /Lathrop/
+2 GIVN Bathsheba
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE Feb 1640/41
+2 PLAC Scituate, MA
+0 @I17@ INDI
+1 NAME Captain John Lathrop /III/
+2 GIVN John
+2 SURN Peck
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 9 FEB 1643
+2 PLAC Barnstable, MA
+1 OCCU Captain
+0 @I18@ INDI
+1 NAME Samuel /Lathrop/
+2 NSFX Jr
+2 GIVN Samuel
+2 SURN Jr
+1 SEX M
+1 NOTE Son of Samuel Lathrop I. Father of Samuel Lathrop III.
+0 @I19@ INDI
+1 NAME Hannah /Adgate/
+2 GIVN Hannah
+2 SURN Adgate
+1 SEX F
+1 NOTE Wife of Samuel Lathrop Jr. Mother of Samuel Lathrop III.
+0 @I2@ INDI
+1 NAME Alice /Lloyd/
+2 GIVN Alice
+2 SURN Lloyd
+1 SEX F
+1 BIRT
+2 DATE 1572
+2 PLAC Eastwell, Kent, England
+0 @I20@ INDI
+1 NAME Samuel /Lathrop/ III
+2 NSFX III
+2 GIVN Samuel
+2 SURN Peck
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE ABT 1690
+1 NOTE Son of Samuel Lathrop Jr (II) and Hannah Adgate.
+2 CONT MARRIAGE: Deborah Crow on July 24, 1715 in Norwich, New London Co., CT.
+2 CONT Wife Deborah was daughter of Nathaniel Crow and Deborah Leffingwell.
+2 CONT Several children including Lt. Ezra Lathrop.
+2 CONT Source: FindAGrave memorial 167371623.
+0 @I21@ INDI
+1 NAME Deborah /Crow/
+2 GIVN Deborah
+2 SURN Crow
+1 SEX F
+1 BIRT
+2 DATE ABT 1694
+2 PLAC Hartford, Connecticut
+1 DEAT
+2 DATE 1797
+1 NOTE Born circa 1694. Died 1797 age 103.
+2 CONT PARENTS: Nathaniel Crow and Deborah Leffingwell of Hartford, Connecticut.
+2 CONT MARRIAGE: Samuel Lathrop III on July 24, 1715 in Norwich, New London Co., CT.
+2 CONT Six known children including Lt. Ezra Lathrop (ancestor line).
+2 CONT Burial location unknown.
+2 CONT Source: FindAGrave memorial 167372212.
+0 @I22@ INDI
+1 NAME John /Crow/
+2 GIVN John
+2 SURN Crow
+1 SEX M
+1 BIRT
+2 DATE ABT 1606
+2 PLAC England
+1 DEAT
+2 DATE 18 JAN 1686
+2 PLAC Hartford, Connecticut
+1 OCCU Merchant, Landowner
+1 NOTE Born circa 1606 in England. Died January 18, 1686 in Hartford, CT.
+2 CONT EMIGRATION: Came to New England 1634.
+2 CONT FIRST WIFE: Married first in England - name unknown. Mother of four or five oldest children born in England.
+2 CONT SECOND WIFE: Elizabeth Goodwin (only child of Elder William Goodwin). Married about 1640.
+2 CONT LANDOWNER: Largest landholder in Hartford. Owned tract in East Hartford 'extending from near the present Hockanum bridge, north to the neighborhood of Smith's Lane, and running eastward to the end of the three-mile lots.' Crow Hill named for him.
+2 CONT BUSINESS: Wealthy merchant. Business partner with father-in-law Elder William Goodwin.
+2 CONT HADLEY: One of founders of Hadley, MA 1659 with father-in-law.
+2 CONT FREEMAN: Massachusetts 1666.
+2 CONT RETURN: Returned to Hartford about 1675. He and wife admitted to South Church March 31, 1678.
+2 CONT CHILDREN: Esther (b.1628, m. Giles Hamlin), John (merchant in West India trade, died at sea 1667), Mary (m. Noah Coleman, then Peter Montague), Nathaniel (lived East Hartford, m. Deborah Leffingwell - ancestor line), Elizabeth (b.1644, m. William Warren, then Phineas Wilson - became most extensive banker in Colony after husband's death).
+2 CONT NOTE: His sons were dissipated and squandered their property. His daughters married some of the ablest men in the Colony.
+2 CONT Source: FamilySearch, 'The Founders of Hartford'.
+0 @I23@ INDI
+1 NAME Nathaniel /Crow/
+2 GIVN Nathaniel
+2 SURN Crow
+1 SEX M
+1 DEAT
+2 DATE 30 JUL 1695
+2 PLAC East Hartford, Connecticut
+1 NOTE Son of John Crow and Elizabeth Goodwin. Lived in East Hartford. Married Deborah Leffingwell.
+0 @I24@ INDI
+1 NAME John /Crow/
+2 GIVN John
+2 SURN Crow
+1 SEX M
+1 BIRT
+2 DATE ABT 1606
+2 PLAC England
+1 DEAT
+2 DATE 18 JAN 1686
+2 PLAC Hartford, Connecticut
+1 NOTE Came to New England 1634. Wealthy merchant. One of founders of Hadley, MA (1659). Owned largest tract of land in Hartford. Business partner with father-in-law Elder William Goodwin.
+0 @I25@ INDI
+1 NAME Elizabeth /Goodwin/
+2 GIVN Elizabeth
+2 SURN Goodwin
+1 SEX F
+1 BIRT
+2 DATE ABT 1620
+1 NOTE Daughter of Elder William Goodwin. Married John Crow about 1640.
+0 @I26@ INDI
+1 NAME William /Goodwin/
+1 TITL Elder
+2 GIVN William
+2 SURN Goodwin
+1 SEX M
+1 BIRT
+2 DATE ABT 1591
+2 PLAC Braintree, Essex, England
+1 DEAT
+2 DATE 11 MAR 1673
+2 PLAC Farmington, Connecticut
+1 OCCU Church Elder
+1 NOTE Born circa 1591 in Braintree, Essex, England. Died March 11, 1673 in Farmington, CT.
+2 CONT EMIGRATION: Sailed on ship Lyon from London June 22, 1632 with Olmstead, Talcott. Arrived New England September 16, 1632.
+2 CONT FREEMAN: Massachusetts Bay Colony November 6, 1632.
+2 CONT CHURCH ELDER: Elder of Cambridge (Newtown) church by 1634. At General Court September 3, 1634, 'Mr. Goodwin, a very reverend and godly man, being the elder of the congregation of Newtown' acknowledged fault for 'unreverend speech to one of the assistants.'
+2 CONT HARTFORD FOUNDER: Original proprietor of Hartford 1636. Home lot on Main St. from present Wadsworth St. to Arch St.
+2 CONT DISPUTANT: Leader of dissenting group with Gov. John Webster that disputed with Rev. Samuel Stone.
+2 CONT HADLEY FOUNDER: Led 'the Withdrawers' to found Hadley 1659 after Hartford church controversy.
+2 CONT FARMINGTON: Returned to Farmington by 1670 where he died.
+2 CONT LAND: Purchased large tracts up the river. Agent to purchase Farmington from Indians. Trustee of Gov. Hopkins' will, helped establish Hopkins Grammar School.
+2 CONT EDUCATION: Wrote long and learned letters to John Winthrop Jr. reporting early Hartford happenings.
+2 CONT FIRST WIFE: Elizabeth White (married November 7, 1616 in Shalford, Essex) - daughter of Robert White of Messing, sister of Mary White (wife of Joseph Loomis).
+2 CONT SECOND WIFE: Susan (Garbrand) Hooker, widow of Rev. Thomas Hooker (married after December 7, 1654). She died Farmington May 17, 1676.
+2 CONT Testimony 1674: 'Ozias Goodwin aged 78 years and William Goodwin aged about 45 years testified that Mr. William Goodwin deceased and Mr. John Crow his son-in-law were copartners in their buyings and sellings.'
+2 CONT Sources: FamilySearch, FindAGrave memorial 34132400.
+0 @I27@ INDI
+1 NAME Elizabeth /White/
+2 GIVN Elizabeth
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 5 MAR 1591
+2 PLAC Messing, Essex, England
+1 DEAT
+2 DATE BEF JAN 1670
+1 MARR
+2 DATE 7 NOV 1616
+2 PLAC Shalford, Essex, England
+1 NOTE Daughter of Robert White of Messing, Essex. First wife of Elder William Goodwin. Sister of Mary White (wife of Joseph Loomis) and Anna White (wife of John Porter).
+0 @I28@ INDI
+1 NAME Robert /White/
+2 GIVN Robert
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE ABT 1597
+2 PLAC Messing, Essex, England
+1 DEAT
+2 DATE 1617
+1 OCCU Yeoman
+1 NOTE Rich man. Son of Robert and Bridget Allgar White.
+0 @I29@ INDI
+1 NAME Charity /Hodges/
+2 GIVN Charity
+2 SURN Hodges
+1 SEX F
+1 NOTE Born April 5, 1682 in Taunton, Plymouth Colony. Died February 29, 1759 in Middleboro, Plymouth County, Massachusetts. Buried at Thompson Hill Cemetery, Lakeville.
+2 CONT PARENTS: Henry Hodges and Esther Gallup.
+2 CONT CHURCH: Member of Newent Congregational Church in Lisbon, New London County, Connecticut Colony (admitted 1725).
+2 CONT FIRST MARRIAGE: Elkanah Leonard (married March 25, 1703 in Taunton). Ten children born in Middleboro.
+2 CONT SECOND MARRIAGE: Captain Jabez Perkins (married December 17, 1722 in Norwich, Connecticut). One child: Charity Perkins (born 1724 Norwich) who married Ezra Lothrop.
+2 CONT Jabez Perkins died 1742. Charity eventually moved back to Massachusetts.
+2 CONT NOTE ON DEATH DATE: February 29, 1759 problematic as not a leap year. May be transcription or calendar conversion error.
+0 @I3@ INDI
+1 NAME Hannah /House/
+2 GIVN Hannah
+2 SURN House
+1 SEX F
+1 BIRT
+2 DATE 1590
+2 PLAC Eastwell, Kent, England
+1 DEAT
+2 DATE 16 FEB 1633
+1 NOTE Died while husband was imprisoned. Daughter of Rev. John House and Alice Lloyd.
+0 @I160@ INDI
+1 NAME William /Hodges/ III
+2 GIVN William
+2 SURN Hodges
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 1624
+2 PLAC England
+1 NOTE Baptized 1624 in Kent, England.
+2 CONT PARENTS: William Hodges II and Alice Symes. Both likely married and William III baptized at same church where John Hill and Frances Tilden came from.
+2 CONT WIFE: Mary Andrews (later remarried Peter Pitts after William's death).
+2 CONT IMMIGRATION: Arrived Salem, Massachusetts 1638 or 1643 (conflicting records). Went from Salem to Taunton soon after town was purchased - on second list of early settlers.
+2 CONT DAUGHTER: Charity Hodges who married (1) Elkanah Leonard, (2) Jabez Perkins.
+2 CONT Sources: Abridgement of Genealogical Record of Hodges Family of New England (1954), New England Marriages Prior to 1700 by Torrey, Tyler Index to Parish Registers 1538-1874.
+0 @I31@ INDI
+1 NAME Mary /Andrews/
+2 GIVN Mary
+2 SURN Andrews
+1 SEX F
+1 NOTE Married William Hodges. Remarried Peter Pitts after William's death.
+0 @I32@ INDI
+1 NAME Jabez /Perkins/
+2 GIVN Jabez
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1677
+2 PLAC Ipswich, Massachusetts
+1 DEAT
+2 DATE 29 JAN 1699
+2 PLAC Ipswich, Essex, Massachusetts
+1 NOTE Born 1677. Died 1742.
+2 CONT TITLE: Deacon.
+2 CONT PARENTS: Jacob Perkins and Elizabeth.
+2 CONT FIRST MARRIAGE: Hannah Lathrop (June 30, 1698).
+2 CONT SECOND MARRIAGE: Charity Hodges (widow Leonard) December 17, 1722. One child: Charity Perkins (1724).
+2 CONT Confusion exists between Charity (Hodges) Perkins and her daughter Charity Perkins - daughter listed in Vital Records of Norwich as marrying Ezra Lothrop.
+2 CONT Source: WikiTree Perkins-611.
+0 @I33@ INDI
+1 NAME Deborah /Lathrop/
+2 GIVN Deborah
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 9 JAN 1717
+1 DEAT
+2 DATE 4 OCT 1777
+2 PLAC Brooklyn, Windham, Connecticut
+1 NOTE Married (1) Ephraim Avery (9 children), (2) John Gardiner (2 children), (3) Maj. General Israel Putnam (no children).
+0 @I34@ INDI
+1 NAME Elizabeth /Lathrop/ II
+2 NSFX II
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE Jan 1726
+1 NOTE Died young
+0 @I35@ INDI
+1 NAME Hannah /Lathrop/
+2 GIVN Hannah
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1728
+1 NOTE Died young
+0 @I36@ INDI
+1 NAME Elkanah /Lathrop/
+2 GIVN Elkanah
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 PLAC Connecticut
+1 NOTE Descendant of Rev. John Lathrop. Lived during Revolutionary War. Aided in driving British out after they burned New London.
+0 @I37@ INDI
+1 NAME Russell /Lathrop/
+2 GIVN Russell
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1793
+2 PLAC Fairfax, Franklin County, Vermont
+1 DEAT
+2 DATE 3 SEP 1872
+2 PLAC Richland County, Illinois
+1 BURI
+2 PLAC Prairieton Cemetery, Lawrence County, Illinois
+1 OCCU Farmer
+1 NOTE Born January 8, 1793 in Fairfax, Franklin County, Vermont. Died September 3, 1872 in Richland County, Illinois age 79.
+2 CONT MILITARY SERVICE: War of 1812 veteran. Received 160-acre land grant plus entered additional 40 acres on land warrant.
+2 CONT MARRIAGE: Married Cynthia Powell January 12, 1815 in Richford, Vermont.
+2 CONT MIGRATION: Moved to Decatur County, Indiana 1837. Moved to Richland County, Illinois 1841.
+2 CONT FAMILY BACKGROUND: Son of Elkanah Lathrop, Baptist minister who moved family to Canada.
+2 CONT WikiTree profile Lathrop-1438 documents childhood, marriage in Vermont, relocations to Indiana then Illinois, and death.
+0 @I38@ INDI
+1 NAME Robert /Peck/ III
+1 TITL Rev.
+2 NSFX III
+2 GIVN Robert
+2 SURN Peck
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 1546
+1 DEAT
+2 DATE 1593
+1 NOTE Of Beccles, Suffolk County, England.
+2 CONT SOCIAL POSITION: Gentleman or gentry entitled to coat-armor - next to nobility before title of Baronet was given.
+2 CONT COAT OF ARMS: Pecks were exceptional among ancestors having coat of arms at time of immigration.
+2 CONT WIFE: Helen Babbs, daughter of Nicholas Babbs of Guilford.
+2 CONT CHILDREN: Richard (died without issue), Nicholas (m. Rachel daughter of William Young), Robert (Rector at Hingham - ancestor), Joseph (ancestor to America), Margaret, Martha, Samuel.
+2 CONT WILL: Dated October 31, 1556, proved November 20, 1556 at Beccles. Requested burial in churchyard near grave of wife Joan.
+0 @I39@ INDI
+1 NAME Helen /Babbs/
+2 GIVN Helen
+2 SURN Babbs
+1 SEX F
+1 NOTE Daughter of Nicholas Babbs of Guilford.
+0 @I4@ INDI
+1 NAME John /Lathrop/
+1 TITL Rev.
+2 GIVN John
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1584
+2 PLAC Etton, Yorkshire, England
+1 DEAT
+2 DATE 8 NOV 1653
+2 PLAC Barnstable, Massachusetts
+1 EDUC Queens College, Cambridge - BA 1605, MA 1609
+1 OCCU Minister
+1 NOTE Baptized December 20, 1584 in Etton, Yorkshire, England. Died November 8, 1653 in Barnstable, MA.
+2 CONT EDUCATION: Queens College, Cambridge - matriculated 1601, BA 1605, MA 1609.
+2 CONT MINISTRY IN ENGLAND: Curate of parish church in Egerton, Kent from about 1611 to 1623 under Dean and Chapter of St. Paul.
+2 CONT SEPARATIST MINISTRY: Succeeded Rev. Henry Jacob as pastor of First Independent Church in London (Southwark, Union St.) 1624.
+2 CONT IMPRISONMENT: Arrested April 22, 1632 when pursuivant Tomlinson raided their secret meeting at house of Humphrey Barnet in Black Friars. 42 people seized. Imprisoned in Newgate Prison (the Clink) and Gatehouse. Released spring 1634 on condition of leaving England.
+2 CONT WIFE'S DEATH: First wife Hannah House fell ill and died during his imprisonment. He obtained permission from Bishop Laud to visit her before death, commending her to God in prayer.
+2 CONT CHILDREN'S APPEAL: His children appealed to Bishop Laud at Lambeth about their condition after mother's death, which contributed to his release.
+2 CONT EMIGRATION: Sailed on ship Griffin 1634, arriving Boston September 18, 1634. Settled Scituate September 27, 1634.
+2 CONT SCITUATE MINISTRY: Formally chosen minister January 29, 1635 by laying on of hands. Married second wife Anna June 14, 1635.
+2 CONT FOUNDER OF BARNSTABLE: Founded Barnstable, MA 1639 with his congregation. First Thanksgiving there December 11, 1639.
+2 CONT HOUSE: Built first house where Eldridge's hotel later stood, then more substantial house about 1644 - frame still stands as Sturgis Library.
+2 CONT CHARACTER: From Morton's Memorial - 'a man of humble and broken heart spirit, lively in dispensation of the Word of God, studious of peace, furnished with godly contentment.'
+2 CONT No applicant to his church was compelled to sign a creed or confession of faith.
+2 CONT Children with Hannah House: Thomas (1612), Jane (1614, married Mayflower passenger Samuel Fuller), Anne (1616), John (1617/18), Barbara (1619), Samuel (1622), Joseph (1624), Benjamin (1626).
+0 @I5@ INDI
+1 NAME Anna /Lathrop/
+2 GIVN Anna
+2 SURN Lathrop
+1 SEX F
+1 NOTE Second wife of Rev. John Lathrop, married 14 Jun 1635 in Scituate, MA. Mother of his American-born children.
+0 @I50@ INDI
+1 NAME Dorothy /Hobart/
+2 GIVN Dorothy
+2 SURN Hobart
+1 SEX F
+0 @I51@ INDI
+1 NAME Joseph /Truman/
+2 GIVN Joseph
+2 SURN Truman
+1 SEX M
+1 NOTE Emigrated from England 1666.
+0 @I52@ INDI
+1 NAME Elizabeth /Truman/
+2 GIVN Elizabeth
+2 SURN Truman
+1 SEX F
+1 BIRT
+2 DATE ABT 1661
+2 PLAC Lebanon, New London, Connecticut
+0 @I53@ INDI
+1 NAME Ann /Warren/
+2 GIVN Ann
+2 SURN Warren
+1 SEX F
+1 NOTE Daughter of Richard Warren, Mayflower passenger.
+0 @I54@ INDI
+1 NAME Lydia /Huckstep/
+2 GIVN Lydia
+2 SURN Huckstep
+1 SEX F
+1 BIRT
+2 DATE ABT 1587
+2 PLAC Tenterden, Kent, England
+1 DEAT
+2 DATE 31 JUL 1672
+2 PLAC Scituate, Plymouth, Massachusetts
+0 @I55@ INDI
+1 NAME Rowland /Powell/ II
+2 NSFX II
+2 GIVN Rowland
+1 SEX M
+1 BIRT
+2 DATE ABT 1630
+2 PLAC England
+0 @I56@ INDI
+1 NAME Isabel /Buxton/
+2 GIVN Isabel
+2 SURN Buxton
+1 SEX F
+0 @I57@ INDI
+1 NAME Rowland /Powell/ III
+2 NSFX III
+2 GIVN Rowland
+2 SURN Peck
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 9 FEB 1658
+2 PLAC Gloucester, Essex, Massachusetts
+1 DEAT
+2 DATE Jun 1712
+2 PLAC Lebanon, New London, Connecticut
+1 NOTE Born circa 1690 in Lebanon, New London County, Connecticut. Died circa 1732 in Lebanon, Connecticut.
+2 CONT PARENTS: Rowland Powell II and Elizabeth Truman.
+2 CONT WIFE: Mary Tilden, daughter of Stephen Tilden and Mary Powell. (Note: Mary Tilden's second husband was David Lee).
+2 CONT Connection documented in Mayflower 'Silver Book.'
+2 CONT Source: FindAGrave memorial 63180179.
+0 @I58@ INDI
+1 NAME Stephen /Tilden/
+2 GIVN Stephen
+2 SURN Tilden
+1 SEX M
+1 BIRT
+2 DATE ABT 1632
+0 @I59@ INDI
+1 NAME Mary Ann /Tilden/
+2 GIVN Mary Ann
+2 SURN Tilden
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1660
+2 PLAC Gloucester, Massachusetts
+0 @I6@ INDI
+1 NAME Jane /Lathrop/
+2 GIVN Jane
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1614
+2 PLAC Egerton, Kent, England
+1 NOTE Married Mayflower passenger Samuel Fuller, son of Edward Fuller.
+0 @I60@ INDI
+1 NAME William /Bradford/ I
+2 NSFX I
+2 GIVN William
+2 SURN Bradford
+1 SEX M
+1 BIRT
+2 DATE 1559
+2 PLAC Austerfield, Yorkshire, England
+1 DEAT
+2 DATE 1591
+1 OCCU Yeoman
+0 @I61@ INDI
+1 NAME Alice /Hanson/
+2 GIVN Alice
+2 SURN Hanson
+1 SEX F
+0 @I62@ INDI
+1 NAME William /Bradford/
+1 TITL Governor
+2 GIVN William
+2 SURN Bradford
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1590
+2 PLAC Austerfield, Yorkshire, England
+1 DEAT
+2 DATE 9 MAY 1657
+2 PLAC Plymouth, Massachusetts
+1 OCCU Governor
+1 NOTE Born March 19, 1590 in Austerfield, Yorkshire, England. Died May 9, 1657 in Plymouth, MA.
+2 CONT MAYFLOWER: Passenger on Mayflower 1620. One of 41 signers of Mayflower Compact.
+2 CONT GOVERNORSHIP: Governor of Plymouth Colony over 30 years total (1621-1632, 1635, 1637, 1639-1643, 1645-1656).
+2 CONT AUTHOR: Wrote 'Of Plymouth Plantation' 1620-1647, foundational history of Plymouth Colony.
+2 CONT THANKSGIVING: Credited as first civil authority to designate what became traditional American Thanksgiving.
+2 CONT EARLY LIFE: Orphaned young - father died when he was 1, grandfather at 6, mother at 7. Lived with uncles. Inspired by Rev. Richard Clyfton's sermons at age 12.
+2 CONT SEPARATIST: Joined Separatists meeting at Scrooby Manor 1607. Attempted escape to Netherlands 1607 but betrayed and briefly imprisoned.
+2 CONT NETHERLANDS: Escaped to Amsterdam 1608, moved to Leiden 1609. Claimed inheritance 1611, became fustian weaver.
+2 CONT FIRST WIFE: Dorothy May (married December 1613 in Amsterdam). She drowned in Provincetown Harbor December 7, 1620 shortly after Mayflower arrival - possibly suicide.
+2 CONT SECOND WIFE: Alice Carpenter Southworth (married August 14, 1623).
+2 CONT FIRST THANKSGIVING: Massasoit and 90 men came for three-day feast after first harvest 1621. They went out and killed five deer.
+2 CONT ASSESSMENT: 'One of the most influential of the Pilgrim settlers for his outstanding leadership, his desire to steadfastly hold to his religious and moral ideals.'
+2 CONT Source: FindAGrave memorial 124.
+0 @I63@ INDI
+1 NAME Dorothy /May/
+2 GIVN Dorothy
+2 SURN May
+1 SEX F
+1 DEAT
+2 DATE 1620
+2 PLAC Cape Cod Harbor, Massachusetts
+0 @I64@ INDI
+1 NAME Joseph /Bradford/
+2 GIVN Joseph
+2 SURN Bradford
+1 SEX M
+1 BIRT
+2 DATE ABT 1630
+0 @I65@ INDI
+1 NAME Amos /Richardson/
+2 GIVN Amos
+2 SURN Richardson
+1 SEX M
+0 @I66@ INDI
+1 NAME William /Janes/
+2 GIVN William
+2 SURN Janes
+1 SEX M
+0 @I67@ INDI
+1 NAME Abigail /Loomis/
+2 GIVN Abigail
+2 SURN Loomis
+1 SEX F
+0 @I68@ INDI
+1 NAME Rowland /Powell/ IV
+2 NSFX IV
+2 GIVN Rowland
+2 SURN Powell
+1 SEX M
+1 BIRT
+2 DATE ABT 1690
+1 DEAT
+2 DATE 1732
+0 @I69@ INDI
+1 NAME Mary /Powell/
+2 GIVN Mary
+2 SURN Powell
+1 SEX F
+1 BIRT
+2 DATE ABT 1698
+0 @I7@ INDI
+1 NAME Anne /Lathrop/
+2 GIVN Anne
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE May 1616
+2 PLAC Egerton, England
+0 @I70@ INDI
+1 NAME Stephen /Powell/
+2 GIVN Stephen
+2 SURN Powell
+1 SEX M
+1 BIRT
+2 DATE 1707
+0 @I71@ INDI
+1 NAME Elizabeth /Powell/
+2 GIVN Elizabeth
+2 SURN Powell
+1 SEX F
+1 BIRT
+2 DATE ABT 1708
+0 @I72@ INDI
+1 NAME John /Powell/
+2 GIVN John
+2 SURN Powell
+1 SEX M
+1 BIRT
+2 DATE ABT 1711
+0 @I73@ INDI
+1 NAME Truman /Powell/
+2 GIVN Truman
+2 SURN Powell
+1 SEX M
+1 BIRT
+2 DATE ABT 1713
+0 @I74@ INDI
+1 NAME Cynthia /Powell/
+2 GIVN Cynthia
+2 SURN Powell
+1 SEX F
+1 BIRT
+2 DATE 1793
+2 PLAC Hartford, Windsor County, Vermont
+1 DEAT
+2 DATE 9 DEC 1853
+2 PLAC Lawrence County, Illinois
+1 BURI
+2 PLAC Lone Tree / Prairieton Cemetery, Lawrence County, Illinois
+1 OCCU Teacher
+1 NOTE Born circa 1465. Died April 21, 1514. Commemorated on brass in Church of St. Mary the Virgin, Lindsell, Essex.
+2 CONT FATHER: John Fytche (died before April 9, 1468).
+2 CONT Found heir of father by inquisition at manor court of Widdington April 9, 1468, 'aged 3 years.'
+2 CONT Admitted to inheritance at Widdington November 9, 1487 (age about 21).
+2 CONT WIFE: Agnes Algore (daughter of Robert Algore, married before December 22, 1490). Agnes was heiress, brought Brazen Head Farm in Lindsell to marriage.
+2 CONT CHILDREN: Eleven children - six sons and five daughters shown on church brass beneath parents.
+2 CONT MEMORIAL: Brass inscription (translated): 'Here lies Thomas Fytche and Agnes his wife, which same Thomas died the twenty-first day of April in the year of our Lord 1514; on whose souls may God have mercy.'
+2 CONT Stained glass window in same church portrays Thomas and Agnes, and son William and first wife Elizabeth - probably paid for by William who had advowson of church from King Henry VIII.
+2 CONT Agnes died before May 3, 1527.
+0 @I75@ INDI
+1 NAME William /Laws/
+2 GIVN William
+2 SURN Laws
+1 SEX M
+1 NOTE Early settler Lawrence County, IL 1820
+0 @I76@ INDI
+1 NAME Rachel /Laws/
+2 GIVN Rachel
+2 SURN Laws
+1 SEX F
+1 BIRT
+2 DATE 1824
+2 PLAC Lawrence County, IL
+0 @I77@ INDI
+1 NAME Henry /Lathrop/
+2 GIVN Henry
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 1817
+2 PLAC Franklin County, Vermont
+1 OCCU Farmer
+1 NOTE Born May 14, 1817 in Franklin County, Vermont. Pioneer teacher in Richland County, IL - arrived Oct 3, 1839. Married Rachel Laws Sept 1, 1844. Owned 1,100 acres at peak. Supervisor of German Township for 5 years, County Board member. Children: Samantha, Ann, Elvira, Albert, Charles, George (d. July 6, 1887), Henry Jr, Gilbert, Martha, Mary (d. 1857 age 20 months). Source: 1887 biographical history.
+1 DEAT
+2 DATE AFT 1893
+2 PLAC Richland County, Illinois
+0 @I78@ INDI
+1 NAME Samantha /Lathrop/
+2 GIVN Samantha
+2 SURN Lathrop
+1 SEX F
+0 @I79@ INDI
+1 NAME Ann /Lathrop/
+2 GIVN Ann
+2 SURN Lathrop
+1 SEX F
+0 @I8@ INDI
+1 NAME John /Lathrop/
+2 NSFX Jr
+2 GIVN John
+2 SURN Jr
+1 SEX M
+1 BIRT
+2 DATE Feb 1617/18
+2 PLAC Egerton, England
+0 @I80@ INDI
+1 NAME Elvira /Lathrop/
+2 GIVN Elvira
+2 SURN Lathrop
+1 SEX F
+0 @I81@ INDI
+1 NAME Albert /Lathrop/
+2 GIVN Albert
+2 SURN Lathrop
+1 SEX M
+0 @I82@ INDI
+1 NAME Charles /Lathrop/
+2 GIVN Charles
+2 SURN Lathrop
+1 SEX M
+0 @I83@ INDI
+1 NAME George /Lathrop/
+2 GIVN George
+2 SURN Lathrop
+1 SEX M
+0 @I84@ INDI
+1 NAME Henry /Lathrop/
+2 NSFX Jr
+2 GIVN Henry
+2 SURN Jr
+1 SEX M
+0 @I85@ INDI
+1 NAME Gilbert /Lathrop/
+2 GIVN Gilbert
+2 SURN Lathrop
+1 SEX M
+0 @I86@ INDI
+1 NAME Martha /Lathrop/
+2 GIVN Martha
+2 SURN Lathrop
+1 SEX F
+0 @I87@ INDI
+1 NAME Mary /Lathrop/
+2 GIVN Mary
+2 SURN Lathrop
+1 SEX F
+0 @I88@ INDI
+1 NAME John /Petty/
+1 TITL Captain
+2 GIVN John
+2 SURN Petty
+1 SEX M
+1 BIRT
+2 DATE ABT 1735
+2 PLAC New Jersey
+1 DEAT
+2 DATE ABT 1812
+1 OCCU Captain
+1 NOTE Born circa 1735 in New Jersey. Died circa 1812 at son Moses' home during War of 1812. Revolutionary War patriot - commanded a company in Colonel Williams Regiment. Founding father of Woodhouse First Presbyterian Church, Mansfield Township, NJ. Married Margaret Woolever (daughter of Johann Peter Woolever and Anna Margaretha Finck). Children included Joseph, Moses, John, Aaron, Peggy Stoltz, Polly Vanatta.
+0 @I89@ INDI
+1 NAME Margaret /Woolever/
+2 GIVN Margaret
+2 SURN Woolever
+1 SEX F
+1 BIRT
+2 DATE ABT 1740
+2 PLAC New Jersey
+1 NOTE Daughter of Johann Peter Woolever and Anna Margaretha Finck.
+0 @I9@ INDI
+1 NAME Barbara /Lathrop/
+2 GIVN Barbara
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE Oct 1619
+2 PLAC Egerton, England
+0 @I90@ INDI
+1 NAME Johann Peter /Woolever/
+2 GIVN Johann Peter
+2 SURN Woolever
+1 SEX M
+1 BIRT
+2 DATE 3 FEB 1703
+2 PLAC Roxheim, Bacharach, Germany
+1 DEAT
+2 DATE Mar 1767
+2 PLAC Mansfield, Woodhouse Township, Sussex County, NJ
+1 NOTE Naturalized Sep 9, 1715 at Kingston, NY. Moved to Franklin Township 1755.
+0 @I91@ INDI
+1 NAME Anna Margaretha /Finck/
+2 GIVN Anna Margaretha
+2 SURN Finck
+1 SEX F
+1 BIRT
+2 DATE ABT 1703
+2 PLAC Runkel, Germany
+1 DEAT
+2 DATE AFTER 1767
+2 PLAC New Jersey
+0 @I92@ INDI
+1 NAME Joseph /Petty/
+2 NSFX Sr
+2 GIVN Joseph
+2 SURN Sr
+1 SEX M
+1 BIRT
+2 DATE 1764
+2 PLAC New Jersey
+1 NOTE Son of Captain John Petty, Revolutionary War Patriot.
+0 @I93@ INDI
+1 NAME Elizabeth /Petty/
+2 GIVN Elizabeth
+2 SURN Petty
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1765
+1 DEAT
+2 DATE 8 JUN 1851
+1 NOTE Wife of Joseph Petty Sr.
+0 @I94@ INDI
+1 NAME Joseph /Petty/
+2 GIVN Joseph
+2 SURN Petty
+1 SEX M
+0 @I95@ INDI
+1 NAME Elizabeth /Middagh/
+2 GIVN Elizabeth
+2 SURN Middagh
+1 SEX F
+0 @I96@ INDI
+1 NAME Jacob /Petty/
+2 GIVN Jacob
+2 SURN Petty
+1 SEX M
+1 BIRT
+2 DATE 1801
+2 PLAC New Jersey
+1 DEAT
+2 DATE 1863
+2 PLAC Perry County, Ohio
+1 OCCU Farmer, Township Trustee
+1 NOTE Came to Ohio in 1809 at age 8 with father Joseph Petty. Married Millie Barnes in 1822.
+0 @I97@ INDI
+1 NAME Millie /Barns/
+2 GIVN Millie
+2 SURN Barns
+1 SEX F
+1 DEAT
+2 DATE 1863
+0 @I98@ INDI
+1 NAME Dennis Clay /Lathrop/
+2 GIVN Dennis Clay
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1888
+2 PLAC Petty Township, Lawrence County, Illinois
+1 DEAT
+2 DATE 1966
+2 PLAC Sumner, Illinois
+1 OCCU Farmer
+1 RELI Prairie Chapel EUB Church
+1 NOTE Born Nov 6, 1888 in Petty Township, Lawrence County, IL. Died 1966 at Sumner, IL age 77. Retired farmer. Member of Prairie Chapel EUB Church. Married Mabel June Petty. Children: Levi (Bridgeport), Leonard (Danville then Adrian, MI), Beulah Ledet (Charleston, SC), Dorothy Falke (Adrian, MI), Norma Leturno (Carpentersville, IL), Phyllis Summers (Titusville, FL). Son Gerald predeceased him. Had 18 grandchildren. Siblings: brother Demsy Lathrop (Sumner), sister Vevia Wagner (Sumner). Source: FindAGrave memorial 33036290.
+0 @I99@ INDI
+1 NAME Mabel June /Petty/
+2 GIVN Mabel June
+2 SURN Petty
+1 SEX F
+1 BIRT
+2 DATE 2 JUN 1897
+2 PLAC Lawrence County, IL
+1 DEAT
+2 DATE 1971
+2 PLAC Sumner, Illinois
+1 NOTE Born June 2, 1897 in Lawrence County, IL. Died 1971 at Sumner, IL age 74. Married Dennis Lathrop. Children: Levi, Leonard, Beulah Ledet, Dorothy Falke, Norma Leturno, Phyllis Summers. Had 18 grandchildren and 3 great-grandchildren. Siblings: Fern Lathrop (married Merit Lathrop), Elizabeth Messenger, Jessie Lee (Dayton, OH), Gene Petty (Sumner), Ray Petty (Decatur), Dee Petty (Piqua, OH), Harold Petty (Decatur).
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+0 @F10@ FAM
+1 HUSB @I36@
+1 CHIL @I37@
+0 @F11@ FAM
+1 HUSB @I37@
+1 WIFE @I74@
+1 MARR
+2 DATE 12 JAN 1815
+1 CHIL @I77@
+0 @F12@ FAM
+1 HUSB @I77@
+1 WIFE @I76@
+1 MARR
+2 DATE 1 SEP 1844
+1 CHIL @I78@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I83@
+1 CHIL @I84@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+0 @F13@ FAM
+1 HUSB @I55@
+1 WIFE @I56@
+1 CHIL @I57@
+0 @F14@ FAM
+1 HUSB @I57@
+1 WIFE @I52@
+1 MARR
+2 DATE 1685
+1 CHIL @I70@
+1 CHIL @I71@
+1 CHIL @I72@
+1 CHIL @I73@
+0 @F15@ FAM
+1 HUSB @I57@
+1 WIFE @I59@
+1 CHIL @I68@
+0 @F17@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 MARR
+2 DATE 21 JUN 1584
+1 CHIL @I62@
+0 @F18@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+0 @F19@ FAM
+1 HUSB @I90@
+1 WIFE @I91@
+1 CHIL @I89@
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I3@
+1 MARR
+2 DATE 10 OCT 1610
+2 PLAC England
+1 CHIL @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+0 @F20@ FAM
+1 HUSB @I88@
+1 WIFE @I89@
+1 CHIL @I92@
+0 @F21@ FAM
+1 HUSB @I94@
+1 WIFE @I95@
+1 CHIL @I96@
+0 @F22@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 MARR
+2 DATE 1822
+0 @F23@ FAM
+1 HUSB @I98@
+1 WIFE @I99@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I104@
+1 CHIL @I178@
+1 CHIL @I179@
+1 CHIL @I180@
+1 CHIL @I181@
+1 NOTE Dennis Clay Lathrop and Mabel June Petty. Children: Levi, Leonard, Dorothy Falke, Beulah Ledet, Norma Leturno, Phyllis Summers, Gerald (deceased).
+0 @F24@ FAM
+1 HUSB @I75@
+1 CHIL @I76@
+0 @F25@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+0 @F26@ FAM
+1 HUSB @I43@
+1 WIFE @I44@
+1 CHIL @I45@
+0 @F27@ FAM
+1 HUSB @I38@
+1 WIFE @I39@
+0 @F29@ FAM
+1 HUSB @I51@
+1 CHIL @I52@
+0 @F3@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 MARR
+2 DATE 14 JUN 1635
+2 PLAC Scituate, MA
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+0 @F31@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I115@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I120@
+0 @F32@ FAM
+1 HUSB @I121@
+1 WIFE @I122@
+1 CHIL @I123@
+0 @F33@ FAM
+1 HUSB @I124@
+1 WIFE @I125@
+1 CHIL @I126@
+0 @F34@ FAM
+1 HUSB @I123@
+1 WIFE @I126@
+1 MARR
+2 DATE 24 DEC 1893
+0 @F4@ FAM
+1 HUSB @I10@
+1 CHIL @I18@
+0 @F5@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I20@
+0 @F6@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 MARR
+2 DATE 24 JUL 1715
+2 PLAC Norwich, New London Co., CT
+1 CHIL @I33@
+1 CHIL @I34@
+1 CHIL @I35@
+0 @F7@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 CHIL @I22@
+0 @F8@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I21@
+0 @F9@ FAM
+1 HUSB @I26@
+1 WIFE @I27@
+1 CHIL @I25@
+
+0 @I131@ INDI
+1 NAME Mary /Powell/
+2 GIVN Mary
+2 SURN Powell
+1 SEX F
+1 NOTE Second wife of Stephen Tilden. Mother of Mary Ann Tilden.
+
+0 @I132@ INDI
+1 NAME Richard /Warren/
+2 GIVN Richard
+2 SURN Warren
+1 SEX M
+1 BIRT
+2 DATE ABT 1585
+2 PLAC England
+1 DEAT
+2 DATE 1628
+2 PLAC Plymouth, Massachusetts
+1 NOTE Born circa 1585 in England. Died 1628 in Plymouth, MA. Mayflower passenger 1620 - one of 41 signers of Mayflower Compact. Merchant. Wife Elizabeth Walker and children came on ship Anne in 1623. Children included Mary, Ann, Sarah, Elizabeth, Abigail, Nathaniel, Joseph. Daughter Ann Warren married to Tilden line.
+
+0 @I133@ INDI
+1 NAME Elizabeth /Walker/
+2 GIVN Elizabeth
+2 SURN Walker
+1 SEX F
+1 NOTE Wife of Richard Warren.
+
+0 @I134@ INDI
+1 NAME Thomas /Tilden/
+2 GIVN Thomas
+2 SURN Tilden
+1 SEX M
+1 BIRT
+2 DATE ABT 1555
+2 PLAC Tenterden, Kent, England
+1 NOTE Father of Elder Nathaniel Tilden.
+
+0 @I135@ INDI
+1 NAME Alice /Bigge/
+2 GIVN Alice
+2 SURN Bigge
+1 SEX F
+1 NOTE Wife of Thomas Tilden. Mother of Elder Nathaniel Tilden.
+
+0 @I136@ INDI
+1 NAME Stephen /Huckstep/
+2 GIVN Stephen
+2 SURN Huckstep
+1 SEX M
+1 NOTE Father of Lydia Huckstep.
+
+0 @I137@ INDI
+1 NAME Winifred /Hatch/
+2 GIVN Winifred
+2 SURN Hatch
+1 SEX F
+1 NOTE Mother of Lydia Huckstep.
+
+0 @I138@ INDI
+1 NAME Rowland /Powell/ V
+2 NSFX V
+2 GIVN Rowland
+2 SURN Powell
+1 SEX M
+1 BIRT
+2 DATE 16 NOV 1751
+2 PLAC Hartford, Vermont
+1 DEAT
+2 DATE 1838
+2 PLAC Richford, Vermont
+1 BURI
+2 PLAC Troy Street Cemetery, Richford, VT
+1 NOTE Revolutionary War Veteran. Served in Capt. Joshua Hazen's Company.
+
+0 @I139@ INDI
+1 NAME Mary /Janes/
+2 GIVN Mary
+2 SURN Janes
+1 SEX F
+1 BIRT
+2 DATE 1753
+1 DEAT
+2 DATE 1813
+2 PLAC Richford, Vermont
+1 NOTE Wife of Rowland Powell V.
+
+0 @I140@ INDI
+1 NAME Edmund /Hobart/
+2 GIVN Edmund
+2 SURN Hobart
+1 SEX M
+1 BIRT
+2 DATE ABT 1574
+2 PLAC Hingham, Norfolk, England
+1 DEAT
+2 DATE 8 MAR 1646
+2 PLAC Hingham, Massachusetts
+1 NOTE One of the founders of Hingham, Massachusetts. Came on Elizabeth Bonaventura in 1633.
+
+0 @I141@ INDI
+1 NAME Margaret /Dewey/
+2 GIVN Margaret
+2 SURN Dewey
+1 SEX F
+1 NOTE Wife of Edmund Hobart. Married 7 Sep 1600 in Hingham, Norfolk, England.
+
+0 @I142@ INDI
+1 NAME Robert /Peck/ II
+2 NSFX II
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE 1546
+2 PLAC Beccles, Suffolk, England
+1 DEAT
+2 DATE 1593
+1 NOTE Father of Rev. Robert Peck (Rector at Hingham). Gentleman of Beccles.
+
+0 @I143@ INDI
+1 NAME Joan /Waters/
+2 GIVN Joan
+2 SURN Waters
+1 SEX F
+1 NOTE Wife of Robert Peck II.
+
+0 @I144@ INDI
+1 NAME Robert /Peck/
+1 TITL Rev.
+2 GIVN Robert
+2 SURN Peck
+1 SEX M
+1 BIRT
+2 DATE 1580
+2 PLAC Beccles, Suffolk, England
+1 DEAT
+2 DATE 10 AUG 1658
+2 PLAC Hingham, Norfolk, England
+1 OCCU Rector at Hingham, Norfolk, England
+1 NOTE Son of Robert Peck II. Married Anne (unknown). Minister who emigrated to New England 1638 and returned to England 1641.
+
+0 @I145@ INDI
+1 NAME Johanna /Thurgood/
+2 GIVN Johanna
+2 SURN Thurgood
+1 SEX F
+1 NOTE Wife of George Fitch.
+
+0 @F35@ FAM
+1 HUSB @I58@
+1 WIFE @I131@
+1 CHIL @I59@
+1 NOTE Stephen Tilden and Mary Powell, parents of Mary Ann Tilden.
+
+0 @F36@ FAM
+1 HUSB @I47@
+1 WIFE @I54@
+1 CHIL @I58@
+1 NOTE Elder Nathaniel Tilden and Lydia Huckstep, parents of Stephen Tilden. Replaces F30 which lacked wife.
+
+0 @F37@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 CHIL @I47@
+1 NOTE Thomas Tilden and Alice Bigge, parents of Elder Nathaniel Tilden.
+
+0 @F38@ FAM
+1 HUSB @I136@
+1 WIFE @I137@
+1 CHIL @I54@
+1 NOTE Stephen Huckstep and Winifred Hatch, parents of Lydia Huckstep.
+
+0 @F39@ FAM
+1 HUSB @I132@
+1 WIFE @I133@
+1 CHIL @I53@
+1 NOTE Richard Warren and Elizabeth Walker, parents of Ann Warren.
+
+0 @F40@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I138@
+1 NOTE Rowland Powell IV and Mary Powell, parents of Rowland Powell V. Updates F16.
+
+0 @F41@ FAM
+1 HUSB @I138@
+1 WIFE @I139@
+1 CHIL @I74@
+1 NOTE Rowland Powell V and Mary Janes, parents of Cynthia Powell.
+
+0 @F42@ FAM
+1 HUSB @I140@
+1 WIFE @I141@
+1 CHIL @I50@
+1 NOTE Edmund Hobart and Margaret Dewey, parents of Dorothy Hobart. Updates F28.
+
+0 @F43@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 CHIL @I144@
+1 NOTE Robert Peck II and Joan Waters, parents of Rev. Robert Peck.
+
+0 @F44@ FAM
+1 HUSB @I42@
+1 WIFE @I145@
+1 CHIL @I43@
+1 NOTE George Fitch and Johanna Thurgood, parents of Joseph Fitch.
+0 @I146@ INDI
+1 NAME Abel /Janes/
+2 GIVN Abel
+2 SURN Janes
+1 SEX M
+1 NOTE Father of William Janes.
+
+0 @I147@ INDI
+1 NAME Mary /Judd/
+2 GIVN Mary
+2 SURN Judd
+1 SEX F
+1 NOTE Wife of Abel Janes.
+
+0 @I148@ INDI
+1 NAME Jonathan /Janes/
+2 GIVN Jonathan
+2 SURN Janes
+1 SEX M
+1 NOTE Son of William Janes and Abigail Loomis. Married Irene Bradford.
+
+0 @I149@ INDI
+1 NAME Irene /Bradford/
+2 GIVN Irene
+2 SURN Bradford
+1 SEX F
+1 NOTE Granddaughter of Governor William Bradford. Wife of Jonathan Janes.
+
+0 @I150@ INDI
+1 NAME Mary Ann /Richardson/
+2 GIVN Mary Ann
+2 SURN Richardson
+1 SEX F
+1 DEAT
+2 DATE 7 SEP 1806
+1 NOTE Wife of Rowland Powell IV. Daughter of Amos Richardson.
+
+0 @F45@ FAM
+1 HUSB @I146@
+1 WIFE @I147@
+1 CHIL @I66@
+1 NOTE Abel Janes and Mary Judd, parents of William Janes.
+
+0 @F46@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 MARR
+2 DATE 5 JUN 1712
+2 PLAC Brimfield, Massachusetts
+1 CHIL @I148@
+1 CHIL @I139@
+1 NOTE William Janes and Abigail Loomis, parents of Jonathan Janes and Mary Janes.
+
+0 @F47@ FAM
+1 HUSB @I148@
+1 WIFE @I149@
+1 NOTE Jonathan Janes and Irene Bradford.
+
+0 @F48@ FAM
+1 HUSB @I65@
+1 CHIL @I150@
+1 NOTE Amos Richardson, father of Mary Ann Richardson.
+
+0 @I151@ INDI
+1 NAME Ezra /Lathrop/
+1 TITL Lieutenant
+2 GIVN Ezra
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 4 DEC 1718
+2 PLAC Norwich, Connecticut
+1 DEAT
+2 DATE 9 NOV 1760
+2 PLAC Norwich, Connecticut
+1 NOTE Born December 4, 1718 in Norwich, CT. Died November 9, 1760 in Norwich, CT.
+2 CONT MARRIAGE: Married Charity Perkins January 20, 1743 in New London, CT by Rev. Daniel Kirtland.
+2 CONT MILITARY: Lieutenant in French and Indian Wars. Listed as 'Lieutenant Ezra Lothrop' in probate records.
+2 CONT RELIGION: Admitted to church membership in Newent Congregational Church, Lisbon, CT in 1742.
+2 CONT PROBATE RECORDS: Estate found insolvent after his death. Multiple court proceedings 1760-1773.
+2 CONT Court appointed widow Charity administratrix. Jacob Perkins Esqr (Charity's brother), Robert Kinsman Jr, and Elisha Lothrop (Ezra's brother) appointed to divide estate.
+2 CONT Son Jedidiah (minor over age 14) chose uncle Elisha Lothrop as guardian.
+2 CONT General Assembly granted permission to sell real estate to pay debts.
+2 CONT Dr. Daniel Lothrop (Ezra's first cousin, son of uncle Thomas) appointed to auction estate 'at ye Beat of Drum to the Highest bidder.'
+2 CONT CHILDREN: Ezra Jr b. 1/24/1743-4 (sea captain), Jedidiah b. 1/29/1745-6 (md Sarah Tracy 1767), Hannah b. 9/25/1748 (md Zephaniah Lathrop 1769), Charity b. 4/7/1752 (md David Galusha 1773), Elkanah b. 11/9/1754 (ancestor line).
+2 CONT Source: FindAGrave memorial 166256538, dedpepl.blogspot.com ahnentafel 128.
+0 @I152@ INDI
+1 NAME Charity /Perkins/
+2 GIVN Charity
+2 SURN Perkins
+1 SEX F
+1 NOTE Born 1724 in Norwich, Connecticut.
+2 CONT PARENTS: Jabez Perkins and Charity Hodges (widow Leonard).
+2 CONT Only child of her parents' marriage.
+2 CONT MARRIAGE: Ezra Lathrop January 20, 1743 in New London, CT. Ceremony by Rev. Daniel Kirtland.
+2 CONT Widowed 1760 when husband died, estate found insolvent.
+2 CONT Court appointed her administratrix. Her brother Jacob Perkins Esqr was among those who divided estate.
+2 CONT CHILDREN: Ezra Jr (sea captain), Jedidiah (chose uncle Elisha as guardian), Hannah, Charity, Elkanah.
+0 @I153@ INDI
+1 NAME Elkanah /Lathrop/
+2 GIVN Elkanah
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1754
+2 PLAC Norwich, Connecticut
+1 NOTE Born November 9, 1754 in Norwich, Connecticut.
+2 CONT PARENTS: Lt. Ezra Lathrop and Charity Perkins.
+2 CONT OCCUPATION: Baptist minister.
+2 CONT Moved family to Canada.
+2 CONT CHILDREN: Russell Lathrop (1793-1872) and others.
+0 @I154@ INDI
+1 NAME Jacob /Perkins/
+1 TITL Sergeant
+2 GIVN Jacob
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 1624
+2 PLAC Hillmorton, Warwickshire, England
+1 DEAT
+2 DATE 1700
+2 PLAC Ipswich, Massachusetts
+1 NOTE Son of John Perkins Sr. Sergeant of military company in Ipswich.
+
+0 @I155@ INDI
+1 NAME Elizabeth /Whipple/
+2 GIVN Elizabeth
+2 SURN Whipple
+1 SEX F
+1 BIRT
+2 DATE ABT 1629
+1 DEAT
+2 DATE 12 FEB 1686
+1 NOTE First wife of Sgt. Jacob Perkins.
+
+0 @I156@ INDI
+1 NAME John /Perkins/
+1 TITL Sergeant
+2 GIVN John
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 1590
+2 PLAC Hillmorton, Warwickshire, England
+1 DEAT
+2 DATE 1654
+2 PLAC Ipswich, Massachusetts
+1 NOTE Born circa 1590 in Hillmorton, Warwickshire, England. Died 1654 in Ipswich, Massachusetts.
+2 CONT PARENTS: Henry Perkins and Elizabeth Sawbridge.
+2 CONT EMIGRATION: Emigrated from England to Massachusetts Bay Colony.
+2 CONT WIFE: Judith Gater.
+2 CONT OFFICES: Sergeant of military company. Various town offices in Ipswich.
+2 CONT PETITION: Signed Petition of the Inhabitants of Ipswich.
+2 CONT WILL (March 28, 1654): Bequests to eldest son John (foal from young mare), grandsons John and Abraham (yearling heifers), son Thomas (cow and heifer), grandson John Perkins (ewe), daughters Elizabeth Sargent, Mary Bradbury, Lydia Bennitt (cows and heifers for them and their children), grandchild Thomas Bradbury (ewe), son Jacob Perkins (dwelling house and all lands after wife's decease). Wife Judith Perkins sole executrix.
+2 CONT Proved in court Ipswich September 27, 1654.
+2 CONT ESTATE INVENTORY: Dwelling house and barn 40 pounds, land about house 12 pounds, unbroken land 21 pounds, marsh 12 pounds, improved land 24 pounds, mare with foal 25 pounds, six milch cows 30 pounds, heifers and steer 11 pounds 10 shillings, sheep 17 pounds, calf, other livestock 8 pounds, feather bed 4 pounds, money 10 pounds, cart and tools 5 pounds, kitchen items 2 pounds, wearing apparel 5 pounds.
+0 @I157@ INDI
+1 NAME Judith /Gater/
+2 GIVN Judith
+2 SURN Gater
+1 SEX F
+1 NOTE Wife of John Perkins Sr.
+
+0 @I158@ INDI
+1 NAME Henry /Perkins/
+2 GIVN Henry
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 PLAC Hillmorton, Warwickshire, England
+1 DEAT
+2 DATE 1609
+1 NOTE Died 1609 in Hillmorton, Warwickshire, England.
+2 CONT OCCUPATION: Yeoman/farmer in Hillmorton.
+2 CONT LEGAL: June 1604 appeared in case 'Attorney General v Gater' - Plaintiffs: Sir Edward Coke, Attorney General at relation of Mary Astley. Defendants included 'Henry Perkins and others.' Subject: Turning cattle of town into corn growing on land of Mary Astley in Hillmorton.
+2 CONT WIFE: Elizabeth Sawbridge.
+2 CONT ADMINISTRATION: Letters of administration granted at Lichfield April 5, 1609 to son Thomas Perkins. Bond given for tuition of children: Margaret, Edward, Anne, Sarah, Francis, William, Liny, Elizabeth and James Pirkins.
+2 CONT INVENTORY: March 22, 1608. Taken by Rowland Wilcox Gent., Thos. Pirkins, John Sawbridge, Thos. Compton, Wm. Buinam, yeomen.
+0 @I159@ INDI
+1 NAME Elizabeth /Sawbridge/
+2 GIVN Elizabeth
+2 SURN Sawbridge
+1 SEX F
+1 NOTE Wife of Henry Perkins.
+
+0 @I160@ INDI
+1 NAME William /Hodges/ III
+2 GIVN William
+2 SURN Hodges
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 1624
+2 PLAC Kent, England
+1 NOTE Baptized 1624 in Kent, England.
+2 CONT PARENTS: William Hodges II and Alice Symes. Both likely married and William III baptized at same church where John Hill and Frances Tilden came from.
+2 CONT WIFE: Mary Andrews (later remarried Peter Pitts after William's death).
+2 CONT IMMIGRATION: Arrived Salem, Massachusetts 1638 or 1643 (conflicting records). Went from Salem to Taunton soon after town was purchased - on second list of early settlers.
+2 CONT DAUGHTER: Charity Hodges who married (1) Elkanah Leonard, (2) Jabez Perkins.
+2 CONT Sources: Abridgement of Genealogical Record of Hodges Family of New England (1954), New England Marriages Prior to 1700 by Torrey, Tyler Index to Parish Registers 1538-1874.
+0 @I161@ INDI
+1 NAME William /Hodges/ II
+2 GIVN William
+2 SURN Hodges
+2 NSFX II
+1 SEX M
+1 NOTE Father of William Hodges III.
+
+0 @I162@ INDI
+1 NAME Alice /Symes/
+2 GIVN Alice
+2 SURN Symes
+1 SEX F
+1 NOTE Wife of William Hodges II. Mother of William Hodges III.
+
+0 @I163@ INDI
+1 NAME Elkanah /Leonard/
+2 GIVN Elkanah
+2 SURN Leonard
+1 SEX M
+1 NOTE First husband of Charity Hodges. Had 10 children with her.
+
+0 @I164@ INDI
+1 NAME Joseph /Petty/
+2 NSFX Sr
+2 GIVN Joseph
+2 SURN Sr
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1764
+2 PLAC New Jersey
+1 DEAT
+2 DATE 8 JUN 1851
+2 PLAC Perry County, Ohio
+1 NOTE Son of Captain John Petty. Father of Jacob Petty.
+
+0 @I165@ INDI
+1 NAME Elizabeth /Middagh/
+2 GIVN Elizabeth
+2 SURN Middagh
+1 SEX F
+1 BIRT
+2 DATE 29 FEB 1765
+1 DEAT
+2 DATE 5 MAR 1851
+1 NOTE Wife of Joseph Petty Sr. Sister of Major John Middagh.
+
+0 @I166@ INDI
+1 NAME Genner Sherman /Petty/
+2 GIVN Genner Sherman
+2 SURN Petty
+1 SEX M
+1 NOTE Son of Jacob Petty and Millie Barnes. Married Mary Ann Bunn.
+
+0 @I167@ INDI
+1 NAME Mary Ann /Bunn/
+2 GIVN Mary Ann
+2 SURN Bunn
+1 SEX F
+1 BIRT
+2 DATE 1819
+1 DEAT
+2 DATE 1860
+1 NOTE Wife of Genner Sherman Petty.
+
+0 @I168@ INDI
+1 NAME Ella May /Smalley/
+2 GIVN Ella May
+2 SURN Smalley
+1 SEX F
+1 NOTE Daughter of Joshua Smalley. Married Sherman Petty.
+
+0 @I169@ INDI
+1 NAME Joshua /Smalley/
+2 GIVN Joshua
+2 SURN Smalley
+1 SEX M
+1 NOTE Father of Ella May Smalley.
+
+0 @I170@ INDI
+1 NAME Joseph /Wallingford/
+2 GIVN Joseph
+2 SURN Wallingford
+1 SEX M
+1 NOTE Father of Amanda Wallingford.
+
+0 @I171@ INDI
+1 NAME Orville /Bailey/
+2 GIVN Orville
+2 SURN Bailey
+1 SEX M
+1 NOTE Son of Edgar U. Bailey and Elizabeth Cofield.
+
+0 @I172@ INDI
+1 NAME Edwin /Bailey/
+2 GIVN Edwin
+2 SURN Bailey
+1 SEX M
+1 NOTE Son of Edgar U. Bailey and Elizabeth Cofield.
+
+0 @I173@ INDI
+1 NAME Mildred /Bailey/
+2 GIVN Mildred
+2 SURN Bailey
+1 SEX F
+1 NOTE Daughter of Edgar U. Bailey and Elizabeth Cofield.
+
+0 @I174@ INDI
+1 NAME Irene /Bailey/
+2 GIVN Irene
+2 SURN Bailey
+1 SEX F
+1 NOTE Daughter of Edgar U. Bailey and Elizabeth Cofield.
+
+0 @F49@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 MARR
+2 DATE 24 JUL 1715
+2 PLAC Norwich, New London County, Connecticut
+1 CHIL @I33@
+1 CHIL @I151@
+1 CHIL @I34@
+1 CHIL @I35@
+1 NOTE Samuel Lathrop III and Deborah Crow. Updates F6 with additional child Lt. Ezra.
+
+0 @F50@ FAM
+1 HUSB @I151@
+1 WIFE @I152@
+1 MARR
+2 DATE 20 JAN 1743
+2 PLAC New London, Connecticut
+1 CHIL @I191@
+1 CHIL @I192@
+1 CHIL @I193@
+1 CHIL @I194@
+1 CHIL @I153@
+1 NOTE Lt. Ezra Lathrop and Charity Perkins. Married by Rev. Daniel Kirtland. Children: Ezra Jr (sea captain), Jedidiah, Hannah, Charity, Elkanah (ancestor line).
+
+0 @F51@ FAM
+1 HUSB @I153@
+1 CHIL @I37@
+1 NOTE Elkanah Lathrop, father of Russell Lathrop.
+
+0 @F52@ FAM
+1 HUSB @I32@
+1 WIFE @I152@
+1 NOTE Jabez Perkins and Charity Hodges, parents of Charity Perkins.
+
+0 @F53@ FAM
+1 HUSB @I154@
+1 WIFE @I155@
+1 CHIL @I32@
+1 NOTE Sgt. Jacob Perkins and Elizabeth Whipple, parents of Jabez Perkins.
+
+0 @F54@ FAM
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I154@
+1 NOTE John Perkins Sr. and Judith Gater, parents of Jacob Perkins.
+
+0 @F55@ FAM
+1 HUSB @I158@
+1 WIFE @I159@
+1 CHIL @I156@
+1 NOTE Henry Perkins and Elizabeth Sawbridge, parents of John Perkins Sr.
+
+0 @F56@ FAM
+1 HUSB @I161@
+1 WIFE @I162@
+1 CHIL @I160@
+1 NOTE William Hodges II and Alice Symes, parents of William Hodges III.
+
+0 @F57@ FAM
+1 HUSB @I160@
+1 WIFE @I31@
+1 CHIL @I29@
+1 NOTE William Hodges III and Mary Andrews, parents of Charity Hodges.
+
+0 @F58@ FAM
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I96@
+1 NOTE Joseph Petty Sr. and Elizabeth Middagh, parents of Jacob Petty.
+
+0 @F59@ FAM
+1 HUSB @I166@
+1 WIFE @I167@
+1 CHIL @I99@
+1 NOTE Genner Sherman Petty and Mary Ann Bunn, parents of Mabel June Petty.
+
+0 @F60@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I166@
+1 NOTE Jacob Petty and Millie Barnes, parents of Genner Sherman Petty.
+
+0 @F61@ FAM
+1 HUSB @I169@
+1 CHIL @I168@
+1 NOTE Joshua Smalley, father of Ella May Smalley.
+
+0 @F62@ FAM
+1 HUSB @I170@
+1 CHIL @I130@
+1 NOTE Joseph Wallingford, father of Amanda Wallingford.
+
+0 @F63@ FAM
+1 HUSB @I123@
+1 WIFE @I126@
+1 MARR
+2 DATE 24 DEC 1893
+1 CHIL @I171@
+1 CHIL @I172@
+1 CHIL @I173@
+1 CHIL @I174@
+1 NOTE Edgar U. Bailey and Elizabeth Cofield, with their children.
+
+0 @I175@ INDI
+1 NAME Alice /Lloyd/
+2 GIVN Alice
+2 SURN Lloyd
+1 SEX F
+1 NOTE Wife of Rev. John House. Mother of Hannah House who married Rev. John Lathrop.
+
+0 @I176@ INDI
+1 NAME Elizabeth Ann /Lathrop/
+2 GIVN Elizabeth Ann
+2 SURN Lathrop
+1 SEX F
+1 RESI
+2 PLAC Dearborn, Michigan
+1 NOTE Daughter of McKinley "Mack" VanGilder and Olive Elizabeth Bailey. Married surname Lathrop.
+
+0 @I177@ INDI
+1 NAME Aimee /Slavit/
+2 GIVN Aimee
+2 SURN Slavit
+1 SEX F
+1 NOTE Descendant - researcher of this family tree.
+
+0 @I178@ INDI
+1 NAME Beulah /Ledet/
+2 GIVN Beulah
+2 SURN Ledet
+1 SEX F
+1 RESI
+2 PLAC Charleston, South Carolina
+1 NOTE Daughter of Dennis Clay Lathrop and Mabel June Petty.
+
+0 @I179@ INDI
+1 NAME Norma /Leturno/
+2 GIVN Norma
+2 SURN Leturno
+1 SEX F
+1 RESI
+2 PLAC Carpentersville, Illinois
+1 NOTE Daughter of Dennis Clay Lathrop and Mabel June Petty.
+
+0 @I180@ INDI
+1 NAME Phyllis /Summers/
+2 GIVN Phyllis
+2 SURN Summers
+1 SEX F
+1 RESI
+2 PLAC Titusville, Florida
+1 NOTE Daughter of Dennis Clay Lathrop and Mabel June Petty.
+
+0 @I181@ INDI
+1 NAME Gerald /Lathrop/
+2 GIVN Gerald
+2 SURN Lathrop
+1 SEX M
+1 NOTE Son of Dennis Clay Lathrop and Mabel June Petty. Predeceased his father.
+
+0 @I182@ INDI
+1 NAME Demsy /Lathrop/
+2 GIVN Demsy
+2 SURN Lathrop
+1 SEX M
+1 RESI
+2 PLAC Sumner, Illinois
+1 NOTE Brother of Dennis Clay Lathrop.
+
+0 @I183@ INDI
+1 NAME Vevia /Wagner/
+2 GIVN Vevia
+2 SURN Wagner
+1 SEX F
+1 RESI
+2 PLAC Sumner, Illinois
+1 NOTE Sister of Dennis Clay Lathrop.
+
+0 @I184@ INDI
+1 NAME Lucinda Jane /Carmody/
+2 GIVN Lucinda Jane
+2 SURN Carmody
+1 SEX F
+1 NOTE Wife of Benjamin Franklin Smalley.
+
+0 @I185@ INDI
+1 NAME Benjamin Franklin /Smalley/
+2 GIVN Benjamin Franklin
+2 SURN Smalley
+1 SEX M
+1 NOTE Father of Joshua Smalley.
+
+0 @I186@ INDI
+1 NAME Agnes /Fitch/
+2 GIVN Agnes
+2 SURN Fitch
+1 SEX F
+1 NOTE Wife of Thomas Fitch.
+
+0 @I187@ INDI
+1 NAME Mary /Fitch/
+2 GIVN Mary
+2 SURN Fitch
+1 SEX F
+1 NOTE Wife of Joseph Fitch.
+
+0 @I188@ INDI
+1 NAME Joseph /Fitch/
+2 GIVN Joseph
+2 SURN Fitch
+1 SEX M
+1 NOTE Son of Thomas Fitch and Agnes.
+
+0 @I189@ INDI
+1 NAME Helen /Babbs/
+2 GIVN Helen
+2 SURN Babbs
+1 SEX F
+1 NOTE Wife of Rev. Robert Peck III.
+
+0 @I190@ INDI
+1 NAME Elizabeth /White/
+2 GIVN Elizabeth
+2 SURN White
+1 SEX F
+1 MARR
+2 DATE 7 NOV 1616
+2 PLAC Shalford, Essex, England
+1 NOTE Daughter of Robert White of Messing, Essex. First wife of Elder William Goodwin. Sister of Mary White (wife of Joseph Loomis).
+
+0 @F64@ FAM
+1 HUSB @I2@
+1 WIFE @I175@
+1 CHIL @I3@
+1 NOTE Rev. John House and Alice Lloyd, parents of Hannah House.
+
+0 @F65@ FAM
+1 HUSB @I103@
+1 WIFE @I122@
+1 CHIL @I176@
+1 NOTE McKinley VanGilder and Olive Elizabeth Bailey, parents of Elizabeth Ann Lathrop.
+
+0 @F66@ FAM
+1 HUSB @I185@
+1 WIFE @I184@
+1 CHIL @I169@
+1 NOTE Benjamin Franklin Smalley and Lucinda Jane Carmody, parents of Joshua Smalley.
+
+0 @F67@ FAM
+1 HUSB @I70@
+1 WIFE @I186@
+1 CHIL @I188@
+1 NOTE Thomas Fitch and Agnes, parents of Joseph Fitch.
+
+0 @F68@ FAM
+1 HUSB @I188@
+1 WIFE @I187@
+1 NOTE Joseph Fitch and Mary.
+
+0 @F69@ FAM
+1 HUSB @I50@
+1 WIFE @I189@
+1 NOTE Rev. Robert Peck III and Helen Babbs.
+
+0 @I191@ INDI
+1 NAME Ezra /Lathrop/
+2 GIVN Ezra
+2 SURN Lathrop
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 24 JAN 1743/44
+2 PLAC Norwich, Connecticut
+1 OCCU Sea Captain
+1 NOTE Son of Lt. Ezra Lathrop and Charity Perkins. Eldest son. Became a sea captain.
+
+0 @I192@ INDI
+1 NAME Jedidiah /Lathrop/
+2 GIVN Jedidiah
+2 SURN Lathrop
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1745/46
+2 PLAC Norwich, Connecticut
+1 DEAT
+2 DATE DEC 1879
+1 NOTE Son of Lt. Ezra Lathrop and Charity Perkins. Married Sarah Tracy 1767. Uncle Elisha Lathrop served as his guardian after father's death 1760. Aged more than 14 when he chose his guardian.
+
+0 @I193@ INDI
+1 NAME Hannah /Lathrop/
+2 GIVN Hannah
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1748
+2 PLAC Norwich, Connecticut
+1 NOTE Daughter of Lt. Ezra Lathrop and Charity Perkins. Married Zephaniah Lathrop 1769 (son of Ebenezer Lathrop).
+
+0 @I194@ INDI
+1 NAME Charity /Lathrop/
+2 GIVN Charity
+2 SURN Lathrop
+1 SEX F
+1 BIRT
+2 DATE 7 APR 1752
+2 PLAC Norwich, Connecticut
+1 NOTE Daughter of Lt. Ezra Lathrop and Charity Perkins. Married David Galusha 1773.
+0 @I195@ INDI
+1 NAME John /Gallop/ II
+1 TITL Capt.
+2 GIVN John
+2 SURN Gallop
+2 NSFX II
+1 SEX M
+1 BIRT
+2 DATE ABT 1590
+2 PLAC Bridport, Dorset, England
+1 DEAT
+2 DATE 11 JAN 1650
+2 PLAC Boston, Suffolk County, Massachusetts
+1 OCCU Mariner, Harbor Pilot, Coastal Trader
+1 NOTE Born circa 1590 in Bridport, Dorset, England. Died January 11, 1650 in Boston ("Goodman Gallop is dead of a great griping in his bowels").
+2 CONT IMMIGRATION: Sailed on Mary and John March 20, 1630. Arrived Nantasket May 30, 1630 (67 days passage).
+2 CONT CHURCH: "John Gallop fisherman" admitted to Boston church January 5, 1633/4.
+2 CONT FREEMAN: April 1, 1634.
+2 CONT JOHN OLDHAM INCIDENT (1636): Off Block Island, discovered John Oldham's boat captured by Indians. Rammed pinnace multiple times, improvising iron-clad ram by lashing anchor to bow. Recovered Oldham's mutilated body.
+2 CONT PEQUOT WAR (1637): Bradford wrote: "Those that were wounded were fetched off soon by John Gallop who came with his shalop in a happie hour to bring them vituals."
+2 CONT FIRST NAVAL TASK FORCE (Dec 1632): Ship dispatched to police French raids and pirate Dixy Bull. General Court voted £10 each to Gallop and Mason.
+2 CONT PROPERTY: "Gallop's Island" (16 acres), house in Boston with wharfage rights, vessel "the Buck."
+2 CONT WILL (20 Dec 1649): Wife sole executrix. To son John "my now shallop." 40s. to building new meetinghouse.
+2 CONT Sources: Great Migration Begins; Gallup Family Genealogy.
+
+0 @I196@ INDI
+1 NAME Christabell /Brushett/
+2 GIVN Christabell
+2 SURN Brushett
+1 SEX F
+1 BIRT
+2 DATE 1592
+2 PLAC Dorset, England
+1 DEAT
+2 DATE 27 SEP 1655
+2 PLAC Boston, Suffolk County, Massachusetts
+1 NOTE Born 1592 in Dorset, England. Died September 27, 1655 in Boston.
+2 CONT IMMIGRATION: Arrived on Griffin September 4, 1633 with children after eight weeks crossing.
+2 CONT RELUCTANCE: Gov. John Winthrop wrote July 4, 1632: "I have much difficulty to keep John Galloppe here by reason his wife will not come. I marvel at the woman's weakness..."
+2 CONT CHURCH: Admitted to Boston Church June 22, 1634.
+2 CONT WILL (24 July 1655): Names three sons and daughter Joane Joy.
+
+0 @I197@ INDI
+1 NAME John /Gallup/ III
+1 TITL Capt.
+2 GIVN John
+2 SURN Gallup
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 25 JAN 1621
+2 PLAC Bridport, Dorset, England
+1 DEAT
+2 DATE 19 DEC 1675
+2 PLAC Great Swamp Fight, Narragansett, Rhode Island
+1 BURI
+2 PLAC Smith's Castle Mass Gravesite, Wickford, Washington County, Rhode Island
+1 OCCU Ship Owner, Coastal Trader, Indian Interpreter, Military Captain
+1 NOTE Baptized January 25, 1620/21 at Bridport, Dorset. Killed December 19, 1675 at Great Swamp Fight - one of six captains who fell storming the fort.
+2 CONT IMMIGRATION: Arrived Boston on Griffin September 4, 1633 with mother and siblings.
+2 CONT PEQUOT WAR (1637): "Bore himself so bravely that the General Court of Connecticut gave him a grant of 100 acres of land."
+2 CONT PROPERTY: 1651 received 8 acres in New London "in the very heart of the town." 1654 received 300 acres at Mystic River from General Court "with respect unto the services his father had done."
+2 CONT OFFICES: Selectman Stonington 1664-1668, 1671, 1673. Town Representative 1665, 1667. Indian Interpreter 1665-1675.
+2 CONT KING PHILIP'S WAR: January 1675 made Captain of 1st Company Connecticut Regiment. Raised 70 men under Capt. John Mason of Norwich.
+2 CONT ESTATE: Widow £100; son John £137; Benadam £90; William and Samuel £89 each; five daughters £70 each.
+2 CONT MEMORIAL: Stone at White Hall Graveyard, Mystic, CT.
+
+0 @I198@ INDI
+1 NAME Hannah /Lake/
+2 GIVN Hannah
+2 SURN Lake
+1 SEX F
+1 BIRT
+2 DATE 3 JUL 1621
+2 PLAC North Benfleet, Essex, England
+1 DEAT
+2 DATE AFT 1675
+1 NOTE Baptized July 3, 1621 at North Benfleet, Essex (as Ann, later called Hannah). First marriage in male line of Gallop family in America.
+2 CONT IMMIGRATION: Arrived Boston on ship Abigail October 6, 1635 after ten weeks passage, with mother Margaret and sister Martha. Accompanied aunt Elizabeth (Reade) Winthrop, wife of Gov. John Winthrop Jr.
+2 CONT ANCESTRY: Father John Lake descended from Lakes of Normantown, Yorkshire, who claimed descent through the Cailleys from the Albinis, Earls of Arundel and Sussex, from the Counts of Louvaine (right line of Charlemagne) and from William the Conqueror.
+
+0 @I199@ INDI
+1 NAME John /Lake/
+2 GIVN John
+2 SURN Lake
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1590
+2 PLAC North Benfleet, Essex, England
+1 DEAT
+2 DATE BEF 18 JAN 1662
+2 PLAC England
+1 NOTE Christened September 26, 1590 at North Benfleet, Essex. Died in England before January 18, 1661/62 (recorded living 1657).
+2 CONT RESIDENCE: Great Fanton Hall, North Benfleet, Essex.
+2 CONT NOTE: John Lake never came to America. Wife Margaret left England without him sometime between 1631 and 1635.
+
+0 @I200@ INDI
+1 NAME Margaret /Reade/
+2 GIVN Margaret
+2 SURN Reade
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1598
+2 PLAC North Benfleet, Essex, England
+1 CHR
+2 DATE 16 JUL 1598
+2 PLAC North Benfleet, Essex, England
+1 DEAT
+2 DATE BET 30 AUG 1672 AND 24 SEP 1672
+2 PLAC Ipswich, Massachusetts
+1 NOTE Born July 11, 1598. Baptized July 16, 1598 at North Benfleet, Essex.
+2 CONT PARENTS: Edmund Reade and Elizabeth (Cooke) Reade of Wickford and North Benfleet, Essex.
+2 CONT IMMIGRATION: Arrived Boston on ship Abigail October 6, 1635 with daughters Hannah and Martha. Accompanied sister Elizabeth (Reade) Winthrop.
+2 CONT SISTERS: Elizabeth Reade (second wife of Gov. John Winthrop Jr., mother of all his children). Martha Epps (widow, married Deputy Gov. Samuel Symonds of Ipswich).
+2 CONT NOTE: Left husband in England - "what may have been an untenable marital situation."
+2 CONT WILL: Made August 30, 1672; proved September 24, 1672 at Ipswich.
+
+0 @I201@ INDI
+1 NAME Esther /Gallup/
+2 GIVN Esther
+2 SURN Gallup
+1 SEX F
+1 BIRT
+2 DATE 24 MAR 1653
+2 PLAC New London, Connecticut
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake.
+
+0 @I202@ INDI
+1 NAME Henry /Hodges/ II
+1 TITL Elder
+2 GIVN Henry
+2 SURN Hodges
+2 NSFX II
+1 SEX M
+1 BIRT
+2 DATE 1652
+2 PLAC Taunton, Massachusetts
+1 DEAT
+2 DATE 30 SEP 1717
+2 PLAC Taunton, Massachusetts
+1 BURI
+2 PLAC Neck of Land Burying Ground, Taunton
+1 OCCU Church Elder, Selectman, Military Captain
+1 NOTE Born 1652 in Taunton. Died September 30, 1717 age 65. Gravestone: "Here lies the body of Elder Henry Hodges, Died Sept. 30, 1717. Aged 65 years."
+2 CONT RESIDENCE: House "within a few yards of the place where a red school house stood in 1820." Tablet: "Homestead of Elder Henry Hodges, 1681-1717."
+2 CONT CAREER: Leading man in all affairs of settlement. Captain of military company. Held highest town offices many years.
+2 CONT CHURCH: Deacon and Presiding Elder - occupied seat in pulpit with Rev. Samuel Danforth.
+2 CONT SELECTMAN: 28 years (1687-1701, 1703-1709, 1711-1716).
+2 CONT GENERAL COURT: Member 5 years (1704, 1713, 1715, 1716, 1717).
+2 CONT MILITARY: First captain of Second Military Company (before 1703); retained command until 1714.
+2 CONT PROPERTY: Large estate including farm "Crooked Meadow" at Burt's Brook.
+2 CONT WILL (17 Sep 1717): Sons William, John, Joseph, Henry, Benjamin, Ephraim (executor). Wife Esther. Daughters Mary Keith, Esther Southworth, Charity Leonard, Elizabeth Hodges, Abigail Hodges.
+
+0 @I203@ INDI
+1 NAME Henry /Andrews/
+1 TITL Sr.
+2 GIVN Henry
+2 SURN Andrews
+1 SEX M
+1 BIRT
+2 DATE ABT 1608
+2 PLAC England
+1 DEAT
+2 DATE BET 13 MAR 1652 AND 10 FEB 1653
+2 PLAC Taunton, Massachusetts
+1 OCCU Farmer, Builder
+1 NOTE Born circa 1608 likely in England. Died between March 13, 1652 (will) and February 10, 1652/53 (probate).
+2 CONT FREEMAN: Listed March 7, 1636 from Cohannet. One of original purchasers of Taunton 1638; admitted one of first 7 freemen December 4.
+2 CONT DEPUTY: To General Court 1639 (first year any chosen), 1642-4, 1647, 1649.
+2 CONT BUILDER: Built first meeting house in Taunton 1647 - paid with land "neck of land" called "calves pasture."
+2 CONT IRON WORKS: One of first stockholders of first Iron Works.
+2 CONT WILL (13 Mar 1652): Wife Mary, children Henry, Mary (wife of William Hodges), Sarah, Abigail, grandson John Hodges.
+2 CONT INVENTORY: £330-16s.
+
+0 @I204@ INDI
+1 NAME Mary /Pool/
+2 GIVN Mary
+2 SURN Pool
+1 SEX F
+1 BIRT
+2 DATE ABT 1611
+2 PLAC Bridgewater, Somerset, England
+1 DEAT
+2 DATE ABT 1655
+2 PLAC Taunton, Massachusetts
+1 NOTE Wife of Henry Andrews Sr. Mother of Mary Andrews who married William Hodges.
+
+0 @I205@ INDI
+1 NAME Mary /Andrews/
+2 GIVN Mary
+2 SURN Andrews
+1 SEX F
+1 BIRT
+2 DATE ABT 1631
+2 PLAC England
+1 DEAT
+2 DATE AFT 1700
+1 OCCU Innholder
+1 NOTE Born circa 1631 probably in England. Died after 1700 (was inn holder in Taunton in 1700).
+2 CONT FIRST MARRIAGE: William Hodges c.1648/49. Settled estate on two sons March 15, 1655.
+2 CONT SECOND MARRIAGE: Peter Pitts c.1655. Six children.
+2 CONT At husband Peter Pitts' death 1692 she was described as "a very antient and infirm woman."
+
+0 @I206@ INDI
+1 NAME William /Hodges/ I
+2 GIVN William
+2 SURN Hodges
+2 NSFX I
+1 SEX M
+1 BIRT
+2 DATE ABT 1624
+2 PLAC Kent, England
+1 CHR
+2 DATE 21 MAR 1624
+2 PLAC East Greenwich, Kent, England
+1 DEAT
+2 DATE 2 APR 1654
+2 PLAC Taunton, Massachusetts
+1 NOTE Baptized March 21, 1624 at East Greenwich, Kent, England. Died April 2, 1654.
+2 CONT NAME VARIANT: "Hedges" in Plymouth Colony records, "Hodges" in Taunton records.
+2 CONT IMMIGRATION: Very likely "William Hedges" on jury at Salem March 27, 1638 (possibly William Hedge of Lynn).
+2 CONT SETTLEMENT: Went to Taunton soon after purchased. On second list of early settlers by Town Clerk John Wilbore.
+2 CONT AUGUST 1643: First certain appearance - list of males able to bear arms (ages 16-60).
+2 CONT FREEMAN: Propounded June 6, 1649; admitted June 5, 1651 (appointed constable same date).
+2 CONT IRON WORKS: Original stockholder first Taunton Iron Works (£20 for whole share).
+2 CONT PROPERTY: "Held considerable property and probably was comparatively young when he died."
+
+0 @I207@ INDI
+1 NAME Peter /Pitts/
+2 GIVN Peter
+2 SURN Pitts
+1 SEX M
+1 DEAT
+2 DATE BET 1692 AND 1693
+2 PLAC Taunton, Massachusetts
+1 NOTE Second husband of Mary Andrews (widow Hodges).
+
+0 @I208@ INDI
+1 NAME Joan /Gallop/
+2 GIVN Joan
+2 SURN Gallop
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1618
+2 PLAC Bridport, Dorset, England
+1 CHR
+2 DATE 20 SEP 1618
+2 PLAC St. Mary's Church, Bridport, Dorset
+1 DEAT
+2 DATE 20 MAR 1691
+2 PLAC Hingham, Plymouth County, Massachusetts
+1 NOTE Daughter of Capt. John Gallop II and Christabell Brushett.
+
+0 @I209@ INDI
+1 NAME Thomas /Joy/
+2 GIVN Thomas
+2 SURN Joy
+1 SEX M
+1 BIRT
+2 DATE 1611
+1 DEAT
+2 DATE 21 OCT 1678
+2 PLAC Hingham, Plymouth County, Massachusetts
+1 OCCU Carpenter, Millwright
+1 NOTE Married Joan Gallop March 1636/7.
+
+0 @I210@ INDI
+1 NAME Samuel /Gallop/
+2 GIVN Samuel
+2 SURN Gallop
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1629
+2 PLAC Bridport, Dorset, England
+1 CHR
+2 DATE 16 AUG 1629
+2 PLAC Bridport, Dorset
+1 DEAT
+2 DATE 1667
+2 PLAC Boston, Massachusetts
+1 NOTE Twin with Nathaniel. Son of Capt. John Gallop II and Christabell Brushett.
+
+0 @I211@ INDI
+1 NAME Mary /Phillips/
+2 GIVN Mary
+2 SURN Phillips
+1 SEX F
+1 NOTE Wife of Samuel Gallop. Married January 20, 1650/51 in Boston.
+
+0 @I212@ INDI
+1 NAME Nathaniel /Gallop/
+2 GIVN Nathaniel
+2 SURN Gallop
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1629
+2 PLAC Bridport, Dorset, England
+1 CHR
+2 DATE 16 AUG 1629
+2 PLAC Bridport, Dorset
+1 DEAT
+2 DATE 1669
+1 NOTE Twin with Samuel. Son of Capt. John Gallop II and Christabell Brushett.
+
+0 @I213@ INDI
+1 NAME Margaret /Eveleth/
+2 GIVN Margaret
+2 SURN Eveleth
+1 SEX F
+1 DEAT
+2 DATE 11 AUG 1698
+2 PLAC Boston, Massachusetts
+1 NOTE Daughter of Sylvester Eveleth. Wife of Nathaniel Gallop. Married June 11, 1652 in Boston.
+
+0 @I214@ INDI
+1 NAME Hannah /Gallup/
+2 GIVN Hannah
+2 SURN Gallup
+1 SEX F
+1 BIRT
+2 DATE 14 SEP 1644
+2 PLAC Boston, Massachusetts
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake. Married Stephen Gifford of Norwich June 18, 1672.
+
+0 @I215@ INDI
+1 NAME John /Gallup/ IV
+2 GIVN John
+2 SURN Gallup
+2 NSFX IV
+1 SEX M
+1 NOTE Son of Capt. John Gallup III and Hannah Lake.
+
+0 @I216@ INDI
+1 NAME Benadam /Gallup/
+2 GIVN Benadam
+2 SURN Gallup
+1 SEX M
+1 BIRT
+2 DATE 1655
+2 PLAC Stonington, Connecticut
+1 NOTE Son of Capt. John Gallup III and Hannah Lake.
+
+0 @I217@ INDI
+1 NAME William /Gallup/
+2 GIVN William
+2 SURN Gallup
+1 SEX M
+1 BIRT
+2 DATE 1658
+1 NOTE Son of Capt. John Gallup III and Hannah Lake.
+
+0 @I218@ INDI
+1 NAME Samuel /Gallup/
+2 GIVN Samuel
+2 SURN Gallup
+1 SEX M
+1 NOTE Son of Capt. John Gallup III and Hannah Lake.
+
+0 @I219@ INDI
+1 NAME Christobel /Gallup/
+2 GIVN Christobel
+2 SURN Gallup
+1 SEX F
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake. Married Peter Crary of Groton December 31, 1677.
+
+0 @I220@ INDI
+1 NAME Elizabeth /Gallup/
+2 GIVN Elizabeth
+2 SURN Gallup
+1 SEX F
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake. Married Henry Stevens of Stonington.
+
+0 @I221@ INDI
+1 NAME Mary /Gallup/
+2 GIVN Mary
+2 SURN Gallup
+1 SEX F
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake. Married John Cole, schoolmaster of Boston.
+
+0 @I222@ INDI
+1 NAME Margaret /Gallup/
+2 GIVN Margaret
+2 SURN Gallup
+1 SEX F
+1 NOTE Daughter of Capt. John Gallup III and Hannah Lake. Married Joseph Culver of Groton.
+
+0 @I223@ INDI
+1 NAME Martha /Lake/
+2 GIVN Martha
+2 SURN Lake
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 1624
+2 PLAC North Benfleet, Essex, England
+1 CHR
+2 DATE 20 JUL 1624
+2 PLAC North Benfleet, Essex
+1 NOTE Daughter of John Lake and Margaret Reade. Sister of Hannah Lake.
+
+0 @I224@ INDI
+1 NAME Thomas /Harris/
+2 GIVN Thomas
+2 SURN Harris
+1 SEX M
+1 RESI
+2 PLAC Ipswich, Massachusetts
+1 NOTE Married Martha Lake November 15, 1647 at Ipswich.
+
+0 @I225@ INDI
+1 NAME Gov. William /Bradford/ III
+1 TITL Gov.
+2 GIVN William
+2 SURN Bradford
+2 NSFX III
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1590
+2 PLAC Austerfield, Yorkshire, England
+1 CHR
+2 DATE 19 MAR 1590
+2 PLAC Austerfield, Yorkshire
+1 DEAT
+2 DATE 9 MAY 1657
+2 PLAC Plymouth, Massachusetts
+1 OCCU Governor of Plymouth Colony
+1 NOTE MAYFLOWER PASSENGER 1620. Governor of Plymouth Colony for approximately 30 years. Author of "Of Plymouth Plantation."
+2 CONT ORPHAN: Father died 1591, mother remarried and died 1597. Raised by uncles.
+2 CONT SEPARATIST: Joined Separatist congregation at Scrooby c.1606 at age 16.
+2 CONT LEIDEN: Fled to Netherlands 1608, lived in Leiden.
+2 CONT MAYFLOWER: Sailed 1620, signed Mayflower Compact.
+2 CONT FIRST WIFE: Dorothy May - drowned from Mayflower at Cape Cod Harbor December 1620.
+2 CONT SECOND WIFE: Alice (Carpenter) Southworth - married August 14, 1623.
+2 CONT Sources: Bradford's History "Of Plymouth Plantation"; MayflowerHistory.com.
+
+0 @I226@ INDI
+1 NAME Dorothy /May/
+2 GIVN Dorothy
+2 SURN May
+1 SEX F
+1 DEAT
+2 DATE DEC 1620
+2 PLAC Cape Cod Harbor, Massachusetts
+1 NOTE First wife of Gov. William Bradford. Drowned from the Mayflower at Cape Cod Harbor. Son John remained in England.
+
+0 @I227@ INDI
+1 NAME Alice /Carpenter/
+2 GIVN Alice
+2 SURN Carpenter
+1 SEX F
+1 BIRT
+2 DATE ABT 1590
+2 PLAC Wrington, Somerset, England
+1 DEAT
+2 DATE 26 MAR 1670
+2 PLAC Plymouth, Massachusetts
+1 NOTE Born circa 1590 in Wrington, Somerset. Died March 26, 1670 in Plymouth age about 80.
+2 CONT FIRST HUSBAND: Edward Southworth (children Thomas, Constant).
+2 CONT SECOND HUSBAND: Gov. William Bradford - married August 14, 1623.
+2 CONT IMMIGRATION: Arrived on ship Anne 1623 with her sons.
+2 CONT DEATH EULOGY (Plymouth Colony Records): "On the 26th day of March, 1670, Mistris Allice Bradford, Seni'r, changed this life for the better, haueing attained to fourscore years of age, or therabouts. Shee was a godly matron, and much loued while shee liued..."
+2 CONT NOTABLE DESCENDANT: President Franklin D. Roosevelt (through first husband).
+
+0 @I228@ INDI
+1 NAME Alexander /Carpenter/
+2 GIVN Alexander
+2 SURN Carpenter
+1 SEX M
+1 BIRT
+2 DATE ABT 1546
+2 PLAC Wrington, Somerset, England
+1 DEAT
+2 DATE 1612
+2 PLAC Wrington, Somerset, England
+1 NOTE Father of Alice Carpenter. Member of "Ancient Brethren" (early Separatist congregation).
+2 CONT MARRIAGE: Priscilla Dillen, 1583 at St. James, Bath, Somerset.
+2 CONT NETHERLANDS: At Amsterdam December 16, 1600 as witness at a marriage. At Leiden by 1611.
+
+0 @I229@ INDI
+1 NAME Priscilla /Dillen/
+2 GIVN Priscilla
+2 SURN Dillen
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1552
+2 PLAC Wrington, Somerset, England
+1 DEAT
+2 DATE ABT 1644
+2 PLAC Wrington, Somerset, England
+1 NOTE Mother of Alice Carpenter. Gov. Bradford noted in 1644 letter that she had recently died.
+
+0 @I230@ INDI
+1 NAME Lt. Gov. William /Bradford/ IV
+1 TITL Lt. Gov.
+2 GIVN William
+2 SURN Bradford
+2 NSFX IV
+1 SEX M
+1 BIRT
+2 DATE 17 JUN 1624
+2 PLAC Plymouth, Massachusetts
+1 DEAT
+2 DATE 20 FEB 1704
+2 PLAC Plymouth, Massachusetts
+1 BURI
+2 PLAC Burial Hill, Plymouth
+1 OCCU Deputy Governor, Military Commander
+1 NOTE Deputy Governor of Plymouth 1682-86 and 1689-91. Commander Plymouth forces in King Philip's War.
+2 CONT MILITARY: Severely wounded at the Great Swamp Fight December 19, 1675.
+2 CONT ANDROS COUNCIL: Served on Sir Edmund Andros' Council 1687 and 1688.
+2 CONT RESIDENCE: Kingston, MA on north side of Jones River.
+2 CONT FIRST WIFE: Alice Richards (1627-1671) - 10 children.
+2 CONT SECOND WIFE: Sarah (Griswold) Wiswall (widow) - son Joseph.
+2 CONT THIRD WIFE: Mary (Wood/Atwood) Holmes (widow) - 4 sons.
+
+0 @I231@ INDI
+1 NAME Alice /Richards/
+2 GIVN Alice
+2 SURN Richards
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1627
+2 PLAC Pitminster, Somerset, England
+1 CHR
+2 DATE 7 APR 1629
+1 DEAT
+2 DATE 12 DEC 1671
+2 PLAC Plymouth, Massachusetts
+1 NOTE First wife of Lt. Gov. William Bradford IV. Daughter of Thomas Richards and Welthian Loring.
+2 CONT MARRIAGE: After April 23, 1650 - "William Bradford deeded land to his son William upon his agreement to marry Allice, dau. of Mr. Thomas Richards of Waymouth."
+
+0 @I232@ INDI
+1 NAME Lt. Joseph /Bradford/
+1 TITL Lt.
+2 GIVN Joseph
+2 SURN Bradford
+1 SEX M
+1 BIRT
+2 DATE 1675
+1 DEAT
+2 DATE 1747
+1 RESI
+2 PLAC Lebanon, Connecticut
+1 NOTE Son of Lt. Gov. William Bradford IV by second wife. Of Lebanon and Montville, Connecticut.
+
+0 @I233@ INDI
+1 NAME Anne /Fitch/
+2 GIVN Anne
+2 SURN Fitch
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 DEAT
+2 DATE 1715
+1 NOTE Daughter of Rev. James Fitch and Abigail Whitfield. First wife of Lt. Joseph Bradford.
+
+0 @I234@ INDI
+1 NAME Irene /Bradford/
+2 GIVN Irene
+2 SURN Bradford
+1 SEX F
+1 BIRT
+2 DATE 8 MAR 1715
+2 PLAC Lebanon, Connecticut
+1 DEAT
+2 DATE 1785
+1 NOTE Twin daughter of Lt. Joseph Bradford and Anne Fitch. Married Jonathan Janes March 18, 1736 at Lebanon, CT.
+
+0 @I235@ INDI
+1 NAME Jonathan /Janes/
+2 GIVN Jonathan
+2 SURN Janes
+1 SEX M
+1 BIRT
+2 DATE 1713
+1 DEAT
+2 DATE AFT 1783
+1 NOTE Son of William Janes and Abigail Loomis. Married Irene Bradford March 18, 1736.
+
+0 @I236@ INDI
+1 NAME William /Janes/
+1 TITL Elder
+2 GIVN William
+2 SURN Janes
+1 SEX M
+1 RESI
+2 PLAC Northfield, Massachusetts
+1 NOTE Elder William Janes of Northfield, Massachusetts. Property documented 1714-1716.
+
+0 @I237@ INDI
+1 NAME Abigail /Loomis/
+2 GIVN Abigail
+2 SURN Loomis
+1 SEX F
+1 NOTE Wife of Elder William Janes. Mother of Jonathan Janes.
+
+0 @F70@ FAM
+1 HUSB @I195@
+1 WIFE @I196@
+1 MARR
+2 DATE 19 JAN 1618
+2 PLAC St. Mary's Church, Bridport, Dorset, England
+1 CHIL @I208@
+1 CHIL @I197@
+1 CHIL @I210@
+1 CHIL @I212@
+1 NOTE Capt. John Gallop II and Christabell Brushett. Children: Joan (1618), John III (1620/21), Samuel (twin 1629), Nathaniel (twin 1629). Also William (d. young), Francis (d. 1625).
+
+0 @F71@ FAM
+1 HUSB @I197@
+1 WIFE @I198@
+1 MARR
+2 DATE 1643
+2 PLAC Boston, Massachusetts
+1 CHIL @I214@
+1 CHIL @I215@
+1 CHIL @I201@
+1 CHIL @I216@
+1 CHIL @I217@
+1 CHIL @I218@
+1 CHIL @I219@
+1 CHIL @I220@
+1 CHIL @I221@
+1 CHIL @I222@
+1 NOTE Capt. John Gallup III and Hannah Lake. Children: Hannah (1644), John IV, Esther (1653), Benadam (1655), William (1658), Samuel, Christobel, Elizabeth, Mary, Margaret.
+
+0 @F72@ FAM
+1 HUSB @I199@
+1 WIFE @I200@
+1 MARR
+2 DATE ABT 1616
+2 PLAC England
+1 CHIL @I198@
+1 CHIL @I223@
+1 NOTE John Lake and Margaret Reade. Children: Hannah (1621, m. John Gallup), Martha (1624, m. Thomas Harris). Also John (1617), Thomas (1618/9), Richard (1620, d. infant), Elizabeth (1623, d. infant), Samuel (1629, d. infant), Elizabeth (1630/1).
+
+0 @F73@ FAM
+1 HUSB @I202@
+1 WIFE @I201@
+1 MARR
+2 DATE 17 DEC 1674
+2 PLAC Taunton, Massachusetts
+1 NOTE Elder Henry Hodges II and Esther Gallup. 11 children: Mary, Esther, William, Charity, John, Henry, Joseph, Benjamin, Ephraim, Elizabeth, Abigail.
+
+0 @F74@ FAM
+1 HUSB @I206@
+1 WIFE @I205@
+1 MARR
+2 DATE ABT 1649
+2 PLAC Taunton, Massachusetts
+1 CHIL @I202@
+1 NOTE William Hodges I and Mary Andrews. Children: John (1650), Henry (1652).
+
+0 @F75@ FAM
+1 HUSB @I207@
+1 WIFE @I205@
+1 MARR
+2 DATE ABT 1655
+2 PLAC Taunton, Massachusetts
+1 NOTE Peter Pitts and Mary Andrews (widow Hodges). Six children.
+
+0 @F76@ FAM
+1 HUSB @I203@
+1 WIFE @I204@
+1 MARR
+2 DATE ABT 1627
+1 CHIL @I205@
+1 NOTE Henry Andrews Sr. and Mary Pool. Children: Henry Jr. (c.1629), Mary (c.1631), Sarah (1644), Abigail (1647).
+
+0 @F77@ FAM
+1 HUSB @I208@
+1 WIFE @I209@
+1 MARR
+2 DATE MAR 1637
+2 PLAC Dorset, England
+1 NOTE Joan Gallop and Thomas Joy. Married March 1636/7 in Dorset, England.
+
+0 @F78@ FAM
+1 HUSB @I210@
+1 WIFE @I211@
+1 MARR
+2 DATE 20 JAN 1651
+2 PLAC Boston, Massachusetts
+1 NOTE Samuel Gallop and Mary Phillips.
+
+0 @F79@ FAM
+1 HUSB @I212@
+1 WIFE @I213@
+1 MARR
+2 DATE 11 JUN 1652
+2 PLAC Boston, Massachusetts
+1 NOTE Nathaniel Gallop and Margaret Eveleth.
+
+0 @F80@ FAM
+1 HUSB @I223@
+1 WIFE @I224@
+1 MARR
+2 DATE 15 NOV 1647
+2 PLAC Ipswich, Massachusetts
+1 NOTE Martha Lake and Thomas Harris.
+
+0 @F81@ FAM
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I238@
+1 NOTE Gov. William Bradford III and Dorothy May. Son John remained in England.
+
+0 @I238@ INDI
+1 NAME John /Bradford/
+2 GIVN John
+2 SURN Bradford
+1 SEX M
+1 NOTE Son of Gov. William Bradford and Dorothy May. Remained in England, came to Plymouth later.
+
+0 @F82@ FAM
+1 HUSB @I225@
+1 WIFE @I227@
+1 MARR
+2 DATE 14 AUG 1623
+2 PLAC Plymouth, Massachusetts
+1 CHIL @I230@
+1 NOTE Gov. William Bradford III and Alice (Carpenter) Southworth. Children: William IV (1624), Mercy (1627), Joseph (1630).
+
+0 @F83@ FAM
+1 HUSB @I228@
+1 WIFE @I229@
+1 MARR
+2 DATE 1583
+2 PLAC St. James, Bath, Somerset, England
+1 CHIL @I227@
+1 NOTE Alexander Carpenter and Priscilla Dillen. Daughters: Juliana, Alice, Bridget, Agnes, Priscilla, Mary.
+
+0 @F84@ FAM
+1 HUSB @I230@
+1 WIFE @I231@
+1 MARR
+2 DATE AFT 23 APR 1650
+2 PLAC Plymouth, Massachusetts
+1 NOTE Lt. Gov. William Bradford IV and Alice Richards. First marriage, 10 children.
+
+0 @F85@ FAM
+1 HUSB @I230@
+1 CHIL @I232@
+1 NOTE Lt. Gov. William Bradford IV second marriage to Sarah (Griswold) Wiswall. Son: Lt. Joseph Bradford.
+
+0 @F86@ FAM
+1 HUSB @I232@
+1 WIFE @I233@
+1 CHIL @I234@
+1 NOTE Lt. Joseph Bradford and Anne Fitch. Children: Joseph Jr. (1699), Anne (1700/01), Abigail (1702), Hannah (1704), James (1706), Mary (1709), Jerusha (1710/11), Mercy (1713), Irene (1715, twin).
+
+0 @F87@ FAM
+1 HUSB @I235@
+1 WIFE @I234@
+1 MARR
+2 DATE 18 MAR 1736
+2 PLAC Lebanon, Connecticut
+1 CHIL @I139@
+1 NOTE Jonathan Janes and Irene Bradford. Daughter: Mary Janes.
+
+0 @F88@ FAM
+1 HUSB @I236@
+1 WIFE @I237@
+1 CHIL @I235@
+1 NOTE Elder William Janes and Abigail Loomis. Son: Jonathan Janes.
+
+0 @F89@ FAM
+1 HUSB @I138@
+1 WIFE @I139@
+1 CHIL @I74@
+1 NOTE Rowland Powell V and Mary Janes. Daughter: Cynthia Powell (1793).
+
+0 TRLR
